@@ -12,7 +12,7 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 # Si vous voulez contribuer à la traduction
 - 1 : Téléchargez les fichiers en appuyant sur le bouton vert **"<> Code"** puis sur **"Download ZIP"**
 - 2 : Décompressez le patch puis modifiez les fichiers du patch avec quoi que ce soit qui puisse ouvrir du texte
-- 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous sevez évidemment crédité)*</sub>
+- 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous serrez évidemment crédité)*</sub>
 
 
 # État de la traduction :
