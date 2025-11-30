@@ -8,9 +8,11 @@ French Translation Of "Z.A.T.O. // I Love the World and Everything In It" , a ga
 - 4 : Ouvrez les fichiers du jeu et allez dans "game" pour y mettre le dossier "tl" du patch
 - 5 : Lancez le jeu, et profitez de la traduction
 
+Si vous voulez retirer le patch, vous devrez enlever le dossier "tl" des fichiers de votre jeu
+
 # État de la traduction :
-- Menus : Presque finie.
-- Intro : Pas commencé
+- Menus : Finie (normalement)
+- Intro : Initialisée.
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
