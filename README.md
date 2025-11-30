@@ -13,3 +13,6 @@ French Translation Of "Z.A.T.O. // I Love the World and Everything In It" , a ga
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
+
+---
+Si vous avez un problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.)
