@@ -2,13 +2,14 @@ French Translation Of "Z.A.T.O. // I Love the World and Everything In It" , a ga
 
 # Tutoriel  :
 - 1 : Installer "Z.A.T.O. // I Love the World and Everything In It" sur [Itch.io](https://nopanamaman.itch.io/z-a-t-o-i-love-the-world-and-everything-in-it) ou sur [Steam](https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/)
-- 2 : Installer ce patch de traduction en appuyant sur le bouton "<> Code" en vert puis "Download ZIP"
-- 3 : Décompressez les fichiers du patch patch
+- 2a : Installer ce patch de traduction en appuyant sur le bouton "<> Code" en vert puis "Download ZIP"
+- 2b : Aller dans "Releases" et télécharger la version voulue sur votre ordinateur
+- 3 : Décompressez les fichiers du patch de traduction
 - 4 : Ouvrez les fichiers du jeu et aller dans "game", ensuite mettez le dossier "tl" du patch dedans
 - 5 : Lancez le jeu, et profitez de la traduction
 
 # État de la traduction :
-- Menus : Boutons principaux traduits.
+- Menus : Presque finie.
 - Intro : Pas commencé
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
