@@ -23,7 +23,7 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 
 ## Problèmes actuels
 
-Je sais que certains ont des problèmes avec le patch vu qu'il ne semble pas marcher. Je ne sais toujours pas la cause mais j'essaye activement de le régler.
+Je sais que certains ont des problèmes avec le patch vu que parfois, il semblerait que le jeu ne veuille pas faire fonctionner le patch. Je ne sais toujours pas la cause mais j'essaye activement de le régler.
 
 ---
 Si vous avez un (autre) problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).

@@ -508,7 +508,7 @@ translate french start_ab6d295d:
 translate french start_0c5f900b:
 
     # a hmm "Huh?"
-    a hmm ""
+    a hmm "Huh?"
 
 # game/script.rpy:210
 translate french start_c01bb290:
