@@ -21,6 +21,9 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 - 2 : Décompressez le patch et modifiez les fichiers du patch présent dans "tl" puis "french" avec quoi que ce soit qui puisse ouvrir du texte
 - 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous serrez évidemment crédité)*</sub>
 
+## Problèmes actuels
+
+Je sais que certains ont des problèmes avec le patch vu qu'il ne semble pas marcher. Je ne sais toujours pas la cause mais j'essaye activement de le régler.
 
 ---
 Si vous avez un problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).
