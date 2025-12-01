@@ -10,223 +10,223 @@ translate french start_2b370c74:
 translate french start_463eb867:
 
     # "To start with, it’s a yellow dwarf."
-    "Pour commencer, c'est une naine jaune."
+    "Pour commencer, c’est une naine jaune."
 
 # game/script.rpy:76
 translate french start_f4fe890b:
 
     # extend " Those constitute for just 7-10%% of all stars in the universe."
-    extend ""
+    extend " Elles constituent tout juste entre 7 et 10 %% de toutes les étoiles dans l'univers."
 
 # game/script.rpy:77
 translate french start_c9aa57f0:
 
     # extend " \nIt's an outlier even among those."
-    extend ""
+    extend "\nC'est un cas particulier même parmi celles-ci."
 
 # game/script.rpy:78
 translate french start_9d40a536:
 
     # "Most yellow dwarves are primarily covered with dark spots."
-    ""
+    "La plupart des naines jaunes sont principalement recouvertes de tâches sombres."
 
 # game/script.rpy:79
 translate french start_447850d4:
 
     # extend " The Sun isn’t."
-    extend ""
+    extend " Le Soleil n’en a pas."
 
 # game/script.rpy:80
 translate french start_3c22fee5:
 
     # "The majority of its surface is bright – in fact, it has three times the number of light spots than it does dark spots."
-    ""
+    "La majorité de sa surface est brillante - en réalité, il y a trois fois plus de tâches claires que de tâches foncées."
 
 # game/script.rpy:81
 translate french start_7d12504d:
 
     # "Sure, its overall brightness index is nothing special."
-    ""
+    "Bien sûr, son indice de luminosité global n’a rien de spécial."
 
 # game/script.rpy:82
 translate french start_e44aabaa:
 
     # extend " You could even call it underwhelming compared to other stars of its type."
-    extend ""
+    extend " Nous pouvons même la qualifier de décevante comparée aux autres étoiles de son type."
 
 # game/script.rpy:83
 translate french start_9ea3fb72:
 
     # "But even so, it works harder than most to shine as bright as it can."
-    ""
+    "Et pourtant, elle travaille plus dure que les autres pour briller aussi fort que possible."
 
 # game/script.rpy:84
 translate french start_38aafcbc:
 
     # extend " And I find that really cute."
-    extend ""
+    extend " Et je trouve ceci\nvraiment mignon."
 
 # game/script.rpy:92
 translate french start_d6911c56:
 
     # "I don’t remember where I read about this."
-    ""
+    "Je ne me souviens pas quand j’ai lu ceci"
 
 # game/script.rpy:93
 translate french start_ce4b1e27:
 
     # extend " Must have been some newspaper from years ago."
-    extend ""
+    extend " Cela devait être il y a quelques années dans un journal."
 
 # game/script.rpy:94
 translate french start_61b68228:
 
     # "But that small piece of trivia still pops in my mind whenever I look up at the morning sky."
-    ""
+    "Mais cette petite anecdote continue de me revenir en tête dès lors que je lève les yeux vers le ciel matinal."
 
 # game/script.rpy:95
 translate french start_362016be:
 
     # "It’s not much of a view, to be honest."
-    ""
+    "Ce n’est pas une vue terrible, pour être honnête"
 
 # game/script.rpy:96
 translate french start_e19da8bc:
 
     # extend " Not much of a sky, not much of a sun."
-    extend ""
+    extend " Ce n’est pas non plus terrible pour un ciel, pour un soleil"
 
 # game/script.rpy:97
 translate french start_a69c39d1:
 
     # extend " I guess that’s the kind of region it is."
-    extend ""
+    extend " Mais je suppose que c’est les conditions de cette région."
 
 # game/script.rpy:98
 translate french start_04d817f8:
 
     # "Some people say the sun is just lazing around in our parts, what with the constant snow."
-    ""
+    "Certaines personnes disent que le soleil paresse dans cette partie du monde vu la neige constante"
 
 # game/script.rpy:99
 translate french start_fa761844:
 
     # "But people that go around saying that, well..."
-    ""
+    "Mais les gens vadrouillent en disant ça, alors…"
 
 # game/script.rpy:100
 translate french start_996e471b:
 
     # extend " \nThey clearly haven’t read that newspaper."
-    extend ""
+    extend " \nIls n’ont clairement pas lu ce journal."
 
 # game/script.rpy:109
 translate french start_a064a290:
 
     # "The more I thought about things like that and the more I learned, the more I realised how incredible everything is."
-    ""
+    "Plus j’ai réfléchi à des choses comme ceci et plus j’ai appris, plus j’ai réalisé à quel point tout est si incroyable."
 
 # game/script.rpy:110
 translate french start_bd6a15bc:
 
     # "I'm not just saying that to mean “amazing”."
-    ""
+    "Je ne dis pas ce mot pour dire que c'est “extraordinaire”."
 
 # game/script.rpy:111
 translate french start_4f18e5d7:
 
     # extend " I mean “improbable”."
-    extend ""
+    extend " Le sens que je recherche, c'est “improbable”."
 
 # game/script.rpy:112
 translate french start_54e10e89:
 
     # "You can't deny the world is full of great coincidences."
-    ""
+    "Tu ne peux pas nier que le monde est rempli de nombreuses coïncidences."
 
 # game/script.rpy:113
 translate french start_f63310dd:
 
     # extend " It's to the point where I've begun to ask myself how much of it we can attribute to pure chance."
-    extend ""
+    extend " C'est à un point où j’ai commencé à me questionner sur à quel point nous pouvons nous attribuer à de la chance pure."
 
 # game/script.rpy:114
 translate french start_cd312a8a:
 
     # "The universe was so kind as to give us both a star and a planet with the perfect conditions for sentient life."
-    ""
+    "L'univers a été si sympa de nous donner une étoile et une planète avec les parfaites conditions pour de la vie sentiente."
 
 # game/script.rpy:115
 translate french start_3e5faf55:
 
     # "Just the slightest fluctuation in the composition of our atmosphere, the size of the globe, or the distance between Earth and the Sun – and none of us, none of the beauty surrounding us, would exist."
-    ""
+    "Juste la plus petite des fluctuation dans la composition de l'atmosphère, la taille du globe, ou la distance entre la Terre et le Soleil - et plus rien de nous et de la beauté qui nous entoure ne pourrait exister."
 
 # game/script.rpy:116
 translate french start_5c45ea35:
 
     # "Some would call it a miracle."
-    ""
+    "Certains pourraient appeller ça un miracle."
 
 # game/script.rpy:117
 translate french start_f664b285:
 
     # extend " And of course, that's a lovely way to put it..."
-    extend ""
+    extend " Et évidemment, c'est une belle manière de la dire…"
 
 # game/script.rpy:118
 translate french start_1ad929b4:
 
     # extend " But isn't that giving the world we're living in too little credit?"
-    extend ""
+    extend " Mais n'est-ce pas donner trop peu de crédit au monde dans lequel on vit?"
 
 # game/script.rpy:128
 translate french start_7d0f6a58:
 
     # "Ah, but it’s not that I subscribe to the anthropic principle or anything!"
-    ""
+    "Ah, mais ce n'est pas que je crois au principe anthropique ou quoi que ce soit d'autre!"
 
 # game/script.rpy:129
 translate french start_7d05f8fa:
 
     # "I'm not so arrogant as to believe the universe exists just for our sake."
-    ""
+    "Je ne suis pas si arrogant de croire que l'univers existe juste pour notre intérêt."
 
 # game/script.rpy:130
 translate french start_de622ee1:
 
     # extend " Or rather, I'm not so sure it exists solely to be observed."
-    extend ""
+    extend " Ou alors, je ne suis pas sûr qu'il existe uniquement pour être observé."
 
 # game/script.rpy:131
 translate french start_a0a5e7e0:
 
     # "When a baby is born, it's not preoccupied with how it is perceived."
-    ""
+    "Quand un bébé naît, il n'est pas préoccupé par comment il est perçu."
 
 # game/script.rpy:132
 translate french start_526fb5ae:
 
     # extend " That conscious need emerges later, as the child develops self-awareness."
-    extend ""
+    extend " Cette conscience a besoin d'émerger plus tard, dès que l'enfant développe une conscience de soi."
 
 # game/script.rpy:133
 translate french start_4d81d390:
 
     # "Until that point, its curiosity is aimed at its surroundings."
-    ""
+    "Jusqu'à ce stade, sa curiosité est ciblée sur tout ce qui l'entoure."
 
 # game/script.rpy:134
 translate french start_f0bda892:
 
     # extend " So if anything, it's the opposite of what the anthropic principle entails."
-    extend ""
+    extend " Alors, si il y a quoi que ce soit, c'est l’opposé même de ce que le principe anthropique implique."
 
 # game/script.rpy:135
 translate french start_d2a60c5c:
 
     # "We're social creatures, so the need to be observed makes sense for our survival."
-    ""
+    "Nous sommes des créatures sociales, alors le besoin d'être observé fait sens avec notre survie."
 
 # game/script.rpy:136
 translate french start_97744645:

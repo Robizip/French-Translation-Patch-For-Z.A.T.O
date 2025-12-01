@@ -240,7 +240,7 @@ translate french strings:
 
     # game/screens.rpy:1071
     old "Rolls forward to later dialogue."
-    new "Passe au dialogue suivant."
+    new "Rolls forward to later dialogue."
 
     # game/screens.rpy:1075
     old "Hides the user interface."
