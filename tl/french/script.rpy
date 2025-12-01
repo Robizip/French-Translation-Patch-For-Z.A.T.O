@@ -22,7 +22,7 @@ translate french start_f4fe890b:
 translate french start_c9aa57f0:
 
     # extend " \nIt's an outlier even among those."
-    extend "\nC'est un cas particulier même parmi celles-ci."
+    extend " \nC'est un cas particulier même parmi celles-ci."
 
 # game/script.rpy:78
 translate french start_9d40a536:
@@ -232,109 +232,109 @@ translate french start_d2a60c5c:
 translate french start_97744645:
 
     # extend " But to say the universe itself shares that priority..."
-    extend ""
+    extend " Mais à dire que l'univers lui-même partage cette priorité…"
 
 # game/script.rpy:137
 translate french start_5611d603:
 
     # extend " It just doesn't make sense to me."
-    extend ""
+    extend " Cela ne fait pas sens pour moi."
 
 # game/script.rpy:146
 translate french start_a20cefa7:
 
     # "..."
-    ""
+    "…"
 
 # game/script.rpy:147
 translate french start_8a2dc954:
 
     # extend "\nAlthough, you can also think about it this way."
-    extend ""
+    extend "\nCependant, tu peux aussi y penser de cette maniêre."
 
 # game/script.rpy:148
 translate french start_0f13e903:
 
     # "A child is curious about the world because it perceives the world as external."
-    ""
+    "Un enfant est curieux du monde car il le perçoit comme externe."
 
 # game/script.rpy:149
 translate french start_796416ff:
 
     # extend " But what if the child {i}is{/i} the world?"
-    extend ""
+    extend " Mais si l'enfant {i}est{/i} le monde?"
 
 # game/script.rpy:150
 translate french start_49cf68d4:
 
     # extend " What if all that it could ever observe existed within itself?"
-    extend ""
+    extend " Et si tout ce qu'il pouvait observer existe en lui-même?"
 
 # game/script.rpy:151
 translate french start_0b00e471:
 
     # "What can the all-encompassing universe be curious about?"
-    ""
+    "De quoi l'univers global pourrait être curieux?"
 
 # game/script.rpy:152
 translate french start_44134584:
 
     # extend " There’s nothing but itself, so nothing but itself!"
-    extend ""
+    extend " Il n'y a rien d'autre que lui même, alors, rien à part lui même!"
 
 # game/script.rpy:153
 translate french start_96d76f07:
 
     # "There’s nothing else to care about in the whole wide world!"
-    ""
+    "Il n'y a rien d'autre dont il faut se préoccuper dans tout le monde entier! "
 
 # game/script.rpy:154
 translate french start_fa127ab0:
 
     # extend " It is the world!"
-    extend ""
+    extend " C'est le monde!"
 
 # game/script.rpy:155
 translate french start_b61bcdc3:
 
     # extend " Duh!"
-    extend ""
+    extend " Évidemment que c'est ça!"
 
 # game/script.rpy:156
 translate french start_0abd53b0:
 
     # "Ah, wait, now this makes perfect sense."
-    ""
+    "Ah, mais attends, cela fait fait parfaitement sens maintenant."
 
 # game/script.rpy:157
 translate french start_551703c4:
 
     # extend " If I put it like that..."
-    extend ""
+    extend " Si je le dis comme ça…"
 
 # game/script.rpy:158
 translate french start_11c3dbf5:
 
     # extend " I guess the universe has no choice but to be self-centered."
-    extend ""
+    extend " Je suppose que l'univers n'a d'autres choix qu'être autocentré."
 
 # game/script.rpy:167
 translate french start_487dc364:
 
     # "Even if this wasn’t the case when it was born..."
-    ""
+    "Même si ce n'était pas son cas quand il était né…"
 
 # game/script.rpy:168
 translate french start_5b403766:
 
     # extend " What if the universe developed a desire to be perceived by others as it matured?"
-    extend ""
+    extend " Et si l'univers avait développé un désir d'être perçu par les autres pendant son développement?"
 
 # game/script.rpy:169
 translate french start_f3ec063f:
 
     # extend " The same way that a child would."
-    extend ""
+    extend " Genre de la même manière qu'un enfant ferait."
 
 # game/script.rpy:170
 translate french start_e3672880:
