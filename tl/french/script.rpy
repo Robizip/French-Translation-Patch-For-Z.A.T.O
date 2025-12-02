@@ -34,13 +34,13 @@ translate french start_463eb867:
 translate french start_f4fe890b:
 
     # extend " Those constitute for just 7-10%% of all stars in the universe."
-    extend " Elles constituent tout juste entre 7 et 10 %% de toutes les étoiles dans l'univers."
+    extend " Elles constituent tout juste entre 7 et 10 %% de toutes les étoiles dans l’univers."
 
 # game/script.rpy:77
 translate french start_c9aa57f0:
 
     # extend " \nIt's an outlier even among those."
-    extend " \nC'est un cas particulier même parmi celles-ci."
+    extend " \nC’est un cas particulier même parmi celles-ci."
 
 # game/script.rpy:78
 translate french start_9d40a536:
@@ -130,7 +130,7 @@ translate french start_04d817f8:
 translate french start_fa761844:
 
     # "But people that go around saying that, well..."
-    "Mais les gens qui n'arrêtent pas de répéter ça, alors..."
+    "Mais les gens qui n’arrêtent pas de répéter ça, alors..."
 
 # game/script.rpy:100
 translate french start_996e471b:
@@ -148,7 +148,7 @@ translate french start_a064a290:
 translate french start_bd6a15bc:
 
     # "I'm not just saying that to mean “amazing”."
-    "Et je ne dis pas ça pour dire que c'est “extraordinaire”."
+    "Et je ne dis pas ça pour dire que c’est “extraordinaire”."
 
 # game/script.rpy:111
 translate french start_4f18e5d7:
@@ -166,19 +166,19 @@ translate french start_54e10e89:
 translate french start_f63310dd:
 
     # extend " It's to the point where I've begun to ask myself how much of it we can attribute to pure chance."
-    extend " Je suis arrivé à un point où j’ai commencé à me demander à quel point nous sommes le résultat de la chance pure."
+    extend " Je suis arrivée à un point où j’ai commencé à me demander à quel point nous sommes le résultat de la chance pure."
 
 # game/script.rpy:114
 translate french start_cd312a8a:
 
     # "The universe was so kind as to give us both a star and a planet with the perfect conditions for sentient life."
-    "L'univers a été si gentil de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
+    "L’univers a été si gentil de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
 
 # game/script.rpy:115
 translate french start_3e5faf55:
 
     # "Just the slightest fluctuation in the composition of our atmosphere, the size of the globe, or the distance between Earth and the Sun – and none of us, none of the beauty surrounding us, would exist."
-    "Juste la plus petite des fluctuations dans la composition de l'atmosphère, la taille du globe, ou la distance entre la Terre et le Soleil - et plus rien de nous et de la beauté qui nous entoure ne pourrait exister."
+    "Juste la plus petite des fluctuations dans la composition de l’atmosphère, la taille du globe, ou la distance entre la Terre et le Soleil - et plus rien de nous et de la beauté qui nous entoure ne pourrait exister."
 
 # game/script.rpy:116
 translate french start_5c45ea35:
@@ -190,72 +190,72 @@ translate french start_5c45ea35:
 translate french start_f664b285:
 
     # extend " And of course, that's a lovely way to put it..."
-    extend " Et évidemment, c'est une belle manière de le dire..."
+    extend " Et évidemment, c’est une belle manière de le dire..."
 
 # game/script.rpy:118
 translate french start_1ad929b4:
 
     # extend " But isn't that giving the world we're living in too little credit?"
-    extend " Mais est-ce que ce n'est pas donner trop peu de crédit au monde dans lequel nous vivons tous?"
+    extend " Mais est-ce que ce n’est pas donner trop peu de crédit au monde dans lequel nous vivons tous?"
 
 # game/script.rpy:128
 translate french start_7d0f6a58:
 
     # "Ah, but it’s not that I subscribe to the anthropic principle or anything!"
-    "Ah, mais ce n'est pas que je crois au principe anthropique ou quoi que ce soit d'autre!"
+    "Ah, mais ce n’est pas que je crois au principe anthropique ou quoi que ce soit d’autre!"
 
 # game/script.rpy:129
 translate french start_7d05f8fa:
 
     # "I'm not so arrogant as to believe the universe exists just for our sake."
-    "Je ne suis pas si arrogant de croire que l'univers existe juste pour notre intérêt."
+    "Je ne suis pas si arrogante de croire que l’univers existe juste pour notre intérêt."
 
 # game/script.rpy:130
 translate french start_de622ee1:
 
     # extend " Or rather, I'm not so sure it exists solely to be observed."
-    extend " Ou alors, je ne suis pas sûr qu'il existe uniquement pour être observé."
+    extend " Ou alors, je ne suis pas sûr qu’il existe uniquement pour être observé."
 
 # game/script.rpy:131
 translate french start_a0a5e7e0:
 
     # "When a baby is born, it's not preoccupied with how it is perceived."
-    "Quand un bébé naît, il n'est pas préoccupé par la manière dont il est perçu."
+    "Quand un bébé naît, il n’est pas préoccupé par la manière dont il est perçu."
 
 # game/script.rpy:132
 translate french start_526fb5ae:
 
     # extend " That conscious need emerges later, as the child develops self-awareness."
-    extend " Cette conscience a besoin d'émerger plus tard, dès que l'enfant développe une conscience de soi."
+    extend " Cette conscience a besoin d’émerger plus tard, dès que l’enfant développe une conscience de soi."
 
 # game/script.rpy:133
 translate french start_4d81d390:
 
     # "Until that point, its curiosity is aimed at its surroundings."
-    "Jusqu'à ce stade, sa curiosité est ciblée sur tout ce qui l'entoure."
+    "Jusqu’à ce stade, sa curiosité est ciblée sur tout ce qui l’entoure."
 
 # game/script.rpy:134
 translate french start_f0bda892:
 
     # extend " So if anything, it's the opposite of what the anthropic principle entails."
-    extend " Alors, si il y a quoi que ce soit, c'est\nl’opposé même de ce que le principe anthropique implique."
+    extend " Alors, si il y a quoi que ce soit, c’est\nl’opposé même de ce que le principe anthropique implique."
 
 # game/script.rpy:135
 translate french start_d2a60c5c:
 
     # "We're social creatures, so the need to be observed makes sense for our survival."
-    "Nous sommes des créatures sociales, alors le besoin d'être observé fait sens avec notre but de survie."
+    "Nous sommes des créatures sociales, alors le besoin d’être observé fait sens avec notre but de survie."
 
 # game/script.rpy:136
 translate french start_97744645:
 
     # extend " But to say the universe itself shares that priority..."
-    extend " Mais\nà dire que l'univers lui-même partage cette priorité..."
+    extend " Mais\nà dire que l’univers lui-même partage cette priorité..."
 
 # game/script.rpy:137
 translate french start_5611d603:
 
-    # extend " It just doesn't make sense to me."
+    # extend " It just doesn’t make sense to me."
     extend " Cela ne fait pas sens pour moi."
 
 # game/script.rpy:146
@@ -280,43 +280,43 @@ translate french start_0f13e903:
 translate french start_796416ff:
 
     # extend " But what if the child {i}is{/i} the world?"
-    extend " Mais si l'enfant {i}est{/i} le monde?"
+    extend " Mais si l’enfant {i}est{/i} le monde?"
 
 # game/script.rpy:150
 translate french start_49cf68d4:
 
     # extend " What if all that it could ever observe existed within itself?"
-    extend " Et si tout ce qu'il pouvait observer existait en lui-même?"
+    extend " Et si tout ce qu’il pouvait observer existait en lui-même?"
 
 # game/script.rpy:151
 translate french start_0b00e471:
 
     # "What can the all-encompassing universe be curious about?"
-    "De quoi l'univers global pourrait être curieux?"
+    "De quoi l’univers global pourrait être curieux?"
 
 # game/script.rpy:152
 translate french start_44134584:
 
     # extend " There’s nothing but itself, so nothing but itself!"
-    extend " Il n'y a rien d'autre que lui même, alors, rien à part lui même!"
+    extend " Il n’y a rien d’autre que lui même, alors, rien à part lui même!"
 
 # game/script.rpy:153
 translate french start_96d76f07:
 
     # "There’s nothing else to care about in the whole wide world!"
-    "Il n'y a rien d'autre dont il faut se préoccuper dans tout le monde entier!"
+    "Il n’y a rien d’autre dont il faut se préoccuper dans tout le monde entier!"
 
 # game/script.rpy:154
 translate french start_fa127ab0:
 
     # extend " It is the world!"
-    extend " C'est le monde!"
+    extend " C’est le monde!"
 
 # game/script.rpy:155
 translate french start_b61bcdc3:
 
     # extend " Duh!"
-    extend " Évidemment que c'est ça!"
+    extend " Évidemment que c’est ça!"
 
 # game/script.rpy:156
 translate french start_0abd53b0:
@@ -334,31 +334,31 @@ translate french start_551703c4:
 translate french start_11c3dbf5:
 
     # extend " I guess the universe has no choice but to be self-centered."
-    extend " Je suppose que l'univers n'a d'autre choix qu'être autocentré."
+    extend " Je suppose que l’univers n’a d’autre choix qu’être autocentré."
 
 # game/script.rpy:167
 translate french start_487dc364:
 
     # "Even if this wasn’t the case when it was born..."
-    "Même si ce n'était pas son cas quand il était né..."
+    "Même si ce n’était pas son cas quand il était né..."
 
 # game/script.rpy:168
 translate french start_5b403766:
 
     # extend " What if the universe developed a desire to be perceived by others as it matured?"
-    extend " Et\nsi l'univers avait développé un désir d'être perçu par les autres pendant sa croissance?"
+    extend " Et\nsi l’univers avait développé un désir d’être perçu par les autres pendant sa croissance?"
 
 # game/script.rpy:169
 translate french start_f3ec063f:
 
     # extend " The same way that a child would."
-    extend " Exactement de la même manière qu'un enfant."
+    extend " Exactement de la même manière qu’un enfant."
 
 # game/script.rpy:170
 translate french start_e3672880:
 
     # "And what do we do when we want others to perceive us a certain way?"
-    "Et que faisons-nous quand nous voulons être perçu par\nles autres d'une manière précise?"
+    "Et que faisons-nous quand nous voulons être perçu par\nles autres d’une manière précise?"
 
 # game/script.rpy:171
 translate french start_fb54e549:
@@ -376,43 +376,43 @@ translate french start_0bff4179:
 translate french start_8e4403d1:
 
     # extend " I think I get it now!"
-    extend " Je pense que j'ai enfin compris!"
+    extend " Je pense que j’ai enfin compris!"
 
 # game/script.rpy:174
 translate french start_5c16fd9e:
 
     # "The universe gradually felt the desire to be seen."
-    "L'univers a progressivement ressenti le besoin d'être\nvu."
+    "L’univers a progressivement ressenti le besoin d’être\nvu."
 
 # game/script.rpy:175
 translate french start_ca4bec69:
 
     # extend " It wanted to be admired, loved and observed, because there’s nothing more a world can do but to observe itself."
-    extend " Il veut être admiré, aimé et observé parce qu'il n'y a rien d'autre qu'un monde puisse faire à part de se regarder soi-même."
+    extend " Il veut être admiré, aimé et observé parce qu’il n’y a rien d’autre qu’un monde puisse faire à part de se regarder soi-même."
 
 # game/script.rpy:176
 translate french start_1d445be1:
 
     # "It’s the best and only pastime there is, as far as the world is concerned."
-    "C'est le meilleur et seul passe-temps qui existe,\nd'aussi loin que le monde puisse être concerné."
+    "C’est le meilleur et seul passe-temps qui existe,\nd’aussi loin que le monde puisse être concerné."
 
 # game/script.rpy:177
 translate french start_a4bba089:
 
     # extend " And if observation is good, more observation is even better!"
-    extend " Et si l'observation c'est bien, encore plus d'observation est mieux!"
+    extend " Et si l’observation c’est bien, encore plus d’observation, c’est encore mieux!"
 
 # game/script.rpy:178
 translate french start_2cc38dd9:
 
     # "Of course, an endless universe can observe itself endlessly."
-    "Évidemment, un univers infini peut s'observer infinimment."
+    "Évidemment, un univers infini peut s’observer infinimment."
 
 # game/script.rpy:179
 translate french start_7bb963bb:
 
     # extend " You can say that its observation value equals infinity."
-    extend " On peut même dire que sa valeur d'observation tend vers l'infini."
+    extend " On peut même dire que sa valeur d’observation est égal à l’infini."
 
 # game/script.rpy:180
 translate french start_1e5eb113:
@@ -430,13 +430,13 @@ translate french start_73988101:
 translate french start_56fdc8de:
 
     # "It’s a value that the universe could never reach as a singular, albeit infinite observer."
-    "C'est une valeur que l'univers ne pourra jamais atteindre seul, bien qu'il soit un observateur infini."
+    "C’est une valeur que l’univers ne pourra jamais atteindre seul, bien qu’il soit un observateur infini."
 
 # game/script.rpy:183
 translate french start_2dcb8741:
 
     # "So it had to create new, finite observers to add to its infinity - it needed to create sentient life."
-    "Alors, il a dû créé de nouveaux observateurs finis pour ajouter à son infinité - C'était nécessaire pour créer la vie sentiente."
+    "Alors, il a dû créé de nouveaux observateurs finis pour ajouter à son infinité - C’était nécessaire pour créer la vie sentiente."
 
 # game/script.rpy:184
 translate french start_f4ba2dd9:
@@ -453,14 +453,14 @@ translate french start_b1edf035:
 # game/script.rpy:186
 translate french start_e7e0f1c3:
 
-    # extend " Now isn't that fun!"
-    extend " Et ça, ce n'est pas amusant!"
+    # extend " Now isn’t that fun!"
+    extend " Et ça, ce n’est pas amusant!"
 
 # game/script.rpy:193
 translate french start_064dcf7d:
 
     # "This vast mighty universe changed itself so meticulously to make new observers possible, it fine-tuned all of its systems so precisely..."
-    "Ce vaste univers puissant s'est changé si méticuleusement pour créer de nouveaux observateurs possibles, il a ajusté si précisémment tous ses systèmes..."
+    "Ce vaste univers puissant s’est changé si méticuleusement pour créer de nouveaux observateurs possibles, il a ajusté si précisémment tous ses systèmes..."
 
 # game/script.rpy:194
 translate french start_da3b7298:
@@ -490,25 +490,25 @@ translate french start_653f65fc:
 translate french start_bed1fd0d:
 
     # extend " That’s cute!"
-    extend " C'est mignon!"
+    extend " C’est mignon!"
 
 # game/script.rpy:199
 translate french start_7de510d0:
 
     # extend " That’s really cute!"
-    extend " C'est vraiment mignon!"
+    extend " C’est vraiment mignon!"
 
 # game/script.rpy:200
 translate french start_f841b73a:
 
     # "Ah, I should’ve expected this."
-    "Ah, j'aurais dû m'y attendre."
+    "Ah, j’aurais dû m’y attendre."
 
 # game/script.rpy:201
 translate french start_6b529fb6:
 
     # extend " I should’ve known the infinite universe would be infinitely cute."
-    extend " J'aurais dû savoir que l'univers infini serait infiniemment mignon."
+    extend " J’aurais dû savoir que l’univers infini serait infiniemment mignon."
 
 # game/script.rpy:202
 translate french start_9bc4357e:
@@ -574,12 +574,12 @@ translate french start_7c571234:
 translate french start_e2f4f09e:
 
     # cb "You saw?"
-    cb "Tu l'as vu?"
+    cb "Tu l’as vu?"
 
 # game/script.rpy:218
 translate french start_cb7d9092:
 
-    # cd "No, but come on! You know her, she's totally-"
+    # cd "No, but come on! You know her, she’s totally-"
     cd "Non, mais enfin! Tu la connais, elle est totalement-"
 
 # game/script.rpy:220
@@ -598,19 +598,19 @@ translate french start_6ca2b227:
 translate french start_eea46458:
 
     # tc "Ira’s parents filed the report yesterday night."
-    tc "Les parents d'Ira ont rempli un rapport hier soir."
+    tc "Les parents d’Ira ont rempli un rapport hier soir."
 
 # game/script.rpy:223
 translate french start_fb764f46:
 
     # extend " They haven’t seen her since she left for school."
-    extend " Ils ne l'ont pas revue depuis qu'elle a quitté l'école hier."
+    extend " Ils ne l’ont pas revue depuis qu’elle a quitté l’école hier."
 
 # game/script.rpy:224
 translate french start_888070b9:
 
     # "Another round of whispers."
-    "D'autres chuchotements se font entendre."
+    "D’autres chuchotements se font entendre."
 
 # game/script.rpy:225
 translate french start_6f89c2df:
@@ -622,25 +622,25 @@ translate french start_6f89c2df:
 translate french start_1ccd3708:
 
     # tc "So if any of you have any information that might help in finding Ira, please report it to the teacher’s office or the police after class."
-    tc "Alors si l'un d'entre vous a des informations pouvant aider à retrouver Ira, merci vous signaler au bureau des proffesseurs ou à la police après les cours."
+    tc "Alors si l’un d’entre vous a des informations pouvant aider à retrouver Ira, merci vous signaler au bureau des professeurs ou à la police après les cours."
 
 # game/script.rpy:227
 translate french start_5268d645:
 
     # extend " That is all."
-    extend " C'est tout."
+    extend " C’est tout."
 
 # game/script.rpy:228
 translate french start_4de175ef:
 
     # extend " Onto the lesson."
-    extend " Commençons la leçon."
+    extend " Commençons le cours."
 
 # game/script.rpy:229
 translate french start_525f00d6:
 
     # "A chair creaks in the back."
-    "Une chaise grince dans l'arrière-plan."
+    "Une chaise grince à l’arrière."
 
 # game/script.rpy:232
 translate french start_e7d41d1b:
@@ -652,7 +652,7 @@ translate french start_e7d41d1b:
 translate french start_73f72e8a:
 
     # extend " You really expect us to just study like normal after hearing that?"
-    extend " Vous vous attendez vraiment à ce que l'on étudie normalement après avoir entendu ça?"
+    extend " Vous vous attendez vraiment à ce que l’on étudie normalement après avoir entendu ça?"
 
 # game/script.rpy:234
 translate french start_6266dd1c:
@@ -664,7 +664,7 @@ translate french start_6266dd1c:
 translate french start_9d36e996:
 
     # cb "Yeah!! We’re shocked, you know."
-    cb "Ouais!! Vous savez, nous sommes vraiment boulversé par çæ."
+    cb "Ouais!! Vous savez, nous sommes vraiment boulversés par ça."
 
 # game/script.rpy:236
 translate french start_6b3cf13a:
@@ -688,13 +688,13 @@ translate french start_f605ade0:
 translate french start_816b2e57:
 
     # "The room fills with repulsive giggles."
-    "La classe se remplit de rires répugnants."
+    "De plus en plus de rires répugnants se firent entendre."
 
 # game/script.rpy:243
 translate french start_38dd56ba:
 
     # tc "Cut it out."
-    tc "Arrêtez tous vos rires."
+    tc "Arrêtez tous de rire."
 
 # game/script.rpy:244
 translate french start_c466a4e5:
@@ -706,7 +706,7 @@ translate french start_c466a4e5:
 translate french start_cb6155f9:
 
     # "The teacher’s voice sounds just as dry as it did when she broke the news."
-    "La voix de la professeure est aussi sèche que lorsqu'elle a annoncé la nouvelle."
+    "La voix de la professeure est aussi sèche que lorsqu’elle a annoncé la nouvelle."
 
 # game/script.rpy:248
 translate french start_6d19de0f:
@@ -724,7 +724,7 @@ translate french start_b1140ae4:
 translate french start_c65dc8d7:
 
     # extend " resolve itself just fine."
-    extend " juste se résoudre assez bien d'elle-même."
+    extend " juste se résoudre assez bien d’elle-même."
 
 # game/script.rpy:251
 translate french start_be6b251f:
@@ -736,19 +736,19 @@ translate french start_be6b251f:
 translate french start_a32fad53:
 
     # tc "If you have anything valuable to say, I’ll be happy to hear it in the office."
-    tc "Si tu as quoi ce soit à dire qui ait de l'importance, je serais heureuse de l'entendre dans le bureau."
+    tc "Si tu as quoi ce soit à dire qui ait de l’importance, je serais heureuse de l’entendre dans le bureau."
 
 # game/script.rpy:253
 translate french start_a3891bef:
 
     # "She puts the chalk down and begins the lesson."
-    "Elle prit la craie et commença la leçon."
+    "Elle prit la craie et commença le cours."
 
 # game/script.rpy:254
 translate french start_8ae2ccb7:
 
     # extend " \nIt’s December 19th."
-    extend " \nOn est le 19 Décembre."
+    extend " \nOn est le 19 décembre."
 
 # game/script.rpy:255
 translate french start_37e2de7a:
@@ -760,265 +760,265 @@ translate french start_37e2de7a:
 translate french start_5ec13ae8:
 
     # g "Disappearance, gimme a break!"
-    g ""
+    g "Oh Disparition, donne-moi juste une pause!"
 
 # game/script.rpy:275
 translate french start_b3b11fb1:
 
-    # extend " Aren't you supposed to wait three days or something?"
-    extend ""
+    # extend " Aren’t you supposed to wait three days or something?"
+    extend " N’es-tu pas supposé attendre trois jours avant de faire un rapport?"
 
 # game/script.rpy:276
 translate french start_a695b413:
 
     # c "That’s a myth."
-    c ""
+    c "C’est une légende."
 
 # game/script.rpy:277
 translate french start_671e5d87:
 
-    # extend " You can file a missing report whenever, 'specially if it’s a kid."
-    extend ""
+    # extend " You can file a missing report whenever, ’specially if it’s a kid."
+    extend " Tu peux faire un rapport de disparition quand tu veux, particulièrement quand c’est un enfant."
 
 # game/script.rpy:281
 translate french start_040b39e1:
 
     # g "Oh yeah?"
-    g ""
+    g "Ah bon?"
 
 # game/script.rpy:282
 translate french start_3a569376:
 
     # extend " Hey, let’s report each other as missing and see who they find first."
-    extend ""
+    extend " Allons tous signaler chaqu’un d’entre nous comme disparu et regardons qui sera trouvé en premier."
 
 # game/script.rpy:283
 translate french start_65a54aad:
 
     # cb "Ha, you're on!"
-    cb ""
+    cb "Allez, c’est parti!"
 
 # game/script.rpy:284
 translate french start_5159b7e5:
 
     # c "No, but seriously... what's with the sudden hubbub?"
-    c ""
+    c "Non, mais plus sérieusement... c’est quoi tout ce vacarme soudain?"
 
 # game/script.rpy:285
 translate french start_bb2145f4:
 
     # extend " So she didn't come home - big deal!"
-    extend ""
+    extend " Elle n’est pas rentrée chez elle - Et donc?"
 
 # game/script.rpy:286
 translate french start_55b4ef9a:
 
     # extend " I thought wandering off was her whole thing."
-    extend ""
+    extend " Je pensais que vagabonder était tout sa personne."
 
 # game/script.rpy:287
 translate french start_0bad426a:
 
     # cb "Right?"
-    cb ""
+    cb "Pas vrai?"
 
 # game/script.rpy:288
 translate french start_dc60a9e2:
 
     # extend " That’s just Grachevskaya for ya."
-    extend ""
+    extend " C’est tout à fait Grachevskaya."
 
 # game/script.rpy:289
 translate french start_e9c48756:
 
     # extend " Bet her parents just want some attention."
-    extend ""
+    extend " Je parie que ses parents veulent juste un peu d’attention."
 
 # game/script.rpy:290
 translate french start_a3918646:
 
     # c "Like they need any more of that."
-    c ""
+    c "Comme s’ils en avaient besoin."
 
 # game/script.rpy:291
 translate french start_3debe6f5:
 
     # cc "I mean, I've heard of some weird cases..."
-    cc ""
+    cc "Je veux dire, j’ai entendu parler de certaines histoires louches..."
 
 # game/script.rpy:294
 translate french start_9ed05acd:
 
     # g "Yeah, never say never, crazy is genetic."
-    g ""
+    g "Ouais, ne jamais dire jamais, la génétique est folle."
 
 # game/script.rpy:296
 translate french start_f9c92c2f:
 
     # extend " You think she’s in some crackhouse now?"
-    extend ""
+    extend " Tu penses qu’elle est actuellement dans une maison à crack?"
 
 # game/script.rpy:297
 translate french start_53d1c7bb:
 
     # cb "Haha, no way."
-    cb ""
+    cb "Haha, aucune chance."
 
 # game/script.rpy:298
 translate french start_7e474871:
 
     # extend " Do we even have any?"
-    extend ""
+    extend " Est-ce que déjà ça existe ici?"
 
 # game/script.rpy:299
 translate french start_01f411a3:
 
     # g "I wish."
-    g ""
+    g "Je le souhaite."
 
 # game/script.rpy:300
 translate french start_490cc6ea:
 
     # extend " At least there’d be something fun to do."
-    extend ""
+    extend " Comme ça, il y aura au moins quelque chose d'amusant à faire."
 
 # game/script.rpy:301
 translate french start_10b2e6a7:
 
     # cb "Hahaha!"
-    cb ""
+    cb "Hahaha!"
 
 # game/script.rpy:302
 translate french start_e6ad011b:
 
     # cc "Honestly..."
-    cc ""
+    cc "Honnêtement..."
 
 # game/script.rpy:303
 translate french start_d67fc9c1:
 
     # c "Hey, hey."
-    c ""
+    c "Attendez, attendez."
 
 # game/script.rpy:304
 translate french start_4d5b4918:
 
     # extend " But she's, like, for sure with the guy, right?"
-    extend ""
+    extend " Peut-être, sans doute, qu’elle est avec le mec, pas vrai?"
 
 # game/script.rpy:308
 translate french start_5e1d4a7c:
 
     # g "The guy?"
-    g ""
+    g "Le mec?"
 
 # game/script.rpy:309
 translate french start_1d154c06:
 
     # c "You don’t know?"
-    c ""
+    c "Tu ne sais pas?"
 
 # game/script.rpy:310
 translate french start_8828e5e0:
 
     # c "Buncha people have seen them together."
-    c ""
+    c "Des gens disent qu’ils les ont vus ensemble."
 
 # game/script.rpy:311
 translate french start_8a9db1aa:
 
     # extend " It’s some older dude, he’s like..."
-    extend ""
+    extend " C'est une sorte de vieux gars, il a genre..."
 
 # game/script.rpy:312
 translate french start_5b5d6b55:
 
     # extend " thirty or something."
-    extend ""
+    extend " trente ans ou quelque chose comme ça."
 
 # game/script.rpy:313
 translate french start_a3160fbe:
 
     # cb "Ew!"
-    cb ""
+    cb "Beurk!"
 
 # game/script.rpy:314
 translate french start_63de225d:
 
     # extend " You serious?"
-    extend ""
+    extend " T’es sérieux?"
 
 # game/script.rpy:315
 translate french start_69893244:
 
     # cc "Yeah, it’s so trashy."
-    cc ""
+    cc "Ouais, c’est si dégueu."
 
 # game/script.rpy:319
 translate french start_62358c71:
 
     # "I slowly walk behind my classmates as we head to the next lesson."
-    ""
+    "Je marche lentement derrière mes camarades de classe pour me diriger au prochain cours."
 
 # game/script.rpy:320
 translate french start_3824adac:
 
     # "It’s irritating."
-    ""
+    "C’est frustrant."
 
 # game/script.rpy:321
 translate french start_f80ca47b:
 
     # extend " Their conversation is ticking me off, I’m not sure why."
-    extend ""
+    extend " Leur conversation m'énerve et je ne sais pas pourquoi."
 
 # game/script.rpy:322
 translate french start_9b061a6f:
 
     # "It’s not as if they aren’t making sense."
-    ""
+    "Ce n’est pas comme si cela faisait un quelconque sens."
 
 # game/script.rpy:323
 translate french start_51b2d3e0:
 
     # extend " It's not unusual for Ira to wander off somewhere on her own."
-    extend ""
+    extend " Ce n'est pas anormale pour Ira de vagabonder quelque part librement à sa guise."
 
 # game/script.rpy:324
 translate french start_cc9965a6:
 
     # extend " I'm not treating this news with any real gravity."
-    extend ""
+    extend " Je pense que je ne traite pas cette nouvelle avec assez de sérieux."
 
 # game/script.rpy:325
 translate french start_3d887658:
 
     # "Really, I'm no better than them."
-    ""
+    "Vraiment, je ne vaux pas mieux qu'eux."
 
 # game/script.rpy:326
 translate french start_eaf89da8:
 
     # extend " There is a trace of worry in my head, but it isn't directed towards Ira."
-    extend ""
+    extend " Il y a une trace d'inquiétude dans ma tête, mais elle n'est pas dirigée vers Ira."
 
 # game/script.rpy:327
 translate french start_3c9e52ee:
 
     # extend " Instead..."
-    extend ""
+    extend " Au lieu de ça..."
 
 # game/script.rpy:328
 translate french start_fa9c199a:
 
     # "When I first heard about her disappearance, the thought that flashed into my mind was rather ugly."
-    ""
+    "Quand j'ai commencé à entendre parler de sa disparition, la première pensée qui m'est passé à l'esprit était assez sale."
 
 # game/script.rpy:335
 translate french start_635f3ec5:
 
     # centered "{i}Now nobody will come to save me."
-    centered ""
+    centered "{i}Maintenent, personne ne viendra me sauver."
 
 # game/script.rpy:345
 translate french start_c83bc301:
@@ -1282,7 +1282,7 @@ translate french start_f0080d7b:
 translate french start_4b0219d0:
 
     # g "Hey, Shubina."
-    g ""
+    g "Hey, Shubina"
 
 # game/script.rpy:408
 translate french start_b10695fa:
