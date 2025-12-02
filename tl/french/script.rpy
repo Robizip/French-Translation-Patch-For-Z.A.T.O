@@ -70,13 +70,13 @@ translate french start_7d12504d:
 translate french start_e44aabaa:
 
     # extend " You could even call it underwhelming compared to other stars of its type."
-    extend " Nous pouvons même la qualifier de décevante comparée aux autres étoiles de son type."
+    extend " Nous pouvons même la qualifier de décevante comparée aux autres étoiles de son genre."
 
 # game/script.rpy:83
 translate french start_9ea3fb72:
 
     # "But even so, it works harder than most to shine as bright as it can."
-    "Et pourtant, elle travaille plus dure que les autres pour briller aussi fort que possible."
+    "Et pourtant, elle travaille plus dure que les autres pour essayer de briller aussi fort que possible."
 
 # game/script.rpy:84
 translate french start_38aafcbc:
@@ -94,7 +94,7 @@ translate french start_d6911c56:
 translate french start_ce4b1e27:
 
     # extend " Must have been some newspaper from years ago."
-    extend " Cela devait être il y a quelques années dans un journal."
+    extend " Mais cela devait être dans un journal datant de quelques années."
 
 # game/script.rpy:94
 translate french start_61b68228:
@@ -106,7 +106,7 @@ translate french start_61b68228:
 translate french start_362016be:
 
     # "It’s not much of a view, to be honest."
-    "Ce n’est pas une vue terrible, pour être honnête."
+    "Pour être honnête, ce n’est pas une vue terrible."
 
 # game/script.rpy:96
 translate french start_e19da8bc:
@@ -142,7 +142,7 @@ translate french start_996e471b:
 translate french start_a064a290:
 
     # "The more I thought about things like that and the more I learned, the more I realised how incredible everything is."
-    "Dès lors que j’ai commencé à réfléchir à des choses comme ça, plus j’ai appris, et plus j’ai réalisé à quel point tout est si incroyable."
+    "Dès lors que j’ai commencé à réfléchir sur des choses comme ça, plus j’ai appris, et plus j’ai réalisé à quel point tout est si incroyable."
 
 # game/script.rpy:110
 translate french start_bd6a15bc:
@@ -160,7 +160,7 @@ translate french start_4f18e5d7:
 translate french start_54e10e89:
 
     # "You can't deny the world is full of great coincidences."
-    "Tu ne peux pas nier que ce monde est rempli de nombreuses coïncidences."
+    "Tu ne peux pas nier que ce monde est rempli de nombreuses coïncidences géniales."
 
 # game/script.rpy:113
 translate french start_f63310dd:
@@ -172,7 +172,7 @@ translate french start_f63310dd:
 translate french start_cd312a8a:
 
     # "The universe was so kind as to give us both a star and a planet with the perfect conditions for sentient life."
-    "L’univers a été si gentil de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
+    "L’univers a été si aimable de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
 
 # game/script.rpy:115
 translate french start_3e5faf55:
@@ -190,7 +190,7 @@ translate french start_5c45ea35:
 translate french start_f664b285:
 
     # extend " And of course, that's a lovely way to put it..."
-    extend " Et évidemment, c’est une belle manière de le dire..."
+    extend " Et évidemment, c’est une très belle manière de le dire..."
 
 # game/script.rpy:118
 translate french start_1ad929b4:
@@ -208,19 +208,19 @@ translate french start_7d0f6a58:
 translate french start_7d05f8fa:
 
     # "I'm not so arrogant as to believe the universe exists just for our sake."
-    "Je ne suis pas si arrogante de croire que l’univers existe juste pour notre intérêt."
+    "Je ne suis pas si arrogante de croire que l’univers existe juste pour notre propre intérêt."
 
 # game/script.rpy:130
 translate french start_de622ee1:
 
     # extend " Or rather, I'm not so sure it exists solely to be observed."
-    extend " Ou alors, je ne suis pas sûr qu’il existe uniquement pour être observé."
+    extend " Ou alors, je ne suis pas sûre qu’il existe uniquement pour être observé."
 
 # game/script.rpy:131
 translate french start_a0a5e7e0:
 
     # "When a baby is born, it's not preoccupied with how it is perceived."
-    "Quand un bébé naît, il n’est pas préoccupé par la manière dont il est perçu."
+    "Quand un bébé naît, il n’est pas préoccupé par la manière dont il est perçu par les autres."
 
 # game/script.rpy:132
 translate french start_526fb5ae:
@@ -238,7 +238,7 @@ translate french start_4d81d390:
 translate french start_f0bda892:
 
     # extend " So if anything, it's the opposite of what the anthropic principle entails."
-    extend " Alors, si il y a quoi que ce soit, c’est\nl’opposé même de ce que le principe anthropique implique."
+    extend " Alors, s’il y a quoi que ce soit, c’est\nl’opposé même de ce que le principe anthropique implique."
 
 # game/script.rpy:135
 translate french start_d2a60c5c:
@@ -292,37 +292,37 @@ translate french start_49cf68d4:
 translate french start_0b00e471:
 
     # "What can the all-encompassing universe be curious about?"
-    "De quoi l’univers global pourrait être curieux?"
+    "De quoi l’univers dans sa globalité pourrait être curieux?"
 
 # game/script.rpy:152
 translate french start_44134584:
 
     # extend " There’s nothing but itself, so nothing but itself!"
-    extend " Il n’y a rien d’autre que lui même, alors, rien à part lui même!"
+    extend " Vu qu’il n’y a rien d’autre que lui même, alors, rien d'autre que lui même!"
 
 # game/script.rpy:153
 translate french start_96d76f07:
 
     # "There’s nothing else to care about in the whole wide world!"
-    "Il n’y a rien d’autre dont il faut se préoccuper dans tout le monde entier!"
+    "Il n’y a rien qui puisse assez compter dans tout le monde entier!"
 
 # game/script.rpy:154
 translate french start_fa127ab0:
 
     # extend " It is the world!"
-    extend " C’est le monde!"
+    extend " Vu que c’est le monde!"
 
 # game/script.rpy:155
 translate french start_b61bcdc3:
 
     # extend " Duh!"
-    extend " Évidemment que c’est ça!"
+    extend " Évidemment!"
 
 # game/script.rpy:156
 translate french start_0abd53b0:
 
     # "Ah, wait, now this makes perfect sense."
-    "Ah, mais attends, cela fait fait parfaitement sens maintenant."
+    "Ah, mais attends, ça fait parfaitement sens maintenant."
 
 # game/script.rpy:157
 translate french start_551703c4:
@@ -1012,7 +1012,7 @@ translate french start_3c9e52ee:
 translate french start_fa9c199a:
 
     # "When I first heard about her disappearance, the thought that flashed into my mind was rather ugly."
-    "Quand j'ai commencé à entendre parler de sa disparition, la première pensée qui m'est passé à l'esprit était assez sale."
+    "Quand j'ai commencé à entendre parler de sa disparition, la première pensée qui m'est venu à l'esprit était assez sale."
 
 # game/script.rpy:335
 translate french start_635f3ec5:
@@ -1024,55 +1024,55 @@ translate french start_635f3ec5:
 translate french start_c83bc301:
 
     # "Gross."
-    ""
+    "Répugnant."
 
 # game/script.rpy:346
 translate french start_fa652857:
 
     # "But regardless of what people are saying..."
-    ""
+    "Malgré ce que les gens disent..."
 
 # game/script.rpy:347
 translate french start_e96842fe:
 
     # extend " and regardless of what I personally think, that's still a missing person."
-    extend ""
+    extend " et en dépit de ce que je pense personnellement, ça reste une personne disparue."
 
 # game/script.rpy:348
 translate french start_d38688df:
 
     # "Her poor parents must be so worried."
-    ""
+    "Ses pauvres parents doivent être si inquiets."
 
 # game/script.rpy:349
 translate french start_1c85b8ef:
 
     # extend " Just picturing it makes me feel glum."
-    extend ""
+    extend " Et juste à me les visualiser me chagrine."
 
 # game/script.rpy:350
 translate french start_767f1dc3:
 
     # "I'm not surprised Ira would just run off somewhere without telling anybody, but still..."
-    ""
+    "Je ne serais pas surprise qu'Ira se serait juste enfuie sans le dire à personne, mais pourtant..."
 
 # game/script.rpy:351
 translate french start_6dd545f9:
 
     # extend " still..."
-    extend ""
+    extend " pourtant..."
 
 # game/script.rpy:358
 translate french start_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:359
 translate french start_cd657ead:
 
     # "It's not like we’ve ever been friends."
-    ""
+    "Ce n'est pas comme si nous étions déjà amis."
 
 # game/script.rpy:360
 translate french start_4bffa3ff:
@@ -1282,13 +1282,13 @@ translate french start_f0080d7b:
 translate french start_4b0219d0:
 
     # g "Hey, Shubina."
-    g "Hey, Shubina"
+    g "Hey, Shubina."
 
 # game/script.rpy:408
 translate french start_b10695fa:
 
     # a neutral "Ah?"
-    a neutral ""
+    a neutral "Ah?"
 
 # game/script.rpy:411
 translate french start_499774a2:
