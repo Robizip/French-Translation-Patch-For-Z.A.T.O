@@ -712,19 +712,19 @@ translate french start_cb6155f9:
 translate french start_6d19de0f:
 
     # extend " She turns towards the blackboard to write down the date."
-    extend ""
+    extend " Elle se tourne vers le tableau noir pour écrire la date du jour."
 
 # game/script.rpy:249
 translate french start_b1140ae4:
 
     # tc "We all know the situation will probably..."
-    tc ""
+    tc "Nous savons tous que cette situation va probablement..."
 
 # game/script.rpy:250
 translate french start_c65dc8d7:
 
     # extend " resolve itself just fine."
-    extend ""
+    extend " se résoudre bien d'elle-même."
 
 # game/script.rpy:251
 translate french start_be6b251f:
