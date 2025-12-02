@@ -610,7 +610,7 @@ translate french start_fb764f46:
 translate french start_888070b9:
 
     # "Another round of whispers."
-    "De nouveaux chuchotements se font entendre."
+    "D'autres chuchotements se font entendre."
 
 # game/script.rpy:225
 translate french start_6f89c2df:
