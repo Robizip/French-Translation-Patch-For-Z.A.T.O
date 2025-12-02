@@ -664,7 +664,7 @@ translate french start_6266dd1c:
 translate french start_9d36e996:
 
     # cb "Yeah!! We’re shocked, you know."
-    cb "Ouais!! Vous savez, nous sommes vraiment boulversé."
+    cb "Ouais!! Vous savez, nous sommes vraiment boulversé par çæ."
 
 # game/script.rpy:236
 translate french start_6b3cf13a:
