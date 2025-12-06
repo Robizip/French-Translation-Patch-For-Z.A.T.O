@@ -50,7 +50,7 @@
 
     # game/screens.rpy:349
     old "TITLE"
-    new "TITRE"
+    new "ÉCRAN TITRE"
 
     # game/screens.rpy:353
     old "CREDITS"
