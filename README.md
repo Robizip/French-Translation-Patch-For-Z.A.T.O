@@ -16,6 +16,8 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 - 4 : Open your game files and paste the folder "tl" from the patch in "game" folder.
 - 5 : Launch the game and enjoy the game with this french translation. 
 
+If you want to unintall the patch, you must delete the "tl" folder from your game files.
+
 <br><br>
 
 # État de la traduction :
