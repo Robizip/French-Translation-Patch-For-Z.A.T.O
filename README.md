@@ -25,6 +25,8 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 - Épisode 2 : 0%
 - Épisode 3 : 0%
 
+<br><br>
+
 ## Comment contribuer au patch?
 - 1 : Téléchargez les fichiers les plus récent en appuyant sur le bouton vert **"<> Code"** puis sur **"Download ZIP"**.
 - 2 : Décompressez le patch et modifiez les fichiers du patch présent dans "french" avec quoi que ce soit qui puisse ouvrir du texte.
