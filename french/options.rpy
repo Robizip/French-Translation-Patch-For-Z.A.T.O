@@ -7,6 +7,3 @@
 init python:
     config.language = "french"
 
-init -1 python:
-    config.console = True
-

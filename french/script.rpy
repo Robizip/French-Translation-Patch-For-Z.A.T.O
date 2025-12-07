@@ -140,7 +140,7 @@ translate french start_996e471b:
 translate french start_a064a290:
 
     # "The more I thought about things like that and the more I learned, the more I realised how incredible everything is."
-    "Dès lors que j’ai commencé à réfléchir sur des choses comme ça, plus j’ai appris, et plus j’ai réalisé à quel point tout est si incroyable."
+    "Plus je réfléchissais à des choses comme ça, plus j’apprenais, et plus je réalisais à quel point tout est si incroyable."
 
 # game/script.rpy:110
 translate french start_bd6a15bc:
@@ -152,7 +152,7 @@ translate french start_bd6a15bc:
 translate french start_4f18e5d7:
 
     # extend " I mean “improbable”."
-    extend " Je dis ça pour dire “improbable”."
+    extend " Je dis ça pour dire que c’est “improbable”."
 
 # game/script.rpy:112
 translate french start_54e10e89:
@@ -170,7 +170,7 @@ translate french start_f63310dd:
 translate french start_cd312a8a:
 
     # "The universe was so kind as to give us both a star and a planet with the perfect conditions for sentient life."
-    "L’univers a été si aimable de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
+    "L’univers a été si gentil de nous donner une étoile et une planète avec les parfaites conditions pour la vie sentiente."
 
 # game/script.rpy:115
 translate french start_3e5faf55:

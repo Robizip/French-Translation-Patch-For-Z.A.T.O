@@ -21,8 +21,8 @@ If you want to unintall the patch, you must delete the "tl" folder from your gam
 <br><br>
 
 # État de la traduction :
-- Menus : ≈ 100%
-- Épisode 0 : ≈ 50%
+- Menus : 100%
+- Épisode 0 : 100%
 - Épisode 1 : 0%
 - Épisode 2 : 0%
 - Épisode 3 : 0%
