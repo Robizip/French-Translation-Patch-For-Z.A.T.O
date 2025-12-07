@@ -2,7 +2,7 @@
 translate french ep1_6b97733b:
 
     # g "Wh-{w=0.3}what the hell is your problem?!"
-    g ""
+    g "Qu-{w=0.3}quel est ton putain de problème?!"
 
 # game/ep1.rpy:36
 translate french ep1_2e9c6fd9:
