@@ -338,97 +338,97 @@ translate french ep1_bcb3e65e:
 translate french ep1_64298826:
 
     # extend " Do they not teach her discipline?"
-    extend ""
+    extend " Ne lui ont-ils jamais appris la discipline?"
 
 # game/ep1.rpy:127
 translate french ep1_962a61bf:
 
     # "Do they not understand how fortunate they are?"
-    ""
+    "Réalisent-ils à quel point sont-ils chanceux?"
 
 # game/ep1.rpy:128
 translate french ep1_de52c8fe:
 
     # extend " They’ve been granted so much, yet they can’t do the bare minimum in raising their own child."
-    extend ""
+    extend " Ils ont tant reçus, pourtant, ils ne peuvent même pas faire le strict minimum pour donner une bonne éducation à leur propre enfant."
 
 # game/ep1.rpy:129
 translate french ep1_beae7fd6:
 
     # "Do they really want to be here?"
-    ""
+    "Veulent-ils vraiment être là?"
 
 # game/ep1.rpy:130
 translate french ep1_21508359:
 
     # extend " \nDo {b}we{/b} want them to be here?"
-    extend ""
+    extend "Voulons-{b}nous{/b} vraiment d’eux?"
 
 # game/ep1.rpy:136
 translate french ep1_daa9d67d:
 
     # "I’ve heard a lot of talks like that."
-    ""
+    "J’ai entendu un tas de discussion comme ça."
 
 # game/ep1.rpy:137
 translate french ep1_cb11f830:
 
     # extend " I’ve heard more after Ira threw the chair at Garin."
-    extend ""
+    extend " J’ai entendu plus après qu’Ira ait jeté la chaise sur Garin."
 
 # game/ep1.rpy:138
 translate french ep1_88bbba9c:
 
     # "I didn’t get why."
-    ""
+    "Je ne sais pas pourquoi."
 
 # game/ep1.rpy:139
 translate french ep1_c7758bfd:
 
     # extend " Everyone was just having fun."
-    extend ""
+    extend " Tout le monde s’amusait."
 
 # game/ep1.rpy:140
 translate french ep1_4cab8d0b:
 
     # extend " And it was my fault for bringing the notebook anyway."
-    extend ""
+    extend " Et de toute façon, c’était ma faute d’avoir amené la cahier."
 
 # game/ep1.rpy:141
 translate french ep1_5e6b41bb:
 
     # "I was hoping to write a little in the library once school was done, but my bag slipped and all of the contents scattered on the floor."
-    ""
+    "J’espérais écrire un peu dans la bibliothèque après que l’école soit finie, mais mon sac a glissé et tout son contenu s’est répandu sur le sol."
 
 # game/ep1.rpy:142
 translate french ep1_522328d6:
 
     # "Of course they would get curious about it."
-    ""
+    "Évidemment qu’ils étaient curieux du contenu."
 
 # game/ep1.rpy:143
 translate french ep1_f6259ad8:
 
     # extend " Of course they’d want to read the silly things I wrote."
-    extend ""
+    extend " Évidemment qu’ils voulaient lire les trucs ridicules que j’avais écrit."
 
 # game/ep1.rpy:144
 translate french ep1_ef0cb215:
 
     # "It’s not a big deal, it’s not like I’ve ever taken poetry or drawing very seriously."
-    ""
+    "Ce n’est pas grand chose, ce n’est pas comme si je prenais la poésie ou le dessin au sérieux."
 
 # game/ep1.rpy:145
 translate french ep1_8700cf7b:
 
     # extend " Those are just fun distractions, nothing more."
-    extend ""
+    extend " Ce ne sont que des distractions amusantes, rien de plus."
 
 # game/ep1.rpy:146
 translate french ep1_7194bb2b:
 
     # "If people laugh, well, what’s it matter to me?"
-    ""
+    "Si les personnes rient, hé bien, qu’est-ce que ça peut me faire?"
 
 # game/ep1.rpy:147
 translate french ep1_3b4fbe60:
