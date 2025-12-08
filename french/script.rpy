@@ -20,7 +20,7 @@ define ud = Character("[[ÉTUDIANT B]", color="#ffffff",)
 translate french start_2b370c74:
 
     # "Did you know that our Sun is a very unusual star?"
-    "Est-ce que tu savais que notre Soleil était une étoile inabituelle?"
+    "Est-ce que tu savais que notre Soleil était une étoile très inabituelle?"
 
 # game/script.rpy:75
 translate french start_463eb867:
@@ -2840,7 +2840,7 @@ translate french start_8a4e20ef:
 translate french start_529c3554:
 
     # "Not only did I not know her name like I was supposed to, but now I look like I don't know the first thing about vigilance..."
-    "Non seulement je ne connais pas son nom comme j’aurais dû, mais de plus, j’ai l’air de ne même pas connaître la vigilence."
+    "Non seulement je ne sais pas son nom comme j’aurais dû, mais de plus, j’ai l’air de ne même pas connaître la vigilence."
 
 # game/script.rpy:815
 translate french start_6362ee0a:

@@ -164,133 +164,133 @@ translate french ep1_aa391533:
 translate french ep1_18e937f1:
 
     # extend " Grachevskaya!"
-    extend ""
+    extend " Grachevskaya!"
 
 # game/ep1.rpy:81
 translate french ep1_bd48bcf2:
 
     # extend " What..."
-    extend ""
+    extend " Quoi..."
 
 # game/ep1.rpy:82
 translate french ep1_eea6cc91:
 
     # extend " What do you think you’re doing?!"
-    extend ""
+    extend " Qu’est-ce que tu penses que tu es en train de faire?!"
 
 # game/ep1.rpy:83
 translate french ep1_355ca0f9:
 
     # extend " Your parents will hear about this!"
-    extend ""
+    extend " Tes parents vont en entendre parler!"
 
 # game/ep1.rpy:84
 translate french ep1_aa56e8a6:
 
     # "Her threat falls on deaf ears."
-    ""
+    "Ses menaces tombèrent dans l’oreille d’un sourd."
 
 # game/ep1.rpy:92
 translate french ep1_16bce5ae:
 
     # "Everyone knew Grachevskaya."
-    ""
+    "Tout le monde connaît Grachevskaya."
 
 # game/ep1.rpy:93
 translate french ep1_c35362ec:
 
     # extend " She’s always been like that, I think."
-    extend ""
+    extend " Ella a toujours été comme ça je crois."
 
 # game/ep1.rpy:94
 translate french ep1_1cea8354:
 
     # extend " No, not throwing chairs around..."
-    extend ""
+    extend " Non, pas à jeter des chaises partout..."
 
 # game/ep1.rpy:95
 translate french ep1_90c478a9:
 
     # "Ira had no regard for the rules that everyone's supposed to follow."
-    ""
+    "Ira n’a aucune considération pour les règles que tout le monde est supposé suivre."
 
 # game/ep1.rpy:96
 translate french ep1_c891047b:
 
     # extend " I guess they call someone like her a “problem child”."
-    extend ""
+    extend " Je suppose qu’ils appellent ça un “enfant à problème”."
 
 # game/ep1.rpy:97
 translate french ep1_68edc931:
 
     # "Her parents got a lot of flak for it."
-    ""
+    "Ses parents ont eu beaucoup de remarques à cause de ça."
 
 # game/ep1.rpy:98
 translate french ep1_adf94ca4:
 
     # extend " It’s only normal in a town like ours."
-    extend ""
+    extend " Ce n’est normal que dans une ville comme la nôtre."
 
 # game/ep1.rpy:99
 translate french ep1_93bb92eb:
 
     # extend " Not just because of its small size, but because of its..."
-    extend ""
+    extend " Pas uniquement à cause de sa petite taille, mais aussi pour son..."
 
 # game/ep1.rpy:100
 translate french ep1_14ff4dec:
 
     # extend " let’s say, exclusivity."
-    extend ""
+    extend " dira-t-on, exclusivité."
 
 # game/ep1.rpy:105
 translate french ep1_27d89dc9:
 
     # "Vorkuta-5 prides itself on its virtually nonexistent crime rate."
-    ""
+    "Vorkuta-5 est fière d’avoir un taux de criminalité virtuellement nul."
 
 # game/ep1.rpy:106
 translate french ep1_e01ec2cd:
 
     # extend " That’s the natural consequence of nobody being allowed to enter or exit without a permit."
-    extend ""
+    extend " C’est la conséquence naturelle de le laisser personne entrer ou sortir avec un permis."
 
 # game/ep1.rpy:107
 translate french ep1_2103148e:
 
     # "You’re lucky to be here, to have a salary higher than the national average, to have access to goods people in the neighbouring towns can’t even dream of."
-    ""
+    "Nous sommes chanceux d’être là, d’avoir un salaire plus haut que la moyenne nationale, d’avoir à des biens dont même les gens dans les villes voisines ne peuvent rêver."
 
 # game/ep1.rpy:108
 translate french ep1_df873a0b:
 
     # "Few get afforded such a privilege."
-    ""
+    "Peu de gens ont la chance d'avoir un tel privilège."
 
 # game/ep1.rpy:109
 translate french ep1_f325cc70:
 
     # extend " Last time I checked, our population hasn’t even hit 6000."
-    extend ""
+    extend " La dernière fois que j’ai vérifié, la population dépassait même pas les 6000 personnes."
 
 # game/ep1.rpy:114
 translate french ep1_2c917ff1:
 
     # "So when someone like Ira appears on this tiny society’s radar, she’s not just seen as a delinquent."
-    ""
+    "Alors quand une personne comme Ira se fait remarquer dans ce type de petite société, elle n’est pas seulement vue comme une délinquante."
 
 # game/ep1.rpy:115
 translate french ep1_938f7286:
 
     # extend " She’s a puzzling stain on a community that's meant to be spotless."
-    extend ""
+    extend " Elle est aussi vue comme un problème complexe pour une communauté qui se veut irréprochable."
 
 # game/ep1.rpy:116
 translate french ep1_4c1cd1d2:
 
     # "Like a weed that sprouted in a painstakingly maintained flower garden."
-    ""
+    "Comme une mauvaise herbe ayant poussé dans un parterre de fleur minutieusement entretenu."
 
 # game/ep1.rpy:117
 translate french ep1_bc762b6e:
