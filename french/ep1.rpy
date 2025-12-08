@@ -620,7 +620,7 @@ translate french ep1_e33944e9:
 translate french ep1_1d74b1f4:
 
     # a kya "Waaaaaaaaaaiiiiiiiiiiiiiiiiit!!!"
-    a kya ""
+    a kya "Atttttttttteeeeeeeeeeeeeeeeends!!!"
 
 # game/ep1.rpy:210
 translate french ep1_a9a59dea:
