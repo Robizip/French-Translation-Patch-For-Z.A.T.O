@@ -8,157 +8,157 @@ translate french ep1_6b97733b:
 translate french ep1_2e9c6fd9:
 
     # "Everyone is looking from Ira, to Garin, to the chair that just crashed on the floor next to the boy, barely missing him."
-    ""
+    "Tout le monde regarda Ira, Garin et la chaise qui vient de s’écraser au sol à côté du garçon, le manquant de peu."
 
 # game/ep1.rpy:37
 translate french ep1_ab877295:
 
     # a ehh "Ah-"
-    a ehh ""
+    a ehh "Ah-"
 
 # game/ep1.rpy:38
 translate french ep1_66803ec7:
 
     # extend " Huh?!"
-    extend ""
+    extend " Hein?!"
 
 # game/ep1.rpy:39
 translate french ep1_81f2fdbf:
 
     # c "Grachevskaya, the fuck?!"
-    c ""
+    c "Grachevskaya, qu’est ce que tu fous?"
 
 # game/ep1.rpy:40
 translate french ep1_17104cf6:
 
     # cb "Is she insane..."
-    cb ""
+    cb "Est-elle folle..."
 
 # game/ep1.rpy:41
 translate french ep1_cb340d23:
 
     # cc "Somebody call the teacher!"
-    cc ""
+    cc "Mais que quelqu’un appelle la prof!"
 
 # game/ep1.rpy:48
 translate french ep1_c5ddfbab:
 
     # "Not paying any mind to the commotion that has filled the classroom, Ira storms towards Garin."
-    ""
+    "Sans se préoccuper de l’agitation générale qui règna dans la classe, Ira fonça sur Garin."
 
 # game/ep1.rpy:49
 translate french ep1_9adc6d23:
 
     # extend " Her face is contorted with rage."
-    extend ""
+    extend " Son visage est déformé par la rage."
 
 # game/ep1.rpy:50
 translate french ep1_7a0abdb5:
 
     # "Before he can react, she rips the notepad from his hand and slams it on my desk."
-    ""
+    "Avant qu’il puisse réagir, elle lui arracha le cahier des mains et le jeta sur mon bureau."
 
 # game/ep1.rpy:51
 translate french ep1_2a613135:
 
     # extend " I hastily grab onto it."
-    extend ""
+    extend " Je l’attrapa hâtivement."
 
 # game/ep1.rpy:53
 translate french ep1_852b0288:
 
     # i "Read that again and I’ll kick your teeth in."
-    i ""
+    i "Relis ça encore et je te promet que je vais fracasser tes dents."
 
 # game/ep1.rpy:54
 translate french ep1_4d235e09:
 
     # g "Huh?!"
-    g ""
+    g "Hein?!"
 
 # game/ep1.rpy:55
 translate french ep1_dd23b50b:
 
     # extend " Are you nuts?"
-    extend ""
+    extend " T’est cinglée?"
 
 # game/ep1.rpy:57
 translate french ep1_da9b08a7:
 
     # "Ira doesn’t respond."
-    ""
+    "Ira ne répondit pas."
 
 # game/ep1.rpy:58
 translate french ep1_f3230c3b:
 
     # extend " For a second, she just glares at him, then turns around and stomps back to her desk."
-    extend ""
+    extend " Pendant une seconde, elle ne lui lanca qu’un regard noir avant de lui tourner autour et de retourner à son bureau en tappant des pieds."
 
 # game/ep1.rpy:61
 translate french ep1_0b2e0aaa:
 
     # "The classmates who were caught up in a laughing fit just a moment ago are now watching her in silent bewilderment."
-    ""
+    "Les élèves qui riaient à pleins poumons il y a quelques instants la regardent désormais dans la confusion la plus silencieuse."
 
 # game/ep1.rpy:62
 translate french ep1_857ef135:
 
     # "They scoot out of her way as she retreives her bag, then heads towards the door."
-    ""
+    "Ils s’écartèrent tous de son chemin pendant qu’elle récupère son sac, avant de se diriger vers la porte."
 
 # game/ep1.rpy:66
 translate french ep1_72e94dff:
 
     # g "Crazy bitch!"
-    g ""
+    g "Espèce de sale folle!"
 
 # game/ep1.rpy:67
 translate french ep1_26c66e2c:
 
     # "She ignores him."
-    ""
+    "Elle l’ignora."
 
 # game/ep1.rpy:72
 translate french ep1_fc0254c4:
 
     # tc "Ah!"
-    tc ""
+    tc "Ah!"
 
 # game/ep1.rpy:73
 translate french ep1_6c3692a3:
 
     # extend " Grachevskaya, where are you going?"
-    extend ""
+    extend "Grachevskaya, qu’est-ce que tu es train de faire?"
 
 # game/ep1.rpy:74
 translate french ep1_6f3d4875:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:76
 translate french ep1_84958572:
 
     # "{i}Bump!{/i}" with hpunch
-    "" with hpunch
+    "{i}Paf!{/i}" with hpunch
 
 # game/ep1.rpy:77
 translate french ep1_8d4b471e:
 
     # tc "Hey!"
-    tc ""
+    tc "Hé!"
 
 # game/ep1.rpy:78
 translate french ep1_d4707f56:
 
     # "Ira forcefully pushes past the teacher."
-    ""
+    "Ira poussa la professeure avec force pour passer."
 
 # game/ep1.rpy:79
 translate french ep1_aa391533:
 
     # tc "You-"
-    tc ""
+    tc "Toi-"
 
 # game/ep1.rpy:80
 translate french ep1_18e937f1:
@@ -1160,7 +1160,7 @@ translate french ep1_eef742c6:
 translate french ep1_f9a6b256:
 
     # g "Oh, Shubina."
-    g ""
+    g "Oh, Shubina."
 
 # game/ep1.rpy:357
 translate french ep1_71489467:

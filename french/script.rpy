@@ -20,7 +20,7 @@ define ud = Character("[[ÉTUDIANT B]", color="#ffffff",)
 translate french start_2b370c74:
 
     # "Did you know that our Sun is a very unusual star?"
-    "Savais-tu que notre Soleil était une étoile inabituelle?"
+    "Est-ce que tu savais que notre Soleil était une étoile inabituelle?"
 
 # game/script.rpy:75
 translate french start_463eb867:
@@ -590,7 +590,7 @@ translate french start_5487915c:
 translate french start_6ca2b227:
 
     # "The teacher taps her journal on the desk."
-    "La professeure tape avec son journal sur son bureau."
+    "La professeure tapa avec son journal sur son bureau."
 
 # game/script.rpy:222
 translate french start_eea46458:
@@ -614,7 +614,7 @@ translate french start_888070b9:
 translate french start_6f89c2df:
 
     # extend " The teacher raises her voice."
-    extend " La professeure hausse sa voix."
+    extend " La professeure haussa sa voix."
 
 # game/script.rpy:226
 translate french start_1ccd3708:
@@ -1862,7 +1862,7 @@ translate french start_c4373e5b:
 translate french start_f3a6162c:
 
     # "The teacher says her parents saw her leaving in the morning."
-    "La professeure a dit que ses parents l’ont vu pour la dernière fois dans la matinée."
+    "La prof a dit que ses parents l’ont vu pour la dernière fois dans la matinée."
 
 # game/script.rpy:536
 translate french start_ab902ff7:
@@ -2690,7 +2690,7 @@ translate french start_57db30b4:
 translate french start_8e2e43cb:
 
     # extend " They told us to report to the teachers and all."
-    extend " Ils nous ont dit de tout signaler aux professeurs et tout."
+    extend " Ils nous ont dit de tout signaler aux profs et tout."
 
 # game/script.rpy:779
 translate french start_34178bec:
@@ -2750,7 +2750,7 @@ translate french start_b647b3a3:
 translate french start_84f1f348:
 
     # a neutral "S-so you talked to the teachers already?"
-    a neutral "A–alors, tu as déjà parlé aux professeurs?"
+    a neutral "A–alors, tu as déjà parlé aux profs?"
 
 # game/script.rpy:792
 translate french start_4a471581:
