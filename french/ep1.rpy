@@ -296,43 +296,43 @@ translate french ep1_4c1cd1d2:
 translate french ep1_bc762b6e:
 
     # "Of course, it’s not as if she had appeared out of thin air."
-    ""
+    "Évidemment, ce n’est pas comme si c’était apparu de nulle part."
 
 # game/ep1.rpy:118
 translate french ep1_ea2cd31a:
 
     # extend " It’s all in the family, they say."
-    extend ""
+    extend " C’est de famille qu’ils disent."
 
 # game/ep1.rpy:119
 translate french ep1_c2a61af3:
 
     # extend " The blame falls on the people responsible - that is, on Ira's parents."
-    extend ""
+    extend " La faute retombe sur les personnes responsables - étant dans ce cas, les parents d’Ira."
 
 # game/ep1.rpy:120
 translate french ep1_d3d16a22:
 
     # "And questions begin to arise."
-    ""
+    "Et de là, on peux se poser pleins de question."
 
 # game/ep1.rpy:122
 translate french ep1_bdcb1bdf:
 
     # "Why is Grachevsky's daughter behaving like this?"
-    ""
+    "Pourquoi la fille des Grachevsky est-elle comme ça?"
 
 # game/ep1.rpy:123
 translate french ep1_fe65fd44:
 
     # extend " Is there trouble at home?"
-    extend ""
+    extend " Y-a-t-il des problèmes chez elle?"
 
 # game/ep1.rpy:124
 translate french ep1_bcb3e65e:
 
     # extend " Do they believe this is acceptable?"
-    extend ""
+    extend " Pensent-ils que c’est acceptable?"
 
 # game/ep1.rpy:125
 translate french ep1_64298826:
