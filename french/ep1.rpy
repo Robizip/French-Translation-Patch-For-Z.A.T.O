@@ -428,37 +428,37 @@ translate french ep1_8700cf7b:
 translate french ep1_7194bb2b:
 
     # "If people laugh, well, what’s it matter to me?"
-    "Si les personnes rient, hé bien, qu’est-ce que ça peut me faire?"
+    "Et si les personnes rient, hé bien, qu’est-ce que ça peut me faire?"
 
 # game/ep1.rpy:147
 translate french ep1_3b4fbe60:
 
     # "I couldn’t wrap my head around it."
-    ""
+    "Je n’arrivais pas à comprendre."
 
 # game/ep1.rpy:148
 translate french ep1_3958661a:
 
     # extend " \nI couldn’t, but I still wanted to thank Ira somehow."
-    extend ""
+    extend " \nJe n’y arrivait pas, pourtant, je voulais quand même remercier Ira."
 
 # game/ep1.rpy:155
 translate french ep1_d2c5a97f:
 
     # "She rarely shows up to school."
-    ""
+    "Elle se montre que rarement à l’école."
 
 # game/ep1.rpy:156
 translate french ep1_0d92eaf4:
 
     # extend " And even when she does, she can just leave at random."
-    extend ""
+    extend " Et même quand elle se montre, elle peut juste partir comme ça, aléatoirement."
 
 # game/ep1.rpy:157
 translate french ep1_f4f4b15b:
 
     # "I couldn’t get a hold of her for a long time because of that."
-    ""
+    "Je ne peux pas avoir un contact avec elle trop longtemps à cause de ça"
 
 # game/ep1.rpy:158
 translate french ep1_aadee985:
