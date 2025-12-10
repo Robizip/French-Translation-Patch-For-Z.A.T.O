@@ -458,163 +458,163 @@ translate french ep1_0d92eaf4:
 translate french ep1_f4f4b15b:
 
     # "I couldn’t get a hold of her for a long time because of that."
-    "Je ne peux pas avoir un contact avec elle trop longtemps à cause de ça"
+    "Je ne peux pas avoir un contact avec elle trop longtemps à cause de ça."
 
 # game/ep1.rpy:158
 translate french ep1_aadee985:
 
     # extend " Well, that..."
-    extend ""
+    extend " Et pourtant..."
 
 # game/ep1.rpy:159
 translate french ep1_4d93a811:
 
     # extend " And also I was really scared."
-    extend ""
+    extend " J’avais aussi vraiment peur."
 
 # game/ep1.rpy:160
 translate french ep1_a3f0435a:
 
     # "Ira has never as much as looked at me."
-    ""
+    "Ira ne m’a jamais regardée."
 
 # game/ep1.rpy:161
 translate french ep1_e40e8f11:
 
     # extend " Even when she lashed out at Garin, it was like I weren’t even there."
-    extend ""
+    extend " Et même quand elle s’en est pris à Garin, c’était comme si je n’étais même pas là."
 
 # game/ep1.rpy:166
 translate french ep1_8f9acfae:
 
     # "But two weeks after the incident, it finally happened."
-    ""
+    "Mais deux semaines après l’incident, c’est finalement arrivé."
 
 # game/ep1.rpy:167
 translate french ep1_9e1f2255:
 
     # extend " \nWe crossed paths."
-    extend ""
+    extend " \nNos chemins se sont croisés."
 
 # game/ep1.rpy:169
 translate french ep1_bfd6d03c:
 
     # "I went to the bathroom during some lesson, I think it was Math."
-    ""
+    "J’allais aux toilettes durant un cours qui était, de mémoire, un cours de maths."
 
 # game/ep1.rpy:170
 translate french ep1_1a8aadb1:
 
     # extend " I came in through the door..."
-    extend ""
+    extend " Je passa la porte..."
 
 # game/ep1.rpy:178
 translate french ep1_ccebc692:
 
     # "And there she was, blowing white smoke through the half-open window."
-    ""
+    "Et elle était là, soufflant de la fumée blanche à travers la fenêtre entrouverte."
 
 # game/ep1.rpy:179
 translate french ep1_5ae4b950:
 
     # extend " I didn’t even know she was at school."
-    extend ""
+    extend " Je ne savais même qu’elle était ici à l’école."
 
 # game/ep1.rpy:180
 translate french ep1_3f94b4f3:
 
     # a woah "Oh."
-    a woah ""
+    a woah "Ah."
 
 # game/ep1.rpy:181
 translate french ep1_191200d6:
 
     # extend " Hi..."
-    extend ""
+    extend " Salut..."
 
 # game/ep1.rpy:182
 translate french ep1_5bcabe29:
 
     # "Ira shot me a disinterested look."
-    ""
+    "Ira me fusilla d’un regard désintéressé."
 
 # game/ep1.rpy:186
 translate french ep1_6f3d4875_1:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:187
 translate french ep1_87cff13e:
 
     # extend "Hi."
-    extend ""
+    extend "Salut."
 
 # game/ep1.rpy:188
 translate french ep1_049b3731:
 
     # "I awkwardly scuttled past her to one of the stalls."
-    ""
+    "Je me précipita maladroitement devant elle vers l’une des cabines."
 
 # game/ep1.rpy:195
 translate french ep1_4a526671:
 
     # "After closing the door, I realised I was so nervous, I couldn’t do any of my business."
-    ""
+    "Après avoir fermée la porte, je réalisa à quel point j’étais stressée que je ne pouvais rien faire."
 
 # game/ep1.rpy:196
 translate french ep1_a1f686ee:
 
     # extend " So I just sat there, thinking about how I should approach her."
-    extend ""
+    extend " Alors je me suis assise ici, réfléchissant à comment je devrais l’approcher."
 
 # game/ep1.rpy:197
 translate french ep1_c344d8c8:
 
     # "It’s not like I had some long conversation or formalities in mind."
-    ""
+    "Ce n’est pas comme si une longue conversation ou des formalités."
 
 # game/ep1.rpy:198
 translate french ep1_bd3eb92b:
 
     # extend " I just wanted to say thanks – in theory, it should’ve been easy."
-    extend ""
+    extend " Je voudrais juste dire merci – en théorie, ça devrait être facile."
 
 # game/ep1.rpy:199
 translate french ep1_b0139a51:
 
     # "But wouldn’t that make me look like a weirdo, too?"
-    ""
+    "Mais est-ce que ça ne me fera pas aussi passer pour une tordue?"
 
 # game/ep1.rpy:200
 translate french ep1_288f2814:
 
     # extend " Assuming she did all of that for me..."
-    extend ""
+    extend " En supposant tout ce qu’elle a fait pour moi..."
 
 # game/ep1.rpy:201
 translate french ep1_3e18b7e6:
 
     # extend " That would just make me look self-centered."
-    extend ""
+    extend " Ça me fera juste passer pour une égocentrique."
 
 # game/ep1.rpy:203
 translate french ep1_f375c4ee:
 
     # "I had no idea how much time had passed while I was in the stall."
-    ""
+    "Je n’ai aucune idée de combien de temps s’est écoulé depuis que je suis entrée dans cette cabine."
 
 # game/ep1.rpy:204
 translate french ep1_b5837761:
 
     # extend " Maybe five minutes, maybe twenty seconds."
-    extend ""
+    extend " Peut-être cinq minutes, peut-être trente secondes."
 
 # game/ep1.rpy:205
 translate french ep1_e33944e9:
 
     # extend " But when I heard what sounded like her getting off the windowsill, I swung open the door."
-    extend ""
+    extend " Mais quand j’entendis à ce qui ressemblait à elle descendant de son rebord de fenêtre, j’ouvris violemment la porte."
 
 # game/ep1.rpy:208
 translate french ep1_1d74b1f4:
@@ -626,73 +626,73 @@ translate french ep1_1d74b1f4:
 translate french ep1_a9a59dea:
 
     # i "Huh?!"
-    i ""
+    i "Hein?!"
 
 # game/ep1.rpy:211
 translate french ep1_8fdf2fd3:
 
     # a ehh "U-um..."
-    a ehh ""
+    a ehh "U-umm..."
 
 # game/ep1.rpy:213
 translate french ep1_26a4a505:
 
     # "I froze up."
-    ""
+    "Je me figea sur place."
 
 # game/ep1.rpy:214
 translate french ep1_0d6747c0:
 
     # extend " She stood next to the window, bag in hand."
-    extend ""
+    extend " Elle se tint à côté de la fenêtre, sac en main."
 
 # game/ep1.rpy:215
 translate french ep1_bc7237fc:
 
     # extend " The cold draft wafted through her hair."
-    extend ""
+    extend " Le courant d’air froid souffla doucement à travers ses cheveux."
 
 # game/ep1.rpy:216
 translate french ep1_557ad684:
 
     # "I had to say something."
-    ""
+    "J’ai besoin de dire quelque chose."
 
 # game/ep1.rpy:217
 translate french ep1_da471928:
 
     # extend " I got this rare chance, the world gave me this rare chance to tell her what I wanted."
-    extend ""
+    extend " J’ai eu cette chance rare, le monde me l’a donnée pour pouvoir lui dire ce que je voulais."
 
 # game/ep1.rpy:218
 translate french ep1_a7271552:
 
     # "But what am I supposed to say?"
-    ""
+    "Mais comme je suis supposée le dire?"
 
 # game/ep1.rpy:219
 translate french ep1_f68d7a0d:
 
     # extend " “Thank you”?"
-    extend ""
+    extend "“Merci”?"
 
 # game/ep1.rpy:220
 translate french ep1_4c4b1665:
 
     # extend " After I just tumbled out of a toilet stall?"
-    extend ""
+    extend " Après être sorti de cette cabine avec précipitation?"
 
 # game/ep1.rpy:225
 translate french ep1_fd65c1bc:
 
     # i "...What?"
-    i ""
+    i "...Quoi?"
 
 # game/ep1.rpy:226
 translate french ep1_b4d82be4:
 
     # a awkward "Uh..."
-    a awkward ""
+    a awkward "Euh..."
 
 # game/ep1.rpy:227
 translate french ep1_cf01c19a:
