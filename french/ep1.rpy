@@ -788,7 +788,7 @@ translate french ep1_ba5b4ff8:
 translate french ep1_2959660c:
 
     # extend concern " I thought, \nweren’t you cold like that?"
-    extend concern " Je pensais, est-ce qu’elle n’a pas froid comme ça?"
+    extend concern " Je pensais, est-ce que tu n’as pas froid comme ça?"
 
 # game/ep1.rpy:254
 translate french ep1_f3714d79:
@@ -806,7 +806,7 @@ translate french ep1_a487ae20:
 translate french ep1_0057e4a7:
 
     # i "Not really."
-    i "Pas vraiment"
+    i "Pas vraiment."
 
 # game/ep1.rpy:259
 translate french ep1_159493d0:
@@ -896,7 +896,7 @@ translate french ep1_329c4ffb:
 translate french ep1_d9bf27a7:
 
     # extend " You know, when \nGarin read my stupid poetry."
-    extend " Tu sais, quand Garin a lu ma poésie stupide."
+    extend " Tu sais, quand Garin a lu mon poème stupide."
 
 # game/ep1.rpy:282
 translate french ep1_2203fc52:
@@ -998,7 +998,7 @@ translate french ep1_c029e7b5:
 translate french ep1_2f35bc84:
 
     # extend " \nWhy does this always happen?"
-    extend "Pourquoi ça arrive toujours?"
+    extend " Pourquoi ça arrive toujours?"
 
 # game/ep1.rpy:311
 translate french ep1_1cfd99f3:
@@ -1016,7 +1016,7 @@ translate french ep1_af78d470:
 translate french ep1_327b63b6:
 
     # i "Your poetry isn’t stupid."
-    i "Ta poésie n’est pas stupide."
+    i "Ton poème n’est pas stupide."
 
 # game/ep1.rpy:314
 translate french ep1_7f88bf33:
@@ -2128,13 +2128,13 @@ translate french ep1_c6be7d13:
 translate french ep1_6dbc6e16:
 
     # extend "\n\nHer lashing out at a classmate she found annoying – one who just so happened to make fun of me?"
-    extend "\n\n"
+    extend "\n\nElle a agressé un camarade de classe qu’elle trouvait ennuyant – celui qui, justement, se moquait de moi?"
 
 # game/ep1.rpy:584
 translate french ep1_8d73c7a2:
 
     # extend " Her not joining in?"
-    extend ""
+    extend " Elle ne participant pas?"
 
 # game/ep1.rpy:585
 translate french ep1_02d7c80f:
@@ -2146,13 +2146,13 @@ translate french ep1_02d7c80f:
 translate french ep1_1b516858:
 
     # extend "\n\n\n\nShe didn’t even say that much."
-    extend ""
+    extend "\n\n\n\nElle n’a pas dit grand chose."
 
 # game/ep1.rpy:587
 translate french ep1_b5aff9b5:
 
     # extend " \nShe said they weren’t stupid."
-    extend ""
+    extend " \nElle a juste dit que ce n’était pas stupide."
 
 # game/ep1.rpy:588
 translate french ep1_76b2fe88_1:
@@ -2170,73 +2170,73 @@ translate french ep1_31a5ac68:
 translate french ep1_e872a753:
 
     # a hmm "Hm?"
-    a hmm ""
+    a hmm "Hmm?"
 
 # game/ep1.rpy:600
 translate french ep1_d163fdd6:
 
     # "Three coins clink against my desk."
-    ""
+    "Trois pièces résonnèrent sur mon bureau."
 
 # game/ep1.rpy:601
 translate french ep1_d16c635f:
 
     # extend " \nTwenty..."
-    extend ""
+    extend " \nVingt..."
 
 # game/ep1.rpy:602
 translate french ep1_46e26b81:
 
     # extend " twenty..."
-    extend ""
+    extend " vingt..."
 
 # game/ep1.rpy:603
 translate french ep1_968fa94a:
 
     # extend " ten."
-    extend ""
+    extend " dix."
 
 # game/ep1.rpy:604
 translate french ep1_1661c603:
 
     # "So he remembered...?"
-    ""
+    "Alors, il s’en souvenait?"
 
 # game/ep1.rpy:607
 translate french ep1_de2a96ba:
 
     # g "There."
-    g ""
+    g "Voilà."
 
 # game/ep1.rpy:608
 translate french ep1_b0552ae2:
 
     # extend " Thanks for the unforgettable night."
-    extend ""
+    extend " Merci pour la nuit inoubliable."
 
 # game/ep1.rpy:609
 translate french ep1_734ce82c:
 
     # "Everyone around erupts in snickers."
-    ""
+    "Tout le monde autour ricana."
 
 # game/ep1.rpy:610
 translate french ep1_913fa3f4:
 
     # c "Hey, you’re a cheap deal!"
-    c ""
+    c "Hé, t’es vraiment une fille facile!"
 
 # game/ep1.rpy:611
 translate french ep1_6126db43:
 
     # cb "Ya free later?"
-    cb ""
+    cb "Tu es libre plus tard?"
 
 # game/ep1.rpy:612
 translate french ep1_6eb7108b:
 
     # cc "Nahaha!"
-    cc ""
+    cc "Hahaha!"
 
 # game/ep1.rpy:613
 translate french ep1_94aa7d40:
@@ -2254,25 +2254,25 @@ translate french ep1_1c0c1771:
 translate french ep1_6cb1a5d2:
 
     # extend " Your face is dragging down the class morale."
-    extend ""
+    extend " Ta tête est en train faire chuter le moral de toute la classe."
 
 # game/ep1.rpy:616
 translate french ep1_84bb696d:
 
     # c "Hahahaha, that's right!"
-    c "Hahahaha, c’est vrai!"
+    c "Hahahaha, c’est bien vrai!"
 
 # game/ep1.rpy:617
 translate french ep1_3829c04d:
 
     # cb "You're doing us all a disservice."
-    cb ""
+    cb "Tu nous fais à tous un mauvais service."
 
 # game/ep1.rpy:618
 translate french ep1_912aac6c:
 
     # cc "Think of your classmates for once!"
-    cc ""
+    cc "Pense à tes camarades pour une fois!"
 
 # game/ep1.rpy:619
 translate french ep1_71041adc:
@@ -2290,49 +2290,49 @@ translate french ep1_76b2fe88_2:
 translate french ep1_5a382ef1:
 
     # n "I let myself believe something would change."
-    n ""
+    n "Je me suis laissé croire que quelque chose pourrait changer."
 
 # game/ep1.rpy:633
 translate french ep1_44540093:
 
     # extend "\n\nI thought about it as if I deserved it."
-    extend ""
+    extend "\n\nJe pensais que je le méritais"
 
 # game/ep1.rpy:634
 translate french ep1_b25f478d:
 
     # extend " As if I didn’t have it good enough before."
-    extend ""
+    extend " Comme si je n’étais pas assez bien avant."
 
 # game/ep1.rpy:635
 translate french ep1_43a9056a:
 
     # extend " As if my life had any real problems."
-    extend ""
+    extend " Comme si ma vie avait de réels problèmes."
 
 # game/ep1.rpy:636
 translate french ep1_996d6d34:
 
     # extend "\n\nI was just being greedy, plain and simple."
-    extend ""
+    extend "\n\nJ’étais juste avide, quelconque et simple."
 
 # game/ep1.rpy:637
 translate french ep1_3d558818:
 
     # extend " Getting my hopes up over some silly coincidence..."
-    extend ""
+    extend " Me faire des illusions pour une coïncidence ridicule..."
 
 # game/ep1.rpy:638
 translate french ep1_5a9e5ae0:
 
     # extend " It's all so stupid, I can't help but laugh."
-    extend " C’est si stupide, je ne peux pas aider mais seulement rire."
+    extend " C’est si stupide que je ne peux pas m’empêcher de rire."
 
 # game/ep1.rpy:639
 translate french ep1_9e5f8b5d:
 
     # extend "\n\n\n\nA-{w=0.2}ha-{w=0.2}ha..."
-    extend ""
+    extend "\n\n\n\nHa-{w=0.2}ha-{w=0.2}ha..."
 
 # game/ep1.rpy:640
 translate french ep1_cc2cb860:
@@ -2340,37 +2340,37 @@ translate french ep1_cc2cb860:
     # nvl clear
     # n "But that's okay."
     nvl clear
-    n ""
+    n "Mais ça va."
 
 # game/ep1.rpy:643
 translate french ep1_4260ee97:
 
     # extend " I know better now."
-    extend ""
+    extend " Je sais mieux maintenant."
 
 # game/ep1.rpy:644
 translate french ep1_fdfe6ce5:
 
     # extend "\n\nI was being ridiculous."
-    extend ""
+    extend "\n\nJ’étais ridicule."
 
 # game/ep1.rpy:645
 translate french ep1_4947d65b:
 
     # extend " It's shameful to admit to, but, uh..."
-    extend ""
+    extend " C’est honteux à admettre, mais, euh..."
 
 # game/ep1.rpy:646
 translate french ep1_6cce226f:
 
     # extend " Better late than never, right?"
-    extend ""
+    extend " Mieux vaut tard que jamais, pas vrai?"
 
 # game/ep1.rpy:647
 translate french ep1_a7a28d72:
 
     # extend "\n\n\n\nI got a little too caught up in my own little world."
-    extend ""
+    extend "\n\n\n\nJe me suis laissée un peu trop emportée par mon petit monde."
 
 # game/ep1.rpy:648
 translate french ep1_db47e1c1:
@@ -2378,13 +2378,13 @@ translate french ep1_db47e1c1:
     # nvl clear
     # n "And hey!"
     nvl clear
-    n ""
+    n "Mais hé!"
 
 # game/ep1.rpy:651
 translate french ep1_020bae33:
 
     # extend " Even if they didn't amount to anything, I can still appreciate those little encounters with Ira for what they were: brief, but wonderful moments."
-    extend ""
+    extend " Même si ça n’a mené à rien, je peux toujours apprécier ces petites rencontres avec Ira pour ce qu’elles étaient: des moments brefs mais merveilleux."
 
 # game/ep1.rpy:652
 translate french ep1_49f70221:
