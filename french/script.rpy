@@ -788,7 +788,7 @@ translate french start_040b39e1:
 translate french start_3a569376:
 
     # extend " Hey, let’s report each other as missing and see who they find first."
-    extend " Allons tous signaler chaqu’un d’entre nous comme disparu et regardons qui sera trouvé en premier."
+    extend " Hé, allons tous signaler chaqu’un d’entre nous comme disparu et regardons qui sera trouvé en premier."
 
 # game/script.rpy:283
 translate french start_65a54aad:
@@ -1280,7 +1280,7 @@ translate french start_f0080d7b:
 translate french start_4b0219d0:
 
     # g "Hey, Shubina."
-    g "Hey, Shubina."
+    g "Salut, Shubina."
 
 # game/script.rpy:408
 translate french start_b10695fa:
@@ -2438,7 +2438,7 @@ translate french start_e34d5de2:
 translate french start_ab5a3eda:
 
     # a neutral "Um..."
-    a neutral "Umm..."
+    a neutral "Euuh..."
 
 # game/script.rpy:693
 translate french start_2ddb273a:
@@ -2486,7 +2486,7 @@ translate french start_2eeb52e6:
 translate french start_cb594cfa:
 
     # q "Hey."
-    q "Hey."
+    q "Salut."
 
 # game/script.rpy:715
 translate french start_419d5750:
@@ -2768,7 +2768,7 @@ translate french start_ffb5e2c5:
 translate french start_ffc38752:
 
     # extend " Um."
-    extend " Umm."
+    extend " Euuh."
 
 # game/script.rpy:795
 translate french start_f92bee29:
@@ -2858,7 +2858,7 @@ translate french start_ca18113c:
 translate french start_8b345740:
 
     # a awkward "U-um!"
-    a awkward "E-euh!"
+    a awkward "E-euuh!"
 
 # game/script.rpy:819
 translate french start_ee9d035a:
@@ -2900,7 +2900,7 @@ translate french start_181d97cb:
 translate french start_5136f9e6:
 
     # a troubled "Um..."
-    a troubled "Euh..."
+    a troubled "Euuh..."
 
 # game/script.rpy:832
 translate french start_7136eebd:
@@ -3140,7 +3140,7 @@ translate french start_ad580f97:
 translate french start_5136f9e6_1:
 
     # a troubled "Um..."
-    a troubled "Umm..."
+    a troubled "Euuh..."
 
 # game/script.rpy:893
 translate french start_7b68d4d5:
