@@ -524,19 +524,19 @@ translate french start_ab6d295d:
 translate french start_0c5f900b:
 
     # a hmm "Huh?"
-    a hmm "Huh?"
+    a hmm "Hein?"
 
 # game/script.rpy:210
 translate french start_c01bb290:
 
     # "I look up from my desk."
-    "Je lève les yeux de mon bureau."
+    "Je leva les yeux de mon bureau."
 
 # game/script.rpy:211
 translate french start_9535a023:
 
     # "A low hum runs through the class."
-    "Un léger bourdonnement se fait entendre dans la classe."
+    "Un léger bourdonnement se fit entendre dans la classe."
 
 # game/script.rpy:212
 translate french start_e7874cb1:
@@ -602,13 +602,13 @@ translate french start_eea46458:
 translate french start_fb764f46:
 
     # extend " They haven’t seen her since she left for school."
-    extend " Ils ne l’ont pas revue depuis qu’elle a quitté l’école hier."
+    extend " Ils ne l’ont pas revu depuis qu’elle a quitté l’école hier."
 
 # game/script.rpy:224
 translate french start_888070b9:
 
     # "Another round of whispers."
-    "D’autres chuchotements se font entendre."
+    "D’autres chuchotements se firent entendre."
 
 # game/script.rpy:225
 translate french start_6f89c2df:
@@ -638,7 +638,7 @@ translate french start_4de175ef:
 translate french start_525f00d6:
 
     # "A chair creaks in the back."
-    "Une chaise grince à l’arrière."
+    "Une chaise grinça à l’arrière."
 
 # game/script.rpy:232
 translate french start_e7d41d1b:
@@ -704,13 +704,13 @@ translate french start_c466a4e5:
 translate french start_cb6155f9:
 
     # "The teacher’s voice sounds just as dry as it did when she broke the news."
-    "La voix de la professeure est aussi sèche que lorsqu’elle a annoncé la nouvelle."
+    "La voix de la professeure était aussi sèche que lorsqu’elle a annoncé la nouvelle."
 
 # game/script.rpy:248
 translate french start_6d19de0f:
 
     # extend " She turns towards the blackboard to write down the date."
-    extend " Elle se tourne vers le tableau noir pour écrire la date du jour."
+    extend " Elle se tourna vers le tableau noir pour y écrire la date du jour."
 
 # game/script.rpy:249
 translate french start_b1140ae4:
@@ -728,7 +728,7 @@ translate french start_c65dc8d7:
 translate french start_be6b251f:
 
     # extend " So let’s not act dramatic."
-    extend " Alors, ne soit pas aussi dramatique."
+    extend " Alors, ne soyons pas aussi dramatiques."
 
 # game/script.rpy:252
 translate french start_a32fad53:
@@ -752,7 +752,7 @@ translate french start_8ae2ccb7:
 translate french start_37e2de7a:
 
     # "A bird flies past the window."
-    "Un oiseau passe devant la fenêtre."
+    "Un oiseau passa devant la fenêtre."
 
 # game/script.rpy:274
 translate french start_5ec13ae8:
@@ -788,7 +788,7 @@ translate french start_040b39e1:
 translate french start_3a569376:
 
     # extend " Hey, let’s report each other as missing and see who they find first."
-    extend " Hé, allons tous signaler chaqu’un d’entre nous comme disparu et regardons qui sera trouvé en premier."
+    extend " Hé, allons tous signaler chaqu’un d’entre nous comme disparu et regardons qui sera retrouvé en premier."
 
 # game/script.rpy:283
 translate french start_65a54aad:
@@ -812,7 +812,7 @@ translate french start_bb2145f4:
 translate french start_55b4ef9a:
 
     # extend " I thought wandering off was her whole thing."
-    extend " Je pensais que vagabonder était tout sa personne."
+    extend " Je pensais que vagabonder était tout ce qu’elle est."
 
 # game/script.rpy:287
 translate french start_0bad426a:
@@ -914,7 +914,7 @@ translate french start_5e1d4a7c:
 translate french start_1d154c06:
 
     # c "You don’t know?"
-    c "Tu ne sais pas?"
+    c "Tu sais pas?"
 
 # game/script.rpy:310
 translate french start_8828e5e0:
@@ -1046,7 +1046,7 @@ translate french start_d38688df:
 translate french start_1c85b8ef:
 
     # extend " Just picturing it makes me feel glum."
-    extend " Et juste visualiser cette situation de leur point de vue me chagrine."
+    extend " Rien qu’imaginer ça me chagrine."
 
 # game/script.rpy:350
 translate french start_767f1dc3:
@@ -1730,7 +1730,7 @@ translate french start_9be571f6:
 translate french start_b47731c1:
 
     # "I bite my tongue."
-    "Je me mords la langue."
+    "Je me mordis la langue."
 
 # game/script.rpy:504
 translate french start_d211a252:
@@ -2438,7 +2438,7 @@ translate french start_e34d5de2:
 translate french start_ab5a3eda:
 
     # a neutral "Um..."
-    a neutral "Euuh..."
+    a neutral "Euh..."
 
 # game/script.rpy:693
 translate french start_2ddb273a:
@@ -2768,7 +2768,7 @@ translate french start_ffb5e2c5:
 translate french start_ffc38752:
 
     # extend " Um."
-    extend " Euuh."
+    extend " Euh."
 
 # game/script.rpy:795
 translate french start_f92bee29:
@@ -2858,7 +2858,7 @@ translate french start_ca18113c:
 translate french start_8b345740:
 
     # a awkward "U-um!"
-    a awkward "E-euuh!"
+    a awkward "E-euh!"
 
 # game/script.rpy:819
 translate french start_ee9d035a:
@@ -2900,7 +2900,7 @@ translate french start_181d97cb:
 translate french start_5136f9e6:
 
     # a troubled "Um..."
-    a troubled "Euuh..."
+    a troubled "Euh..."
 
 # game/script.rpy:832
 translate french start_7136eebd:
@@ -3140,7 +3140,7 @@ translate french start_ad580f97:
 translate french start_5136f9e6_1:
 
     # a troubled "Um..."
-    a troubled "Euuh..."
+    a troubled "Euh..."
 
 # game/script.rpy:893
 translate french start_7b68d4d5:
