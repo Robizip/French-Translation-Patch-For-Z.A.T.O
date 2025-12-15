@@ -3524,7 +3524,7 @@ translate french ep1_64d82fef:
 translate french ep1_6e1ddf49:
 
     # extend " Walking and walking, praying and praying."
-    extend " Marchant et marchant, priant et priant"
+    extend " Marchant et marchant, priant et priant."
 
 # game/ep1.rpy:938
 translate french ep1_b22e0954:
@@ -3536,7 +3536,7 @@ translate french ep1_b22e0954:
 translate french ep1_cafca6c5:
 
     # i "Do you assholes ever shut up?"
-    i "Vous fermez jamais vos gueules, bande de trou du cul?"
+    i "Vous fermez jamais vos gueules, bande de connards?"
 
 # game/ep1.rpy:944
 translate french ep1_7543ea61:
@@ -3554,49 +3554,49 @@ translate french ep1_141a302d:
 translate french ep1_17fbee9e:
 
     # "Nobody saw Ira enter the class - everyone was too busy whistling and laughing."
-    ""
+    "Personne ne vit Ira entrer dans la classe - tout le monde était bien trop occupé à siffler et rire."
 
 # game/ep1.rpy:948
 translate french ep1_5ac9ef60:
 
     # extend " Ah..."
-    extend ""
+    extend " Ah..."
 
 # game/ep1.rpy:949
 translate french ep1_a3ff24de:
 
     # extend " And she caught me in a really dumb pose."
-    extend ""
+    extend " Et elle m’a surprise dans une pose vraiment stupide."
 
 # game/ep1.rpy:950
 translate french ep1_4acb5ace:
 
     # extend " Well, that's on me."
-    extend ""
+    extend " Bon, là, c’est de ma faute."
 
 # game/ep1.rpy:951
 translate french ep1_980aa018:
 
     # "I wouldn't have chosen dare if I knew she'd see me like that."
-    ""
+    "Je n’aurais pas choisi action si j’avais su qu’elle me verrait comme ça."
 
 # game/ep1.rpy:952
 translate french ep1_fee48128:
 
     # extend " Though, choosing truth when playing with these guys..."
-    extend ""
+    extend " Cependant, choisir vérité quand je joue avec ces garçons..."
 
 # game/ep1.rpy:953
 translate french ep1_7c06fc14:
 
     # extend " I'm not sure what's worse."
-    extend ""
+    extend " Je ne suis pas sûr de ce qui est le pire."
 
 # game/ep1.rpy:954
 translate french ep1_31eeeb79:
 
     # "Oh well..."
-    ""
+    "Hé bien..."
 
 # game/ep1.rpy:955
 translate french ep1_9b831a49:
@@ -3638,13 +3638,13 @@ translate french ep1_d7baf8e5:
 translate french ep1_6f3d4875_8:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:970
 translate french ep1_04503ae2:
 
     # extend "Move."
-    extend ""
+    extend "Bouge."
 
 # game/ep1.rpy:971
 translate french ep1_aed40c6e:
@@ -3662,13 +3662,13 @@ translate french ep1_a6b7c855:
 translate french ep1_6f3d4875_9:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:974
 translate french ep1_21f845fc:
 
     # g "Come play with us, too."
-    g ""
+    g "Viens aussi jouer avec nous."
 
 # game/ep1.rpy:975
 translate french ep1_e5a4eaab:
@@ -3740,19 +3740,19 @@ translate french ep1_4457f82f:
 translate french ep1_9c31bd84:
 
     # i "Out of my way."
-    i ""
+    i "Hors de mon chemin."
 
 # game/ep1.rpy:994
 translate french ep1_8ff37f4a:
 
     # g "Or what, gonna throw a chair at me?"
-    g ""
+    g "Ou quoi, tu vas me lancer une chaise sinon?"
 
 # game/ep1.rpy:999
 translate french ep1_6f3d4875_11:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1002
 translate french ep1_78f8b736:
@@ -3794,7 +3794,7 @@ translate french ep1_396bd16f:
 translate french ep1_603a9720:
 
     # extend " What ar-{nw}"
-    extend ""
+    extend "{nw}"
 
 # game/ep1.rpy:1015
 translate french ep1_9dc8a6d4:
@@ -4852,7 +4852,7 @@ translate french ep1_0ae31add:
 translate french ep1_7b6d0ece:
 
     # g "Your friend’s not here today."
-    g ""
+    g "Ton amie n’est pas là aujourd’hui."
 
 # game/ep1.rpy:1325
 translate french ep1_bc315f7a:
