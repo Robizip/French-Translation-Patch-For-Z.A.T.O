@@ -3602,37 +3602,37 @@ translate french ep1_31eeeb79:
 translate french ep1_9b831a49:
 
     # extend " I'm saying all this, but I got what was coming to me."
-    extend ""
+    extend " Je dis tout ça, mais j’ai eu ce que je voulais."
 
 # game/ep1.rpy:956
 translate french ep1_4088766b:
 
     # "I chose to embarrass myself, and as I did so, I kept begging, wishing as hard as I could for Ira to appear."
-    ""
+    "J’ai choisi de me ridiculiser moi-même, et pendant que je le faisais, je continuais de supplier, souhaitant aussi fort que possible qu’Ira apparaisse."
 
 # game/ep1.rpy:957
 translate french ep1_4e530631:
 
     # extend " And so she did."
-    extend ""
+    extend " Et elle est apparue."
 
 # game/ep1.rpy:958
 translate french ep1_189a4d06:
 
     # "And now, despite the overwhelming shame, I feel so happy that I might explode."
-    ""
+    " Et maintenant, malgré la honte écrasante, je suis si heureuse que je pourrais exploser."
 
 # game/ep1.rpy:963
 translate french ep1_cb2b8e94:
 
     # "Ira walks to her desk, barely paying me a passing glance."
-    ""
+    "Ira marcha vers son bureau, en me donnant à peine qu’un regard passif."
 
 # game/ep1.rpy:964
 translate french ep1_d7baf8e5:
 
     # extend " All the boys skirt out of her way - only Garin doesn't."
-    extend ""
+    extend " Tous les garçons déguerpirent de son chemin - seul Garin resta."
 
 # game/ep1.rpy:969
 translate french ep1_6f3d4875_8:
@@ -3650,13 +3650,13 @@ translate french ep1_04503ae2:
 translate french ep1_aed40c6e:
 
     # g "Nah."
-    g ""
+    g "Nan."
 
 # game/ep1.rpy:972
 translate french ep1_a6b7c855:
 
     # extend " What’s the rush?"
-    extend ""
+    extend "Pourquoi tant de précipitation?"
 
 # game/ep1.rpy:973
 translate french ep1_6f3d4875_9:
@@ -3674,67 +3674,67 @@ translate french ep1_21f845fc:
 translate french ep1_e5a4eaab:
 
     # c "Huh?!"
-    c ""
+    c "Hein?!"
 
 # game/ep1.rpy:976
 translate french ep1_d07650c5:
 
     # cb "Haha, dude, you serious?"
-    cb ""
+    cb "Haha mec, t’es sérieux?"
 
 # game/ep1.rpy:980
 translate french ep1_6f3d4875_10:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:981
 translate french ep1_3e8950e2:
 
     # g "Come on."
-    g ""
+    g "Allez, viens."
 
 # game/ep1.rpy:982
 translate french ep1_fb093de3:
 
     # extend " Have some fun for a change."
-    extend ""
+    extend " Détends-toi un peu pour changer."
 
 # game/ep1.rpy:983
 translate french ep1_44578518:
 
     # extend " Look, Shubina’s having fun."
-    extend ""
+    extend " Regarde, même Shubina s’amuse."
 
 # game/ep1.rpy:984
 translate french ep1_1fd4b224:
 
     # extend " Right, Shubina?"
-    extend ""
+    extend "Pas vrai, Shubina?"
 
 # game/ep1.rpy:985
 translate french ep1_b13fb8c7:
 
     # "Please, don't look."
-    ""
+    "S’il te plaît, ne me regarde pas."
 
 # game/ep1.rpy:986
 translate french ep1_b44f7202:
 
     # a um "...Yes."
-    a um ""
+    a um "...Oui."
 
 # game/ep1.rpy:987
 translate french ep1_309ea1f0:
 
     # g "See?"
-    g ""
+    g "Tu vois?"
 
 # game/ep1.rpy:988
 translate french ep1_4457f82f:
 
     # "Ira doesn't flinch."
-    ""
+    "Ira ne broncha pas."
 
 # game/ep1.rpy:991
 translate french ep1_9c31bd84:
@@ -3746,7 +3746,7 @@ translate french ep1_9c31bd84:
 translate french ep1_8ff37f4a:
 
     # g "Or what, gonna throw a chair at me?"
-    g "Ou quoi, tu vas me lancer une chaise sinon?"
+    g "Sinon quoi, tu vas me lancer une chaise?"
 
 # game/ep1.rpy:999
 translate french ep1_6f3d4875_11:
@@ -3758,7 +3758,7 @@ translate french ep1_6f3d4875_11:
 translate french ep1_78f8b736:
 
     # "To everyone's surprise, Ira calmly puts her bag on the nearest desk."
-    ""
+    "À la surprise de tout le monde, Ira posa calmement son sac au bureau le plus proche."
 
 # game/ep1.rpy:1003
 translate french ep1_7398e660:
@@ -3782,25 +3782,25 @@ translate french ep1_a7f3c7ea:
 translate french ep1_7a50f834:
 
     # "She looks at him."
-    ""
+    "Elle le regarda."
 
 # game/ep1.rpy:1009
 translate french ep1_396bd16f:
 
     # g "Hm?"
-    g ""
+    g "Hmm?"
 
 # game/ep1.rpy:1010
 translate french ep1_603a9720:
 
     # extend " What ar-{nw}"
-    extend "{nw}"
+    extend "Qu’es-{nw}"
 
 # game/ep1.rpy:1015
 translate french ep1_9dc8a6d4:
 
     # "{i}{cps=0}{size=+5}Swish!{/i}"
-    ""
+    "{/i}{cps=0}{size=+5}Whoosh !{/i}"
 
 # game/ep1.rpy:1016
 translate french ep1_e37fda05:
