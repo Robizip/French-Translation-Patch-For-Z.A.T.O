@@ -530,7 +530,7 @@ translate french start_0c5f900b:
 translate french start_c01bb290:
 
     # "I look up from my desk."
-    "Je leva les yeux de mon bureau."
+    "Je levai les yeux de mon bureau."
 
 # game/script.rpy:211
 translate french start_9535a023:
@@ -956,7 +956,7 @@ translate french start_69893244:
 translate french start_62358c71:
 
     # "I slowly walk behind my classmates as we head to the next lesson."
-    "Je marche lentement derrière mes camarades de classe pour me diriger au prochain cours."
+    "Je marchais lentement derrière mes camarades de classe pour me diriger le prochain cours."
 
 # game/script.rpy:320
 translate french start_3824adac:
@@ -1052,7 +1052,7 @@ translate french start_1c85b8ef:
 translate french start_767f1dc3:
 
     # "I'm not surprised Ira would just run off somewhere without telling anybody, but still..."
-    "Je ne serais pas surprise qu'Ira se serait juste enfuie sans le dire à personne, mais pourtant..."
+    "Je ne serai pas surprise qu'Ira se serait juste enfuie sans le dire à personne, mais pourtant..."
 
 # game/script.rpy:351
 translate french start_6dd545f9:
