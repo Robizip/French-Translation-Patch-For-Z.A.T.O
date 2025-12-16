@@ -3764,19 +3764,19 @@ translate french ep1_78f8b736:
 translate french ep1_7398e660:
 
     # extend " She starts digging through it without saying a word."
-    extend ""
+    extend " Elle commença à le fouiller sans dire un mot."
 
 # game/ep1.rpy:1004
 translate french ep1_ff899a5a:
 
     # "Garin lets out an awkward chuckle."
-    ""
+    "Garin laissa sortir un ??? maladroit."
 
 # game/ep1.rpy:1007
 translate french ep1_a7f3c7ea:
 
     # g "What, got a grenade in there or something?"
-    g ""
+    g "Quoi, tu as une grenade dedans ou quoi?"
 
 # game/ep1.rpy:1008
 translate french ep1_7a50f834:
@@ -3812,7 +3812,7 @@ translate french ep1_e37fda05:
 translate french ep1_80530f53:
 
     # "Garin jumps back, bumping into another student."
-    ""
+    "Garin recula, percutant au passage, un autre étudiant."
 
 # game/ep1.rpy:1022
 translate french ep1_f597f93a:
@@ -3830,13 +3830,13 @@ translate french ep1_16c32e98:
 translate french ep1_2f79dd89:
 
     # extend " What was that?"
-    extend ""
+    extend " Qu’est-ce que c’était ça ?"
 
 # game/ep1.rpy:1025
 translate french ep1_9c395ff9:
 
     # extend " Huh?"
-    extend ""
+    extend " Hein?"
 
 # game/ep1.rpy:1026
 translate french ep1_a74042c0:
@@ -3854,13 +3854,13 @@ translate french ep1_4c46c170:
 translate french ep1_7eb70e3d:
 
     # "Something silvery shines in Ira’s hand."
-    ""
+    "Quelque chose d’argenté brilla dans la main d’Ira."
 
 # game/ep1.rpy:1031
 translate french ep1_bd3f5dfb:
 
     # extend " \nIt's..."
-    extend ""
+    extend " C’est..."
 
 # game/ep1.rpy:1032
 translate french ep1_81585037:
@@ -3872,7 +3872,7 @@ translate french ep1_81585037:
 translate french ep1_6f3d4875_12:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1038
 translate french ep1_65140101:
@@ -3884,25 +3884,25 @@ translate french ep1_65140101:
 translate french ep1_35840a68:
 
     # extend " Haha, you serious?"
-    extend ""
+    extend " Haha, t’es sérieuse?"
 
 # game/ep1.rpy:1043
 translate french ep1_53c903df:
 
     # "She doesn't say anything."
-    ""
+    "Elle ne dit rien."
 
 # game/ep1.rpy:1044
 translate french ep1_d9ac8dd1:
 
     # extend " The room fills with low murmurs that quickly turn into jeers."
-    extend ""
+    extend " La salle de bas murmures qui se transformèrent rapidement en injures."
 
 # game/ep1.rpy:1045
 translate french ep1_b1b21370:
 
     # extend " Psycho, nutcase, crazy bitch."
-    extend ""
+    extend " Psychopathe, ???, sale folle."
 
 # game/ep1.rpy:1049
 translate french ep1_2c5f3adb:
@@ -3914,19 +3914,19 @@ translate french ep1_2c5f3adb:
 translate french ep1_a0cf66eb:
 
     # "Ah..."
-    ""
+    "Ah..."
 
 # game/ep1.rpy:1051
 translate french ep1_9aa22632:
 
     # extend " it's just like the last time."
-    extend ""
+    extend " c’est juste comme la dernière fois."
 
 # game/ep1.rpy:1053
 translate french ep1_65ba69d8:
 
     # extend " Ira saves me without acknowledging my existence."
-    extend ""
+    extend " Ira me sauve sans savoir que j’étais là."
 
 # game/ep1.rpy:1054
 translate french ep1_13e8a4b8:
@@ -3944,7 +3944,7 @@ translate french ep1_768380a1:
 translate french ep1_e02d74e7:
 
     # "Yet..."
-    ""
+    "Pourtant..."
 
 # game/ep1.rpy:1058
 translate french ep1_4ca313c0:
@@ -3974,25 +3974,25 @@ translate french ep1_4170c626:
 translate french ep1_5190bd28:
 
     # extend " That can’t be a coincidence, right?"
-    extend ""
+    extend " Ça ne peut pas être une coïncidence, pas vrai?"
 
 # game/ep1.rpy:1070
 translate french ep1_ee571e71:
 
     # extend "\n\n{i}Of course it can."
-    extend ""
+    extend "\n\n{i}Bien sûr que ça peut."
 
 # game/ep1.rpy:1071
 translate french ep1_7aef20b4:
 
     # extend " It was only two times."
-    extend ""
+    extend " Ce n’était que deux fois."
 
 # game/ep1.rpy:1072
 translate french ep1_a44886b3:
 
     # extend " Two times – and weeks apart."
-    extend ""
+    extend " Deux fois – et à plusieurs semaines d’intervalle."
 
 # game/ep1.rpy:1073
 translate french ep1_af5d1e7f:
@@ -4004,37 +4004,37 @@ translate french ep1_af5d1e7f:
 translate french ep1_89185879:
 
     # extend "\n\nI..."
-    extend ""
+    extend "\n\nJe..."
 
 # game/ep1.rpy:1075
 translate french ep1_68bd3713:
 
     # extend " Yes, I guess you're right."
-    extend ""
+    extend " Oui, je suppose que tu as raison."
 
 # game/ep1.rpy:1076
 translate french ep1_adb41c32:
 
     # extend " It's the only logical train of thought."
-    extend ""
+    extend " Ça ne peut être que le seul cheminement de pensées logique"
 
 # game/ep1.rpy:1077
 translate french ep1_f2487f02:
 
     # extend " I should agree."
-    extend ""
+    extend " Je devrais approuver."
 
 # game/ep1.rpy:1078
 translate french ep1_f51afff2:
 
     # extend " I would agree."
-    extend ""
+    extend " Je voudrais approuver."
 
 # game/ep1.rpy:1079
 translate french ep1_fc9c5a80:
 
     # extend "\n\n\n\n If only..."
-    extend ""
+    extend "\n\n\n\n Si seulement..."
 
 # game/ep1.rpy:1080
 translate french ep1_76b2fe88_5:
@@ -4046,19 +4046,19 @@ translate french ep1_76b2fe88_5:
 translate french ep1_6b690af0:
 
     # centered "{i}“I didn’t do anything, really...”"
-    centered ""
+    centered "{i}“”"
 
 # game/ep1.rpy:1087
 translate french ep1_0d49ad2f:
 
     # n "If only Ira didn’t show up that day."
-    n ""
+    n "Si seulement Ira n’avait pas été présente ce jour."
 
 # game/ep1.rpy:1088
 translate french ep1_0015a309:
 
     # extend "\n\nIt’s been two weeks since then and I haven’t stopped replaying that moment in my mind."
-    extend ""
+    extend "\n\nÇa fait deux semaines"
 
 # game/ep1.rpy:1089
 translate french ep1_660a9d25:
