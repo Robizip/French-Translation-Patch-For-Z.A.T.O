@@ -3896,13 +3896,13 @@ translate french ep1_53c903df:
 translate french ep1_d9ac8dd1:
 
     # extend " The room fills with low murmurs that quickly turn into jeers."
-    extend " La salle de bas murmures qui se transformèrent rapidement en injures."
+    extend " La salle se remplit de bas murmures qui se transformèrent rapidement en insultes."
 
 # game/ep1.rpy:1045
 translate french ep1_b1b21370:
 
     # extend " Psycho, nutcase, crazy bitch."
-    extend " Psychopathe, ???, sale folle."
+    extend " Psychopathe, cinglée, sale folle."
 
 # game/ep1.rpy:1049
 translate french ep1_2c5f3adb:
