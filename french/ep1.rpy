@@ -3794,19 +3794,19 @@ translate french ep1_396bd16f:
 translate french ep1_603a9720:
 
     # extend " What ar-{nw}"
-    extend "Qu’es-{nw}"
+    extend " Qu’es-{nw}"
 
 # game/ep1.rpy:1015
 translate french ep1_9dc8a6d4:
 
     # "{i}{cps=0}{size=+5}Swish!{/i}"
-    "{/i}{cps=0}{size=+5}Whoosh !{/i}"
+    "{/i}{cps=0}{size=+5}Whoosh!{/i}"
 
 # game/ep1.rpy:1016
 translate french ep1_e37fda05:
 
     # g "G-{w=0.3}woah!!-"
-    g ""
+    g "W-{w=0.3}wouah!!-"
 
 # game/ep1.rpy:1017
 translate french ep1_80530f53:
@@ -3818,19 +3818,19 @@ translate french ep1_80530f53:
 translate french ep1_f597f93a:
 
     # g "Wh–{w=0.3} What the fuck?!"
-    g ""
+    g "Q-{w=0.3} Qu’est-ce que c’est ce bordel?!"
 
 # game/ep1.rpy:1023
 translate french ep1_16c32e98:
 
     # "Everyone shifts away."
-    ""
+    "Tout le monde s’éloigna."
 
 # game/ep1.rpy:1024
 translate french ep1_2f79dd89:
 
     # extend " What was that?"
-    extend " Qu’est-ce que c’était ça ?"
+    extend " Qu’est-ce que c’était?"
 
 # game/ep1.rpy:1025
 translate french ep1_9c395ff9:
@@ -3842,13 +3842,13 @@ translate french ep1_9c395ff9:
 translate french ep1_a74042c0:
 
     # g "What the hell..."
-    g ""
+    g "Putain de merde..."
 
 # game/ep1.rpy:1027
 translate french ep1_4c46c170:
 
     # extend " you..."
-    extend ""
+    extend " tu..."
 
 # game/ep1.rpy:1030
 translate french ep1_7eb70e3d:
@@ -3866,7 +3866,7 @@ translate french ep1_bd3f5dfb:
 translate french ep1_81585037:
 
     # extend " a bow compass."
-    extend ""
+    extend "un compas."
 
 # game/ep1.rpy:1033
 translate french ep1_6f3d4875_12:
@@ -3878,7 +3878,7 @@ translate french ep1_6f3d4875_12:
 translate french ep1_65140101:
 
     # g "...Is that..."
-    g ""
+    g "...Est-ce..."
 
 # game/ep1.rpy:1042
 translate french ep1_35840a68:
@@ -3908,7 +3908,7 @@ translate french ep1_b1b21370:
 translate french ep1_2c5f3adb:
 
     # "Ira lowers the compass and makes her way to her desk, looking unbothered."
-    ""
+    "Ira baissa le compas et se retourna vers son bureau, l’air indifférent."
 
 # game/ep1.rpy:1050
 translate french ep1_a0cf66eb:
@@ -12261,4 +12261,3 @@ translate french ep1_009782db:
 
     # "Its eyes are pure and tender."
     ""
-

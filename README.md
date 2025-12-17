@@ -23,7 +23,7 @@ If you want to unintall the patch, you must delete the "tl" folder from your gam
 # État de la traduction :
 - Menus : 100%
 - Épisode 0 : 100%
-- Épisode 1 : 0%
+- Épisode 1 : ≈ 32%
 - Épisode 2 : 0%
 - Épisode 3 : 0%
 
@@ -44,7 +44,7 @@ If you want to unintall the patch, you must delete the "tl" folder from your gam
 <br><br>
 
 ## Estimation de la date de sortie de la 1.0 du patch FR
-Je dirais à la vitesse à laquelle je vais, je dirais aux environs de mars 2026.
+Je dirais à la vitesse à laquelle je vais, je dirais milieu 2026 voir fin.
 
 *(date suceptible de changer.)*
 
