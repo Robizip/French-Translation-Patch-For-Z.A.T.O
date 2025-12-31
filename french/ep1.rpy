@@ -3932,13 +3932,13 @@ translate french ep1_65ba69d8:
 translate french ep1_13e8a4b8:
 
     # "Maybe some onlookers – no, most people will think she didn’t plan on helping me at all."
-    ""
+    "Peut-être quelques spectateurs – non, la plupart des gens penseront qu’elle n’avait pas vraiment prévu de m’aider."
 
 # game/ep1.rpy:1055
 translate french ep1_768380a1:
 
     # extend " And that's what I'm inclined to think as well."
-    extend ""
+    extend " Et c’est aussi ce que je suis enclin à penser."
 
 # game/ep1.rpy:1057
 translate french ep1_e02d74e7:
