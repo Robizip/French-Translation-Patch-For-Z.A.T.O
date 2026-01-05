@@ -2480,7 +2480,7 @@ translate french start_414b8ee2:
 translate french start_2eeb52e6:
 
     # a "Ah, okay."
-    a "Ah, okay."
+    a "Ah, ok."
 
 # game/script.rpy:714
 translate french start_cb594cfa:
@@ -3182,7 +3182,7 @@ translate french start_25337883:
 translate french start_4500893b:
 
     # m "Let’s not talk about this in front of the office, okay?"
-    m "N’en parlons pas devant ce bureau, okay?"
+    m "N’en parlons pas devant ce bureau, ok?"
 
 # game/script.rpy:907
 translate french start_bf8a61f0:
