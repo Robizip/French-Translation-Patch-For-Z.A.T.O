@@ -3590,7 +3590,7 @@ translate french ep1_fee48128:
 translate french ep1_7c06fc14:
 
     # extend " I'm not sure what's worse."
-    extend " Je ne suis pas sûr de ce qui est le pire."
+    extend " Je ne suis pas sûre de ce qui est le pire."
 
 # game/ep1.rpy:954
 translate french ep1_31eeeb79:
@@ -3602,7 +3602,7 @@ translate french ep1_31eeeb79:
 translate french ep1_9b831a49:
 
     # extend " I'm saying all this, but I got what was coming to me."
-    extend " Je dis tout ça, mais j’ai eu ce que je voulais."
+    extend " Je dis tout ça, mais j’ai eu ce que je méritais."
 
 # game/ep1.rpy:956
 translate french ep1_4088766b:
@@ -3620,7 +3620,7 @@ translate french ep1_4e530631:
 translate french ep1_189a4d06:
 
     # "And now, despite the overwhelming shame, I feel so happy that I might explode."
-    " Et maintenant, malgré la honte écrasante, je suis si heureuse que je pourrais exploser."
+    "Et maintenant, malgré la honte écrasante, je suis si heureuse que je pourrais exploser."
 
 # game/ep1.rpy:963
 translate french ep1_cb2b8e94:
@@ -3656,7 +3656,7 @@ translate french ep1_aed40c6e:
 translate french ep1_a6b7c855:
 
     # extend " What’s the rush?"
-    extend "Pourquoi tant de précipitation?"
+    extend " Pourquoi tant de précipitation?"
 
 # game/ep1.rpy:973
 translate french ep1_6f3d4875_9:
@@ -3710,7 +3710,7 @@ translate french ep1_44578518:
 translate french ep1_1fd4b224:
 
     # extend " Right, Shubina?"
-    extend "Pas vrai, Shubina?"
+    extend " Pas vrai, Shubina?"
 
 # game/ep1.rpy:985
 translate french ep1_b13fb8c7:
@@ -3770,7 +3770,7 @@ translate french ep1_7398e660:
 translate french ep1_ff899a5a:
 
     # "Garin lets out an awkward chuckle."
-    "Garin laissa sortir un ??? maladroit."
+    "Garin laissa sortir un gloussement maladroit."
 
 # game/ep1.rpy:1007
 translate french ep1_a7f3c7ea:
@@ -3800,7 +3800,7 @@ translate french ep1_603a9720:
 translate french ep1_9dc8a6d4:
 
     # "{i}{cps=0}{size=+5}Swish!{/i}"
-    "{/i}{cps=0}{size=+5}Whoosh!{/i}"
+    "{i}{cps=0}{size=+5}Whoosh!{/i}"
 
 # game/ep1.rpy:1016
 translate french ep1_e37fda05:
@@ -3866,7 +3866,7 @@ translate french ep1_bd3f5dfb:
 translate french ep1_81585037:
 
     # extend " a bow compass."
-    extend "un compas."
+    extend " un compas."
 
 # game/ep1.rpy:1033
 translate french ep1_6f3d4875_12:
@@ -3992,7 +3992,7 @@ translate french ep1_7aef20b4:
 translate french ep1_a44886b3:
 
     # extend " Two times – and weeks apart."
-    extend " Deux fois – et à plusieurs semaines d’intervalle."
+    extend " Deux\nfois – et à plusieurs semaines d’intervalle."
 
 # game/ep1.rpy:1073
 translate french ep1_af5d1e7f:
@@ -4016,7 +4016,7 @@ translate french ep1_68bd3713:
 translate french ep1_adb41c32:
 
     # extend " It's the only logical train of thought."
-    extend " Ça ne peut être que le seul cheminement de pensées logique."
+    extend " Ça ne peut être que le seul cheminement de pensée logique."
 
 # game/ep1.rpy:1077
 translate french ep1_f2487f02:
@@ -4192,7 +4192,7 @@ translate french ep1_d39e3086:
 translate french ep1_7348c96e:
 
     # extend " \nThat sounded like her."
-    extend " \nÇa sonne comme un truc qu’elle pourrait faire."
+    extend " Ça sonne comme un truc qu’elle pourrait faire."
 
 # game/ep1.rpy:1129
 translate french ep1_bfab167e:
@@ -4252,7 +4252,7 @@ translate french ep1_a20cefa7_1:
 translate french ep1_59a6ac45:
 
     # "But for some reason, I really didn’t think she would."
-    "Mais pour une raison ou pour une autre, je ne pense pas qu’elle fera ça."
+    "Mais pour une raison quelconque, je ne pensais pas qu’elle pourrait faire ça."
 
 # game/ep1.rpy:1152
 translate french ep1_aa5dd74a:
@@ -4288,13 +4288,13 @@ translate french ep1_28f4abb4:
 translate french ep1_cf0756f6:
 
     # "The vents near the research institute expel hot air."
-    "Les ventilations proche de l’institut de recherche expulse de l’air chaud."
+    "Les ventilations proche de l’institut de recherche expulsèrent de l’air chaud."
 
 # game/ep1.rpy:1161
 translate french ep1_9f81b7e1:
 
     # extend " Nobody really goes here, aside from the staff coming out for a smoke."
-    extend " Personne ne vient vraiment là, à part le personnel sortant pour y fumer."
+    extend " Personne ne vient vraiment là, à part le personnel qui sort pour y fumer."
 
 # game/ep1.rpy:1162
 translate french ep1_438bb843:
@@ -4306,7 +4306,7 @@ translate french ep1_438bb843:
 translate french ep1_802fa7b0:
 
     # extend " \nWhy is Ira here of all places?"
-    extend " \nParmi tous les endroits possibles, pourquoi Ira est-elle là?"
+    extend " \nParmi tous les endroits possibles, pourquoi Ira est là?"
 
 # game/ep1.rpy:1168
 translate french ep1_6f3d4875_13:
@@ -4360,7 +4360,7 @@ translate french ep1_30e4acf1:
 translate french ep1_3ff9ec54:
 
     # extend neutral " I’m just taking a stroll."
-    extend neutral " Je me promêne juste."
+    extend neutral "\nJe me promène juste."
 
 # game/ep1.rpy:1182
 translate french ep1_abb849e1:
@@ -4396,7 +4396,7 @@ translate french ep1_b301a83e:
 translate french ep1_442a1d3d:
 
     # "Ira gives me an incredulous look."
-    "Ira m’envoya un regard incrédule."
+    "Ira me fit un regard incrédule."
 
 # game/ep1.rpy:1194
 translate french ep1_58d2bde9:
@@ -4420,7 +4420,7 @@ translate french ep1_7136eebd:
 translate french ep1_eb109c6b:
 
     # i "It’s a smoking area."
-    i "C’est une zone fumeur."
+    i "C’est un espace fumeurs."
 
 # game/ep1.rpy:1198
 translate french ep1_54b2fd18:
@@ -4438,7 +4438,7 @@ translate french ep1_9e7a0afc:
 translate french ep1_54d305ec:
 
     # extend " I know that."
-    extend " Je le sais..."
+    extend " Je le savais..."
 
 # game/ep1.rpy:1203
 translate french ep1_6f3d4875_15:
@@ -4456,7 +4456,7 @@ translate french ep1_684d5953:
 translate french ep1_028d070f:
 
     # a woah "Wha?"
-    a woah "Quo?"
+    a woah "Qu?"
 
 # game/ep1.rpy:1208
 translate french ep1_b2b9d5eb:
@@ -4630,7 +4630,7 @@ translate french ep1_ffc38752:
 translate french ep1_bd7cef4f:
 
     # extend smile " It’s really nice you look out \nfor your mom!"
-    extend smile " C’est vraiment gentil de veiller sur ta mère!"
+    extend smile " C’est vraiment gentil de\nveiller sur ta mère!"
 
 # game/ep1.rpy:1257
 translate french ep1_50f1a229:
@@ -4642,7 +4642,7 @@ translate french ep1_50f1a229:
 translate french ep1_2767e775:
 
     # "It’s not."
-    "C’est faux"
+    "C’est faux."
 
 # game/ep1.rpy:1259
 translate french ep1_f981e93d:
@@ -4666,7 +4666,7 @@ translate french ep1_8fbfbb29:
 translate french ep1_88f48b89:
 
     # "The thought of doing something like that for my parents has never crossed my mind."
-    "L’action de faire quelque chose comme ça pour mes parents ne m’a jamais traversé l’esprit."
+    "La pensée de faire quelque chose comme ça pour mes parents ne m’a jamais traversé l’esprit."
 
 # game/ep1.rpy:1263
 translate french ep1_eb98ac57:
@@ -4690,7 +4690,7 @@ translate french ep1_4b4232dd:
 translate french ep1_f0113782:
 
     # extend " She’d have to really care about it."
-    extend " Elle s’en préoccupe vraiment."
+    extend " Elle devrait vraiment s’en soucier."
 
 # game/ep1.rpy:1267
 translate french ep1_03a43092:
@@ -4738,7 +4738,7 @@ translate french ep1_b6dd87a4:
 translate french ep1_31f01682:
 
     # extend " That’s why she doesn’t have the time to sit at the cafe."
-    extend " C’est pour ça qu’elle n’avait pas le temps de s’asseoir au café."
+    extend "\nC’est pour ça qu’elle n’avait pas le temps de s’asseoir au café."
 
 # game/ep1.rpy:1276
 translate french ep1_8667a9a0:
@@ -4780,7 +4780,7 @@ translate french ep1_624b434d:
 translate french ep1_f3c284b8:
 
     # "It doesn’t take long to get to the institute, even if you walk from the other side of town."
-    "Ça ne prend pas beaucoup de temps pour aller à l’institut, même si tu marches depuis l’autre côté de la ville."
+    "Ça ne prend pas beaucoup de temps pour aller à l’institut, même si tu te trouves de l’autre côté de la ville."
 
 # game/ep1.rpy:1290
 translate french ep1_da6d2a27:
@@ -4858,523 +4858,523 @@ translate french ep1_7b6d0ece:
 translate french ep1_bc315f7a:
 
     # a sus "Who?"
-    a sus ""
+    a sus "Qui?"
 
 # game/ep1.rpy:1326
 translate french ep1_84b7f4e4:
 
     # g "Who do you think?"
-    g ""
+    g "À qui tu penses?"
 
 # game/ep1.rpy:1327
 translate french ep1_9e1c2462:
 
     # a neutral "Oh."
-    a neutral ""
+    a neutral "Oh."
 
 # game/ep1.rpy:1328
 translate french ep1_dc67f812:
 
     # extend " She’s not really my friend..."
-    extend ""
+    extend " Elle n’est pas réellement mon amie..."
 
 # game/ep1.rpy:1329
 translate french ep1_d29484b2:
 
     # g "Your pitbull then."
-    g ""
+    g "Ton pitbull alors."
 
 # game/ep1.rpy:1330
 translate french ep1_2ad0a96e:
 
     # a ehh "P-{w=0.3}pitbull?!"
-    a ehh ""
+    a ehh "P-{w=0.3}pitbull?!"
 
 # game/ep1.rpy:1331
 translate french ep1_3323c81f:
 
     # c "Hahahaha!!"
-    c ""
+    c "Hahahaha!!"
 
 # game/ep1.rpy:1332
 translate french ep1_2da42fee:
 
     # cb "Hey, that’s spot on!"
-    cb ""
+    cb "Hé, en plein dans le mille!"
 
 # game/ep1.rpy:1333
 translate french ep1_8f093ff6:
 
     # g "You can’t make a harmless joke around that chick without her throwing a conniption fit."
-    g ""
+    g "Tu ne peux pas faire une blague inoffensive autour de cette meuf sans qu’elle fasse une crise de colère."
 
 # game/ep1.rpy:1334
 translate french ep1_27a7ef27:
 
     # extend " It’s annoying as shit."
-    extend ""
+    extend " C’est ennuyant à mort."
 
 # game/ep1.rpy:1335
 translate french ep1_159493d0_2:
 
     # a troubled "..."
-    a troubled ""
+    a troubled "..."
 
 # game/ep1.rpy:1340
 translate french ep1_abf5120a:
 
     # "They think we’re friends?"
-    ""
+    "Ils pensent qu’on était amis?"
 
 # game/ep1.rpy:1341
 translate french ep1_56d0c474:
 
     # extend " Well, not really."
-    extend ""
+    extend " Bah, pas vraiment."
 
 # game/ep1.rpy:1342
 translate french ep1_d57c6c21:
 
     # extend " But looks like they’ve picked up on it..."
-    extend ""
+    extend " Mais on dirait qu’ils ont compris..."
 
 # game/ep1.rpy:1343
 translate french ep1_734e7b9d:
 
     # extend " On Ira reacting like that to me being used as a laughingstock."
-    extend ""
+    extend " Sur la réaction d’Ira lorsque j’ai été ridiculisé."
 
 # game/ep1.rpy:1344
 translate french ep1_ebabb3c0:
 
     # "So it wasn’t just me?"
-    ""
+    "Alors ce n’était pas que moi?"
 
 # game/ep1.rpy:1345
 translate french ep1_80a0bc29:
 
     # extend " It’s not just my wishful thinking?"
-    extend ""
+    extend " Ce n’était pas juste mes pensées pleines d’espoir?"
 
 # game/ep1.rpy:1347
 translate french ep1_87ec1d9e_1:
 
     # "...Haha."
-    ""
+    "...Haha."
 
 # game/ep1.rpy:1348
 translate french ep1_1817b8c1:
 
     # extend " That’s nice to hear."
-    extend ""
+    extend " C’est gentil à entendre."
 
 # game/ep1.rpy:1349
 translate french ep1_0c2002ed:
 
     # extend " Even if I still don’t know for sure..."
-    extend ""
+    extend " Même si je ne sais toujours pas avec certitude..."
 
 # game/ep1.rpy:1350
 translate french ep1_5a87232e:
 
     # extend " It’s the most comforting thing I’ve heard out of Garin’s mouth to date."
-    extend ""
+    extend " C’est, à ce jour, la chose la plus réconfortant que j’ai entendu de la bouche de Garin."
 
 # game/ep1.rpy:1351
 translate french ep1_4fc60f62:
 
     # c "At least she barely shows up."
-    c ""
+    c "Au moins, elle se montre parfois."
 
 # game/ep1.rpy:1352
 translate french ep1_590c426d:
 
     # cb "Yeah. They’ll probably kick her out before New Years with that attendance record."
-    cb ""
+    cb "Ouais. Elle va probablement se faire virer avant le Nouvel An avec ce taux de présence."
 
 # game/ep1.rpy:1353
 translate french ep1_4c57e546:
 
     # c "Good riddance."
-    c ""
+    c "Bon débarras."
 
 # game/ep1.rpy:1355
 translate french ep1_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1356
 translate french ep1_76e85daf:
 
     # "That’s right."
-    ""
+    "C’est vrai."
 
 # game/ep1.rpy:1357
 translate french ep1_f30b4feb:
 
     # extend " Ira can’t possibly be meeting the minimal attendance requirements."
-    extend ""
+    extend " Ira ne peut pas possiblement atteindre les taux de présence minimaux."
 
 # game/ep1.rpy:1358
 translate french ep1_271341a9:
 
     # extend " I don’t know about her grades, but..."
-    extend ""
+    extend " Je ne connais pas ses notes, mais..."
 
 # game/ep1.rpy:1359
 translate french ep1_20e35a3f:
 
     # cc "Wait, I don’t think they can expel her."
-    cc ""
+    cc "Attends, je ne pense pas qu’ils puissent l’expulser."
 
 # game/ep1.rpy:1360
 translate french ep1_805c394f:
 
     # cb "Huh?"
-    cb ""
+    cb "Hein?"
 
 # game/ep1.rpy:1361
 translate french ep1_c4e8c2ed:
 
     # extend " Why not?"
-    extend ""
+    extend " Pourquoi pas?"
 
 # game/ep1.rpy:1362
 translate french ep1_e31fb10e:
 
     # cc "We’re the only school in town."
-    cc ""
+    cc "On est la seule école en ville."
 
 # game/ep1.rpy:1363
 translate french ep1_8691186a:
 
     # extend " Where else is she going to go?"
-    extend ""
+    extend " Où pourrait-elle bien aller?"
 
 # game/ep1.rpy:1364
 translate french ep1_40530a6d:
 
     # cb "Damn."
-    cb ""
+    cb "Putain."
 
 # game/ep1.rpy:1365
 translate french ep1_d0d5fa38:
 
     # extend " Good point."
-    extend ""
+    extend " Bien vu."
 
 # game/ep1.rpy:1366
 translate french ep1_9e77185f:
 
     # "Phew..."
-    ""
+    "Ouf..."
 
 # game/ep1.rpy:1367
 translate french ep1_e4384260:
 
     # g "Well, her parents can just send her away."
-    g ""
+    g "Hé bien, ses parents pourraient juste l’envoyer plus loin."
 
 # game/ep1.rpy:1368
 translate french ep1_d7c60dc2:
 
     # c "You mean to another town?"
-    c ""
+    c "Tu veux dire une autre ville?"
 
 # game/ep1.rpy:1369
 translate french ep1_eebba2e7:
 
     # g "Yeah."
-    g ""
+    g "Ouais."
 
 # game/ep1.rpy:1370
 translate french ep1_cdd14c7a:
 
     # extend " To a relative or something."
-    extend ""
+    extend " Chez un parent ou quelque chose comme ça."
 
 # game/ep1.rpy:1371
 translate french ep1_1a1c5607:
 
     # "Wh-"
-    ""
+    "Qu-"
 
 # game/ep1.rpy:1372
 translate french ep1_b5dfb289:
 
     # extend " No!"
-    extend ""
+    extend " Non!"
 
 # game/ep1.rpy:1373
 translate french ep1_32a4eead:
 
     # c "Oh man, now that you say that..."
-    c ""
+    c "Mec, maintenant que tu dis ça..."
 
 # game/ep1.rpy:1374
 translate french ep1_0544b4de:
 
     # g "Everyone, pretend to be surprised when that happens."
-    g ""
+    g "Tout le monde, prétendez d’être surpris quand ça arrivera."
 
 # game/ep1.rpy:1375
 translate french ep1_fee78bb4:
 
     # c "Hahaha!"
-    c ""
+    c "Hahaha!"
 
 # game/ep1.rpy:1377
 translate french ep1_8fa99d45:
 
     # "No!"
-    ""
+    "Non!"
 
 # game/ep1.rpy:1378
 translate french ep1_cd939524:
 
     # extend " No, no, no..."
-    extend ""
+    extend " Non, non, non..."
 
 # game/ep1.rpy:1379
 translate french ep1_cc005227:
 
     # extend " I hate how they’re right."
-    extend ""
+    extend " Je déteste quand ils ont raison."
 
 # game/ep1.rpy:1380
 translate french ep1_19527222:
 
     # extend " I hate that I can see that happening."
-    extend ""
+    extend " Je déteste quand je vois ça se produire."
 
 # game/ep1.rpy:1385
 translate french ep1_184281da:
 
     # "Everyone talks about it."
-    ""
+    "Tout le monde en parle."
 
 # game/ep1.rpy:1386
 translate french ep1_e417bb65:
 
     # extend " How Ira’s a nuisance to her household."
-    extend ""
+    extend " Comment Ira est une nuisance pour sa famille."
 
 # game/ep1.rpy:1387
 translate french ep1_015cca8d:
 
     # extend " It’s been like that for a long time."
-    extend ""
+    extend " C’est comme ça depuis un certain temps."
 
 # game/ep1.rpy:1388
 translate french ep1_2395ceb2:
 
     # extend " But still, I..."
-    extend ""
+    extend " Pourtant, je..."
 
 # game/ep1.rpy:1389
 translate french ep1_79d2a02d:
 
     # "{i}“She forgets her lunch sometimes.”{/i}"
-    ""
+    "{i}“Elle oublie parfois son déjeuner.”{/i}"
 
 # game/ep1.rpy:1392
 translate french ep1_50098085:
 
     # "{cps=100}{size=+10}{b}Aaaaaaaaaaaaaaaaaaaaragh!!{/b}{/size}"
-    ""
+    "{cps=100}{size=+10}{b}Aaaaaaaaaaaaaaaaaaaaragh!!{/b}{/size}"
 
 # game/ep1.rpy:1393
 translate french ep1_94123b24:
 
     # extend " \nThat can’t happen!"
-    extend ""
+    extend "\nÇa ne peut pas arriver!"
 
 # game/ep1.rpy:1394
 translate french ep1_b5dfb289_1:
 
     # extend " No!"
-    extend ""
+    extend " Non!"
 
 # game/ep1.rpy:1395
 translate french ep1_c0202c0c:
 
     # extend " It can’t, it can’t, it can’t!"
-    extend ""
+    extend " Ça ne peut pas, ça ne peut pas, ça ne peut pas!"
 
 # game/ep1.rpy:1396
 translate french ep1_193d6c2b:
 
     # extend " It’s not fair, it’s not fair, it’s not fair!!"
-    extend ""
+    extend " Ce n’est pas juste, ce n’est pas juste, ce n’est pas juste!!"
 
 # game/ep1.rpy:1397
 translate french ep1_89068ee7:
 
     # extend " They can’t send her away...!"
-    extend ""
+    extend " Ils ne peuvent pas l’envoyer plus loin...!"
 
 # game/ep1.rpy:1398
 translate french ep1_78773923:
 
     # "{cps=100}She can’t go. {w=0.2}She’s so nice. {w=0.2}She cares. {w=0.2}She does. {w=0.2}Maybe not for me, but for her family. {w=0.2}Why would they send her away? {w=0.2}That’s just too cruel. {w=0.2}They can’t do that. {w=0.2}If they do, then it will all be over."
-    ""
+    "{cps=100}Elle ne peut pas partir. {w=0.2}Elle est si gentille. {w=0.2}Elle est attentionnée. {w=0.2}Elle fait ce qu’il faut. {w=0.2}Peut-être pas pour moi, mais pour sa famille. {w=0.2}Pour l’envoyer plus loin? {w=0.2}C’est juste trop cruel. {w=0.2}Ils ne peuvent pas faire ça. {w=0.2}Si c’est le cas, tout sera fini."
 
 # game/ep1.rpy:1399
 translate french ep1_f004f38f:
 
     # "{cps=100}If they do, then I won’t..."
-    ""
+    "{cps=100}Si c’est le cas, alors je ne..."
 
 # game/ep1.rpy:1400
 translate french ep1_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1406
 translate french ep1_b87604bd:
 
     # "We just started..."
-    ""
+    "Nous venons juste de commencer..."
 
 # game/ep1.rpy:1407
 translate french ep1_ae30c77f:
 
     # extend " I don’t know what."
-    extend ""
+    extend " Je ne sais pas quoi."
 
 # game/ep1.rpy:1408
 translate french ep1_2dceb200:
 
     # extend " I can’t even call it talking."
-    extend ""
+    extend " Je ne peux même pas appeller ça parler."
 
 # game/ep1.rpy:1409
 translate french ep1_0199f60f:
 
     # extend " I don’t know what it is, but that doesn’t matter."
-    extend ""
+    extend " je ne sais pas ce que je c’est, mais c’est pas important."
 
 # game/ep1.rpy:1410
 translate french ep1_4348731d:
 
     # "Even if she just tolerates me, even if she doesn’t want anything to do with me, I don’t care."
-    ""
+    "Même si elle me tolère juste, mais si elle ne veut rien faire avec moi, je m’en fiche."
 
 # game/ep1.rpy:1411
 translate french ep1_98fcac43:
 
     # extend " This can’t happen."
-    extend ""
+    extend " Ça ne peut pas arriver."
 
 # game/ep1.rpy:1412
 translate french ep1_aa533423:
 
     # extend " This physically cannot happen."
-    extend ""
+    extend " Ça ne peut pas physiquement arriver."
 
 # game/ep1.rpy:1418
 translate french ep1_c9e0066f:
 
     # "I raise my head and look out through the window."
-    ""
+    "Je levai ma tête et regarda à travers la fenêtre."
 
 # game/ep1.rpy:1419
 translate french ep1_bc57e565:
 
     # extend " The snow is falling lightly on the yard."
-    extend ""
+    extend " La neige tomba légèrement dans le jardin."
 
 # game/ep1.rpy:1420
 translate french ep1_6242da88:
 
     # extend " The dark pine branches sway under its weight."
-    extend ""
+    extend " Les branches de pin noir se balancèrent sous le poids de celle-ci."
 
 # game/ep1.rpy:1421
 translate french ep1_ecfd2240:
 
     # extend " The long gray clouds glide placidly across the tundra."
-    extend ""
+    extend " Les longs nuages gris planèrent calmement à travers la toundra."
 
 # game/ep1.rpy:1422
 translate french ep1_b0d63d24:
 
     # "Far past the fences."
-    ""
+    "Bien au-delà des clôtures."
 
 # game/ep1.rpy:1423
 translate french ep1_c7eab988:
 
     # extend " Past the mountain ridge."
-    extend ""
+    extend "Au-delà même de la crête de la montagne."
 
 # game/ep1.rpy:1424
 translate french ep1_63988f83:
 
     # extend " So far away that I can’t picture it."
-    extend ""
+    extend " Si loin que je ne pourrait me l’imaginer."
 
 # game/ep1.rpy:1425
 translate french ep1_6d6b4207:
 
     # extend " So far away that my mind circles twice around the Earth and comes back to the spot I’m sitting in."
-    extend ""
+    extend " Si loin que mon esprit tournait deux fois autour de la tête avant de revenir là où je suis assise."
 
 # game/ep1.rpy:1427
 translate french ep1_285302ff:
 
     # "This world is way too gentle."
-    ""
+    "Ce monde est beaucoup trop gentil."
 
 # game/ep1.rpy:1428
 translate french ep1_0333cf1c:
 
     # extend " It’s been too kind to an ungrateful brat like me."
-    extend ""
+    extend " C’est beaucoup trop gentil pour un enfant ingrat et gâté comme moi."
 
 # game/ep1.rpy:1429
 translate french ep1_66ff6904:
 
     # "So if I’ve earned this world’s good graces, why can’t a person so much more deserving do the same?"
-    ""
+    "Alors, si j’ai obtenu les bonnes grâces du monde, pourquoi une personne qui le mérite bien plus ne pourrait pas faire de même?"
 
 # game/ep1.rpy:1430
 translate french ep1_3dfd24f4:
 
     # extend " What does a person like that have to do?"
-    extend ""
+    extend " Que doit faire une personne comme ça?"
 
 # game/ep1.rpy:1431
 translate french ep1_41b60611:
 
     # "And is there anything that I can do?"
-    ""
+    "Est-ce quelque chose que je puisse faire?"
 
 # game/ep1.rpy:1437
 translate french ep1_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1438
 translate french ep1_37e2de7a:
 
     # "A bird flies past the window."
-    ""
+    "Un oiseau passa devant la fenêtre."
 
 # game/ep1.rpy:1443
 translate french ep1_ef0f4075:
 
     # a pout "Ira..."
-    a pout ""
+    a pout "Ira..."
 
 # game/ep1.rpy:1447
 translate french ep1_79ee1aa6_1:
 
     # i "What?"
-    i ""
+    i "Quoi?"
 
 # game/ep1.rpy:1448
 translate french ep1_c955bcb2:
@@ -5398,7 +5398,7 @@ translate french ep1_973eb3e7:
 translate french ep1_ec18a212_1:
 
     # a "Um..."
-    a ""
+    a "Euh..."
 
 # game/ep1.rpy:1452
 translate french ep1_4ccd52aa:
@@ -5416,7 +5416,7 @@ translate french ep1_432e1e32:
 translate french ep1_6f3d4875_17:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1457
 translate french ep1_8e8ac8f7:
@@ -5428,7 +5428,7 @@ translate french ep1_8e8ac8f7:
 translate french ep1_0593420f_1:
 
     # extend " I..."
-    extend ""
+    extend " Je..."
 
 # game/ep1.rpy:1459
 translate french ep1_16d62d97:
@@ -5464,7 +5464,7 @@ translate french ep1_333f772d:
 translate french ep1_9be571f6_3:
 
     # a um "..."
-    a um ""
+    a um "..."
 
 # game/ep1.rpy:1469
 translate french ep1_e37b2dd0:
@@ -5548,7 +5548,7 @@ translate french ep1_5bb15f1c:
 translate french ep1_94433166:
 
     # a ramble "Maybe..."
-    a ramble ""
+    a ramble "Peut-être..."
 
 # game/ep1.rpy:1484
 translate french ep1_ad81bb34:
@@ -5596,7 +5596,7 @@ translate french ep1_815daaed:
 translate french ep1_637e3c9b:
 
     # a sad "..."
-    a sad ""
+    a sad "..."
 
 # game/ep1.rpy:1492
 translate french ep1_eb8adf95:
@@ -5650,7 +5650,7 @@ translate french ep1_d831dcc0:
 translate french ep1_00def4cf:
 
     # extend " It was just an excuse."
-    extend ""
+    extend " Ce n’était qu’une excuse."
 
 # game/ep1.rpy:1502
 translate french ep1_1ea2b114:
@@ -5698,19 +5698,19 @@ translate french ep1_f886a1c6:
 translate french ep1_fde6b5e0:
 
     # i "Hey."
-    i ""
+    i "Hé."
 
 # game/ep1.rpy:1513
 translate french ep1_1823f255:
 
     # a troubled "Hm?"
-    a troubled ""
+    a troubled "Hmm?"
 
 # game/ep1.rpy:1514
 translate french ep1_a6ce51a5:
 
     # i "Thanks."
-    i ""
+    i "Merci."
 
 # game/ep1.rpy:1515
 translate french ep1_7e155131:
@@ -5788,7 +5788,7 @@ translate french ep1_e2818991:
 translate french ep1_29853713:
 
     # a woah "Oh!"
-    a woah ""
+    a woah "Oh!"
 
 # game/ep1.rpy:1532
 translate french ep1_80139576:
@@ -5884,13 +5884,13 @@ translate french ep1_9915b800:
 translate french ep1_237f44bc:
 
     # "Without saying a word, Ira storms past me – but I grab onto the edge of her dress just as she’s about to leave."
-    ""
+    "Sans dire un mot, Ira ??? – ???"
 
 # game/ep1.rpy:1563
 translate french ep1_e6bee468:
 
     # a ehh "Wait!"
-    a ehh ""
+    a ehh "Attends!"
 
 # game/ep1.rpy:1564
 translate french ep1_3573e2da:
