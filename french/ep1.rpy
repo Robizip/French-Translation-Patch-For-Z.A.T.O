@@ -4912,7 +4912,7 @@ translate french ep1_8f093ff6:
 translate french ep1_27a7ef27:
 
     # extend " It’s annoying as shit."
-    extend " C’est ennuyant à mort."
+    extend " C’est vraiment chiant à en crever."
 
 # game/ep1.rpy:1335
 translate french ep1_159493d0_2:
