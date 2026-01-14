@@ -8740,7 +8740,7 @@ translate french ep1_6b043c0e:
 translate french ep1_6e39fc4d:
 
     # "She skips even more often than before."
-    "Elle manque encore les cours qu’avant."
+    "Elle manque encore plus les cours qu’avant."
 
 # game/ep1.rpy:2302
 translate french ep1_f1e8231b:
