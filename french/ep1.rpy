@@ -8614,49 +8614,49 @@ translate french ep1_d11d6512:
 translate french ep1_a93a1bc4:
 
     # extend " It’s so wonderful."
-    extend ""
+    extend " C’est si merveilleux."
 
 # game/ep1.rpy:2260
 translate french ep1_a875dbb4:
 
     # extend " It’s really, really wonderful."
-    extend ""
+    extend " C’est vraiment, vraiment merveilleux."
 
 # game/ep1.rpy:2265
 translate french ep1_16af475c:
 
     # "Every new thing I learn about her is more wonderful than the last."
-    ""
+    "Chaque nouvelle chose que j’apprends sur elle est encore plus merveilleux que le précédent."
 
 # game/ep1.rpy:2266
 translate french ep1_fd0090a0:
 
     # extend " I need to meet with her again."
-    extend ""
+    extend " J’ai besoin de la recroiser encore."
 
 # game/ep1.rpy:2267
 translate french ep1_1dbefaaf:
 
     # extend " I want to talk more."
-    extend ""
+    extend " Je veux lui parler encore plus."
 
 # game/ep1.rpy:2268
 translate french ep1_6efb99bc:
 
     # "Maybe next time she’ll tell me a little more about herself."
-    ""
+    "Peut-être que la prochaine fois, elle me dira un peu plus sur elle-même."
 
 # game/ep1.rpy:2269
 translate french ep1_435b7c3c:
 
     # extend " It kind of feels like I hogged the entire conversation, now that I think back to it."
-    extend ""
+    extend " C’est un peu comme si ???, maintenant que j’y repense."
 
 # game/ep1.rpy:2270
 translate french ep1_5b2ce050:
 
     # "That was really self-centered of me..."
-    ""
+    "C’était vraiment très égocentrique de ma part..."
 
 # game/ep1.rpy:2271
 translate french ep1_92cbae14:
@@ -8668,73 +8668,73 @@ translate french ep1_92cbae14:
 translate french ep1_0d6302be:
 
     # "I’ll ask her more about the books she likes."
-    ""
+    "Je lui demanderais plus sur les livres qu’elle aime."
 
 # game/ep1.rpy:2274
 translate french ep1_6d155286:
 
     # extend " Maybe we could talk about movies?"
-    extend ""
+    extend " Peut-être qu’on pourra parler de films?"
 
 # game/ep1.rpy:2275
 translate french ep1_6a645893:
 
     # extend " I wonder what her favourites are."
-    extend ""
+    extend " Je me demande vraiment lesquels sont ses favoris."
 
 # game/ep1.rpy:2276
 translate french ep1_d7c12440:
 
     # extend " Does she also like romance films?"
-    extend ""
+    extend " Est-ce qu’elle aime aussi les films de romance?"
 
 # game/ep1.rpy:2277
 translate french ep1_1c387b2f:
 
     # extend " That would be cute..."
-    extend ""
+    extend " Ça pourrait être mignon..."
 
 # game/ep1.rpy:2278
 translate french ep1_641538e9:
 
     # "I usually prefer detective films."
-    ""
+    "Je préfère en général les films de détective."
 
 # game/ep1.rpy:2279
 translate french ep1_9980b485:
 
     # extend " But I really enjoy all kinds of movies."
-    extend ""
+    extend " Mais j’apprécie vraiment tous les types de films."
 
 # game/ep1.rpy:2280
 translate french ep1_4944a613:
 
     # extend " So if she wanted to watch something..."
-    extend ""
+    extend " Alors, si elle voulait regarder quelque chose..."
 
 # game/ep1.rpy:2281
 translate french ep1_8928ac9c:
 
     # "Maybe we could even go to the cinema?"
-    ""
+    "Peut-être qu’on pourra même aller au cinéma?"
 
 # game/ep1.rpy:2282
 translate french ep1_8b3c6207:
 
     # extend " That could be so much fun."
-    extend ""
+    extend " Ça pourrait être si amusant."
 
 # game/ep1.rpy:2283
 translate french ep1_5145bbea:
 
     # extend " It’s been a long time since I’ve gone there."
-    extend ""
+    extend " Ça fait longtemps que je n’y suis pas allée."
 
 # game/ep1.rpy:2285
 translate french ep1_6b043c0e:
 
     # "I need to see her again."
-    ""
+    "J’ai besoin de la revoir encore."
 
 # game/ep1.rpy:2301
 translate french ep1_6e39fc4d:
