@@ -8746,7 +8746,7 @@ translate french ep1_6e39fc4d:
 translate french ep1_f1e8231b:
 
     # "No point in keeping up with classes if you’re getting expelled anyway – I guess that's Ira's modus operandi."
-    ""
+    " – "
 
 # game/ep1.rpy:2303
 translate french ep1_814831a1:
@@ -8836,7 +8836,7 @@ translate french ep1_bb8e4b4e_1:
 translate french ep1_a932261d:
 
     # extend smile "Yes."
-    extend smile ""
+    extend smile "Oui."
 
 # game/ep1.rpy:2327
 translate french ep1_3cfa64bb:
@@ -8872,19 +8872,19 @@ translate french ep1_f0a30168:
 translate french ep1_4e2781dd:
 
     # extend " I’ll do that."
-    extend ""
+    extend "Je le ferais."
 
 # game/ep1.rpy:2334
 translate french ep1_4b340443:
 
     # g "..."
-    g ""
+    g "..."
 
 # game/ep1.rpy:2335
 translate french ep1_526f52e4:
 
     # extend "Hm."
-    extend ""
+    extend "Hmm."
 
 # game/ep1.rpy:2336
 translate french ep1_f4aa04d4:
@@ -8926,7 +8926,7 @@ translate french ep1_eb755f10:
 translate french ep1_9f7ccdda:
 
     # extend " I don’t mind."
-    extend ""
+    extend " Je m’en fiche."
 
 # game/ep1.rpy:2347
 translate french ep1_98033b77:
@@ -8974,7 +8974,7 @@ translate french ep1_b278070c:
 translate french ep1_fd807d35:
 
     # extend "\n\nBut I want to believe..."
-    extend ""
+    extend "\n\nMais je veux croire..."
 
 # game/ep1.rpy:2362
 translate french ep1_16160f7f:
@@ -9060,7 +9060,7 @@ translate french ep1_cfff6088:
 translate french ep1_16f466f2:
 
     # extend " ...Oh Jesus, it’s you."
-    extend ""
+    extend "...Oh ???, c’est toi."
 
 # game/ep1.rpy:2391
 translate french ep1_75cc8689:
@@ -9144,7 +9144,7 @@ translate french ep1_6ac76392:
 translate french ep1_e8c29b49:
 
     # extend " Huh..."
-    extend ""
+    extend " Euh..."
 
 # game/ep1.rpy:2407
 translate french ep1_04dacc71:
@@ -9174,7 +9174,7 @@ translate french ep1_327f3823:
 translate french ep1_14a03e2e:
 
     # a pout "Um..."
-    a pout ""
+    a pout "Euh..."
 
 # game/ep1.rpy:2414
 translate french ep1_50390e66:
@@ -9192,7 +9192,7 @@ translate french ep1_53b90013:
 translate french ep1_25337883:
 
     # a concern "Huh?"
-    a concern ""
+    a concern "Hein?"
 
 # game/ep1.rpy:2417
 translate french ep1_f19de9ef:
@@ -9234,19 +9234,19 @@ translate french ep1_ec31b109:
 translate french ep1_bfe3016a:
 
     # a ramble "Wh..."
-    a ramble ""
+    a ramble "Qu..."
 
 # game/ep1.rpy:2428
 translate french ep1_5e8bc852:
 
     # extend " N-no!"
-    extend ""
+    extend "N-non!"
 
 # game/ep1.rpy:2429
 translate french ep1_586764c3:
 
     # extend concern " No."
-    extend concern ""
+    extend concern "Non."
 
 # game/ep1.rpy:2430
 translate french ep1_c976cebf:
@@ -9264,7 +9264,7 @@ translate french ep1_0aa8b82f:
 translate french ep1_a430543e:
 
     # a "Y-{w=0.5}yes..."
-    a ""
+    a "O-{w=0.5}oui..."
 
 # game/ep1.rpy:2437
 translate french ep1_dda9aba3:
@@ -9282,7 +9282,7 @@ translate french ep1_0593420f_2:
 translate french ep1_958d8cdf:
 
     # extend " Why...?"
-    extend ""
+    extend " Pourquoi...?"
 
 # game/ep1.rpy:2440
 translate french ep1_5cf0074b:
@@ -9360,7 +9360,7 @@ translate french ep1_cec814ee:
 translate french ep1_f7e5a6e8:
 
     # extend " Agh..."
-    extend ""
+    extend " Argh..."
 
 # game/ep1.rpy:2458
 translate french ep1_3c880206:
@@ -9420,7 +9420,7 @@ translate french ep1_ca453e8f:
 translate french ep1_5e7af332:
 
     # a um "{cps=90}So, um..."
-    a um ""
+    a um "{cps=90}Alors, euh..."
 
 # game/ep1.rpy:2469
 translate french ep1_04a94f12:
@@ -9480,7 +9480,7 @@ translate french ep1_5262acab:
 translate french ep1_6002d3f6:
 
     # "That’s a lie."
-    ""
+    "C’est un mensonge."
 
 # game/ep1.rpy:2481
 translate french ep1_a13b9e92:
@@ -9558,7 +9558,7 @@ translate french ep1_36b788bc:
 translate french ep1_159493d0_4:
 
     # a troubled "..."
-    a troubled ""
+    a troubled "..."
 
 # game/ep1.rpy:2501
 translate french ep1_3271128d:
@@ -9642,25 +9642,25 @@ translate french ep1_c567f06e:
 translate french ep1_8f5e40eb:
 
     # i "........................."
-    i ""
+    i "........................."
 
 # game/ep1.rpy:2516
 translate french ep1_4413fbac:
 
     # a "Goodbye."
-    a ""
+    a "Au revoir."
 
 # game/ep1.rpy:2517
 translate french ep1_ecf73f8b:
 
     # "........................................................."
-    ""
+    "........................................................."
 
 # game/ep1.rpy:2518
 translate french ep1_16b8cb94:
 
     # "Silence."
-    ""
+    "Silence."
 
 # game/ep1.rpy:2519
 translate french ep1_932bef92:
@@ -9738,7 +9738,7 @@ translate french ep1_f865d071:
 translate french ep1_c0c41c3c:
 
     # c "Hey, ya got any plans for New Years?"
-    c ""
+    c "Hé, vous avez des plans pour le Nouvel An?"
 
 # game/ep1.rpy:2559
 translate french ep1_0e17f8d9:
