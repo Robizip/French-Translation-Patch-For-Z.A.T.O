@@ -8746,73 +8746,73 @@ translate french ep1_6e39fc4d:
 translate french ep1_f1e8231b:
 
     # "No point in keeping up with classes if you’re getting expelled anyway – I guess that's Ira's modus operandi."
-    " – "
+    "Aucune raison de continuer de venir en classe si tu te fait quand même virer – Je suppose que c’est le modus operandi d’Ira."
 
 # game/ep1.rpy:2303
 translate french ep1_814831a1:
 
     # "To some degree, I understand it..."
-    ""
+    "D’une certaine façon, je peux le comprendre..."
 
 # game/ep1.rpy:2304
 translate french ep1_d8bbd81f:
 
     # extend " but I still wish she showed her face from time to time, if only for one lesson."
-    extend ""
+    extend " mais je continue d’espérer qu’elle pointe le bout de son nez de temps en temps, même si ce n’est pour qu’un cours."
 
 # game/ep1.rpy:2305
 translate french ep1_80ff1dd7:
 
     # "We probably wouldn’t talk even if she came."
-    ""
+    "Nous n’aurions même pas parlé ensemble même si elle était venue."
 
 # game/ep1.rpy:2306
 translate french ep1_cdba1bb2:
 
     # extend " It's not something we ever do in class, so I don’t expect anything in that regard."
-    extend ""
+    extend " Ce n’est pas quelque chose qu’on aurait fait en cours, alors je ne m’attendais à rien à cet égard."
 
 # game/ep1.rpy:2307
 translate french ep1_8f1eb31a:
 
     # "Just seeing the back of her head would be enough."
-    ""
+    "Juste voir l’arrière de sa tête me suffirait."
 
 # game/ep1.rpy:2315
 translate french ep1_57540167:
 
     # g "What’s with ya, Shubina?"
-    g ""
+    g "Qu’est-ce qui t’arrive, Shubina?"
 
 # game/ep1.rpy:2316
 translate french ep1_b337d7cc:
 
     # a smile "Huh?"
-    a smile ""
+    a smile "Hein?"
 
 # game/ep1.rpy:2319
 translate french ep1_0e90147a:
 
     # g "You’re all smiles."
-    g ""
+    g "Tu es toute sourire."
 
 # game/ep1.rpy:2320
 translate french ep1_bc46573e:
 
     # extend " Finally taking my advice to heart?"
-    extend ""
+    extend " Tu as enfin pris mon conseilà cœur?"
 
 # game/ep1.rpy:2321
 translate french ep1_c8ab5765:
 
     # a neutral "Uh..."
-    a neutral ""
+    a neutral "Euh..."
 
 # game/ep1.rpy:2322
 translate french ep1_dfc717a0:
 
     # extend " What advice?"
-    extend ""
+    extend " Quel conseil?"
 
 # game/ep1.rpy:2323
 translate french ep1_31466573:
@@ -8848,7 +8848,7 @@ translate french ep1_3cfa64bb:
 translate french ep1_848c0fb1:
 
     # g "We’re so proud of you."
-    g ""
+    g "Nous sommes si fiers de moi."
 
 # game/ep1.rpy:2329
 translate french ep1_51790526:
