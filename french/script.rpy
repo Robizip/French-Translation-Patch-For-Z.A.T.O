@@ -2120,7 +2120,7 @@ translate french start_33e4ca6f:
 translate french start_619b62e2:
 
     # extend " I’ll be happy, the good irrational me will be happy, and the cold reasonable me will be happy as well."
-    extend " Je serais contente, la bonne partie de moi irrationnelle sera tout aussi contente, et ma partie calme et raisonnable le sera également."
+    extend " Je serai contente, la bonne partie de moi irrationnelle sera tout aussi contente, et ma partie calme et raisonnable le sera tout autant."
 
 # game/script.rpy:607
 translate french start_73076c1a:
@@ -3374,7 +3374,7 @@ translate french start_0851bf71:
 translate french start_3376fff9:
 
     # "I think I’ll stick to the grander narrative angle for the time being."
-    "Je pense que je vais m’en tenir à l’angle narratif plus général pour le moment."
+    "Je pense que je vais m’en tenir à un point de vue plus global pour le moment."
 
 # game/script.rpy:956
 translate french start_c023596b:

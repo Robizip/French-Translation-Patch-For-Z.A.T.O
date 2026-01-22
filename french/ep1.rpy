@@ -8218,7 +8218,7 @@ translate french ep1_aaf1c8c1:
 translate french ep1_5ae64153:
 
     # extend " I’ll check ‘em out if I don't forget."
-    extend " J’irais me renseigner si je n’oublie pas."
+    extend " J’irai me renseigner si je n’oublie pas."
 
 # game/ep1.rpy:2160
 translate french ep1_fc7eef9d:
@@ -8488,7 +8488,7 @@ translate french ep1_c017c114:
 translate french ep1_35487a19:
 
     # extend " They’re alright."
-    extend " Ils sont pas mal."
+    extend " Ils sont pas mals."
 
 # game/ep1.rpy:2231
 translate french ep1_05c3d763:
@@ -8506,7 +8506,7 @@ translate french ep1_ae23fab3:
 translate french ep1_b3f846fd:
 
     # extend " I’ll remember that!"
-    extend " Je m’en souviendrais!"
+    extend " Je m’en souviendrai!"
 
 # game/ep1.rpy:2237
 translate french ep1_6f3d4875_33:
@@ -8644,7 +8644,7 @@ translate french ep1_1dbefaaf:
 translate french ep1_6efb99bc:
 
     # "Maybe next time she’ll tell me a little more about herself."
-    "Peut-être que la prochaine fois, elle me dira un peu plus sur elle-même."
+    "Peut-être que la prochaine fois, elle m’en dira un peu plus sur elle-même."
 
 # game/ep1.rpy:2269
 translate french ep1_435b7c3c:
@@ -8662,13 +8662,13 @@ translate french ep1_5b2ce050:
 translate french ep1_92cbae14:
 
     # extend " Next time, I’ll have to ask Ira more questions."
-    extend " La prochaine fois, je poserais plus de questions à Ira."
+    extend " La prochaine fois, je poserai plus de questions à Ira."
 
 # game/ep1.rpy:2273
 translate french ep1_0d6302be:
 
     # "I’ll ask her more about the books she likes."
-    "Je lui en demanderais plus sur les livres qu’elle aime."
+    "Je lui en demanderai plus sur les livres qu’elle aime."
 
 # game/ep1.rpy:2274
 translate french ep1_6d155286:
@@ -8848,7 +8848,7 @@ translate french ep1_3cfa64bb:
 translate french ep1_848c0fb1:
 
     # g "We’re so proud of you."
-    g "Nous sommes si fiers de moi."
+    g "Nous sommes si fiers de toi."
 
 # game/ep1.rpy:2329
 translate french ep1_51790526:
@@ -8873,7 +8873,7 @@ translate french ep1_f0a30168:
 translate french ep1_4e2781dd:
 
     # extend " I’ll do that."
-    extend " Je le ferais."
+    extend " Je le ferai."
 
 # game/ep1.rpy:2334
 translate french ep1_4b340443:
@@ -8891,7 +8891,7 @@ translate french ep1_526f52e4:
 translate french ep1_f4aa04d4:
 
     # extend " You’re welcome."
-    extend " Tu es la bienvenue."
+    extend " De rien."
 
 # game/ep1.rpy:2337
 translate french ep1_0a33345d:
@@ -8939,19 +8939,19 @@ translate french ep1_98033b77:
 translate french ep1_aa8e72af:
 
     # extend " I’m going to do everything to bump into Ira again."
-    extend " Je vais tout faire pour croiser de nouveau Ira."
+    extend " Je ferai tout pour croiser Ira uen fois de plus."
 
 # game/ep1.rpy:2349
 translate french ep1_0f98272b:
 
     # "I’ll walk the whole town up and down so that we see each other."
-    ""
+    "Je parcourrai de long en large toute la ville afin que nous puissions nous voir."
 
 # game/ep1.rpy:2350
 translate french ep1_02cffb77:
 
     # extend " I’ll scour every corner of this place to find her."
-    extend " Je fouillerais chaque recoin de cette ville pour la retrouver."
+    extend " Je fouillerai chaque recoin de cette ville pour la retrouver."
 
 # game/ep1.rpy:2356
 translate french ep1_76b2fe88_7:
@@ -8969,7 +8969,7 @@ translate french ep1_c0aeb0f5:
 translate french ep1_b278070c:
 
     # extend " At the end of the day, even if I walk all the possible routes, there’s no guarantee I’ll run into Ira."
-    extend " En fin de compte, même si je passe par toutes les routes possibles, il n’y a aucune garantie que je tombe sur Ira."
+    extend " En fin de compte, même si je passe par toutes les routes possibles, il n’y a aucune garantie que je tomberai sur Ira."
 
 # game/ep1.rpy:2361
 translate french ep1_fd807d35:
@@ -9019,19 +9019,19 @@ translate french ep1_2c673f53:
 translate french ep1_e10a21fb:
 
     # extend "\n\nI’ll make as many memorable moments as I can while Ira's here."
-    extend "\n\nJe me ferais le plus de moments mémorables possibles tant qu’Ira est là."
+    extend "\n\nJe me ferai le plus de moments mémorables possibles tant qu’Ira est là."
 
 # game/ep1.rpy:2371
 translate french ep1_d639cd3d:
 
     # extend " I’ll make every encounter count."
-    extend " Je ferais que chaque rencontre compte."
+    extend " Je ferai que chaque rencontre compte."
 
 # game/ep1.rpy:2372
 translate french ep1_effabb2a:
 
     # extend "\n\n\n\nI’ll fill this measly scrap of time with wonderful things."
-    extend "\n\n\n\nJe remplirais ce maigre morceau de temps avec des choses merveilleuses."
+    extend "\n\n\n\nJe remplirai ce maigre morceau de temps avec des choses merveilleuses."
 
 # game/ep1.rpy:2373
 translate french ep1_76b2fe88_8:
@@ -9433,7 +9433,7 @@ translate french ep1_04a94f12:
 translate french ep1_b4633831:
 
     # "I just keep speaking, hoping she’ll stop being mad at me."
-    "Je continuais juste de parler, espérant qu’elle arrête d’être énervée contre moi."
+    "Je continuai juste de parler, espérant qu’elle arrête d’être énervée contre moi."
 
 # game/ep1.rpy:2471
 translate french ep1_21a74b9a:
