@@ -9925,7 +9925,7 @@ translate french ep1_f8d76af4:
 translate french ep1_eebba2e7_1:
 
     # g "Yeah."
-    g ""
+    g "Ouais."
 
 # game/ep1.rpy:2590
 translate french ep1_88e8bf59:
@@ -9967,25 +9967,25 @@ translate french ep1_59a550e2:
 translate french ep1_f1210608:
 
     # extend " It’s the end of the year."
-    extend ""
+    extend " C’est la fin de l’année."
 
 # game/ep1.rpy:2599
 translate french ep1_a20cefa7_7:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:2600
 translate french ep1_d2233e75:
 
     # extend "Right."
-    extend ""
+    extend " C’est vrai."
 
 # game/ep1.rpy:2601
 translate french ep1_108cc3fc:
 
     # extend " It's almost New Year’s."
-    extend ""
+    extend " C’est presque le Nouvel An."
 
 # game/ep1.rpy:2602
 translate french ep1_2d7fe938:
@@ -10125,7 +10125,7 @@ translate french ep1_e241dfad:
 translate french ep1_395e0e69:
 
     # extend " Probably not."
-    extend ""
+    extend " Probablement pas."
 
 # game/ep1.rpy:2638
 translate french ep1_3396bf45:
@@ -10161,7 +10161,7 @@ translate french ep1_6a506a57:
 translate french ep1_fbd2ed04:
 
     # extend " Hm..."
-    extend ""
+    extend " Euh..."
 
 # game/ep1.rpy:2644
 translate french ep1_076b1b53:
@@ -10281,7 +10281,7 @@ translate french ep1_76b2fe88_11:
 translate french ep1_a20cefa7_8:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:2672
 translate french ep1_609a70de:
@@ -10497,7 +10497,7 @@ translate french ep1_d9f1f3d4:
 translate french ep1_a20cefa7_9:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:2727
 translate french ep1_c6afcfbe:
@@ -10527,7 +10527,7 @@ translate french ep1_d17ee593:
 translate french ep1_a1909e37:
 
     # "An idea is forming in my head."
-    ""
+    "Une idèe"
 
 # game/ep1.rpy:2744
 translate french ep1_170a9315:
@@ -10539,7 +10539,7 @@ translate french ep1_170a9315:
 translate french ep1_167286f1:
 
     # extend " It's perfect."
-    extend ""
+    extend " C’est parfait."
 
 # game/ep1.rpy:2746
 translate french ep1_b1bdca0f:
@@ -10593,13 +10593,13 @@ translate french ep1_bab2ac0a:
 translate french ep1_3f008c31:
 
     # extend " Yes."
-    extend ""
+    extend " Oui."
 
 # game/ep1.rpy:2767
 translate french ep1_129e5b1c:
 
     # extend " Thank god, no visitors today."
-    extend ""
+    extend " Dieu merci, pas de visieurs aujourd’hui"
 
 # game/ep1.rpy:2768
 translate french ep1_debc83ec:
