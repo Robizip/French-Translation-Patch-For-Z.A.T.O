@@ -2408,7 +2408,7 @@ translate french start_af1edad2:
 translate french start_34fe90e1:
 
     # extend " Is she an upperclassman?"
-    extend " Est-ce que c’est une étudiante plus âgée?"
+    extend " Est-elle une étudiante plus âgée?"
 
 # game/script.rpy:687
 translate french start_8a8212bd:
@@ -2714,7 +2714,7 @@ translate french start_8d946cae:
 translate french start_2e11f0ff:
 
     # extend " But it makes sense they’d at least give the upperclassmen a heads up, just in case they happened to know her."
-    extend " Mais c’est logique d’avoir au moins prévenus les gens de classes supérieures, au cas où ils sauraient ce qui lui est arrivée."
+    extend " Mais c’est logique d’avoir au moins prévenus les élèves plus âgés, au cas où ils sauraient ce qui lui est arrivée."
 
 # game/script.rpy:784
 translate french start_5a54d224:
