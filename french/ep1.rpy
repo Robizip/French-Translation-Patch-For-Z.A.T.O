@@ -9751,7 +9751,7 @@ translate french ep1_0e17f8d9:
 translate french ep1_878fd58b:
 
     # extend " I’ll be with my folks."
-    extend ""
+    extend " Je serai avec mes ???."
 
 # game/ep1.rpy:2561
 translate french ep1_3f92fcd5:
@@ -10749,7 +10749,7 @@ translate french ep1_4635a143:
 translate french ep1_f198019a:
 
     # "I don’t like locking myself in here."
-    ""
+    "Je n’aime pas ???."
 
 # game/ep1.rpy:2812
 translate french ep1_5315858e:
