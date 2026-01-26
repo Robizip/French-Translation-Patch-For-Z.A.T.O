@@ -10063,31 +10063,31 @@ translate french ep1_8856a0bd:
 translate french ep1_10ec34fb:
 
     # extend " I just really..."
-    extend ""
+    extend " Je veux juste vraiment..."
 
 # game/ep1.rpy:2626
 translate french ep1_cb1a39da:
 
     # extend " I wish that I could clear things up with her."
-    extend ""
+    extend " J’espérais pouvoir clarifier des choses avec elle."
 
 # game/ep1.rpy:2627
 translate french ep1_149b5935:
 
     # extend " I’m not sure how, but I have to."
-    extend ""
+    extend " Je ne suis pas sûre de comment, mais je dois le faire"
 
 # game/ep1.rpy:2628
 translate french ep1_6aa64db8:
 
     # extend "\n\nMaybe I should apologise again?"
-    extend ""
+    extend "\n\nPeut-être devrais-je encore m’excuser?"
 
 # game/ep1.rpy:2629
 translate french ep1_a8e59953:
 
     # extend " What for?"
-    extend ""
+    extend " Pour quelle raison?"
 
 # game/ep1.rpy:2630
 translate french ep1_114e800c:
@@ -10105,7 +10105,7 @@ translate french ep1_0233e6e1:
 translate french ep1_986143bc:
 
     # extend "\n\n\n\nBuh, I don’t know anymore."
-    extend "\n\n\n\n Je ne sais plus trop quand."
+    extend "\n\n\n\nJe ne sais plus trop quand."
 
 # game/ep1.rpy:2633
 translate french ep1_46b216fa:
@@ -10113,13 +10113,13 @@ translate french ep1_46b216fa:
     # nvl clear
     # n "I need to think of something that could cheer her up next time we meet."
     nvl clear
-    n ""
+    n "Je dois trouver quelque chose qui pourrait lui remonter le moral la prochaine fois que nous nous verrons."
 
 # game/ep1.rpy:2636
 translate french ep1_e241dfad:
 
     # extend "\n\nWill more apologies really cut it?"
-    extend ""
+    extend "\n\nEst-ce que plus d’excuses suffiront vraiment?"
 
 # game/ep1.rpy:2637
 translate french ep1_395e0e69:
@@ -10131,19 +10131,19 @@ translate french ep1_395e0e69:
 translate french ep1_3396bf45:
 
     # extend " She’ll just get more annoyed..."
-    extend ""
+    extend " Elle va juste être encore plus agacée..."
 
 # game/ep1.rpy:2639
 translate french ep1_ec23bc61:
 
     # extend "\n\nThen maybe a small gift?"
-    extend ""
+    extend "\n\nAlors peut-être un petit cadeau?"
 
 # game/ep1.rpy:2640
 translate french ep1_3082deed:
 
     # extend " That might be weird, though..."
-    extend ""
+    extend " Par contre, ça pourrait être bizarre..."
 
 # game/ep1.rpy:2641
 translate french ep1_ec6a3721:
@@ -10179,13 +10179,13 @@ translate french ep1_d4e1089f:
 translate french ep1_71b7e0bc:
 
     # extend "\n\n\n\nA waffle?"
-    extend ""
+    extend "\n\n\n\nUne gauffre?"
 
 # game/ep1.rpy:2647
 translate french ep1_465a71d8:
 
     # extend " \nWould she like a waffle...?"
-    extend ""
+    extend " \nAimera-t-elle une gauffre...?"
 
 # game/ep1.rpy:2648
 translate french ep1_76b2fe88_10:
@@ -10353,7 +10353,7 @@ translate french ep1_f24427ba:
 translate french ep1_a76c4969:
 
     # "And it’s not just the temperature."
-    "Et ce n’est pas que la température"
+    "Et ce n’est pas que la température."
 
 # game/ep1.rpy:2688
 translate french ep1_0b428b9f:
@@ -10527,7 +10527,7 @@ translate french ep1_d17ee593:
 translate french ep1_a1909e37:
 
     # "An idea is forming in my head."
-    "Une idèe"
+    "Une idée se forma dans ma tête."
 
 # game/ep1.rpy:2744
 translate french ep1_170a9315:
@@ -10551,25 +10551,25 @@ translate french ep1_b1bdca0f:
 translate french ep1_7c132950:
 
     # "There’s our door."
-    ""
+    "Voilà notre porte."
 
 # game/ep1.rpy:2753
 translate french ep1_5f065558:
 
     # extend " It’s kind of uninviting."
-    extend ""
+    extend " C’est assez peu attirant."
 
 # game/ep1.rpy:2754
 translate french ep1_3361c84b:
 
     # "But that's just my opinion."
-    ""
+    " Mais ce n’est que mon avis."
 
 # game/ep1.rpy:2755
 translate french ep1_7322c684:
 
     # extend " I bet dad's guests find it quite welcoming."
-    extend ""
+    extend " je parie que les invités de père trouvent ça chaleureux."
 
 # game/ep1.rpy:2756
 translate french ep1_faf4dc39:
@@ -10599,7 +10599,7 @@ translate french ep1_3f008c31:
 translate french ep1_129e5b1c:
 
     # extend " Thank god, no visitors today."
-    extend " Dieu merci, pas de visieurs aujourd’hui"
+    extend " Dieu merci, pas de visieurs aujourd’hui."
 
 # game/ep1.rpy:2768
 translate french ep1_debc83ec:
@@ -10743,13 +10743,13 @@ translate french ep1_772ba4f0:
 translate french ep1_4635a143:
 
     # extend " Even so, I go to my room as soon as I fill up the teapot."
-    extend " Pourtant, ???"
+    extend " Pourtant, j’allai dans ma chambre dês que j’ai rempli la théière."
 
 # game/ep1.rpy:2811
 translate french ep1_f198019a:
 
     # "I don’t like locking myself in here."
-    "Je n’aime pas ???."
+    "Je n’aime pas m’enfermer ici."
 
 # game/ep1.rpy:2812
 translate french ep1_5315858e:
