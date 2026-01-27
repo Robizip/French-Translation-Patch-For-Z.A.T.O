@@ -1052,7 +1052,7 @@ translate french start_1c85b8ef:
 translate french start_767f1dc3:
 
     # "I'm not surprised Ira would just run off somewhere without telling anybody, but still..."
-    "Je ne serai pas surprise qu'Ira se serait juste enfuie sans le dire à personne, mais pourtant..."
+    "Je ne serais pas surprise si Ira s’était juste enfuie sans le dire à personne, mais pourtant..."
 
 # game/script.rpy:351
 translate french start_6dd545f9:
@@ -1094,7 +1094,7 @@ translate french start_a18e188e:
 translate french start_7e29faee:
 
     # "They’re right, this wouldn’t be the first time Ira left for god knows where."
-    "Ils ont raison, ça ne serait pas la premier fois qu'Ira parte on ne sait où pour aucune bonne raison."
+    "Ils ont raison, ça ne serait pas la premier fois qu'Ira partît on ne sait où pour aucune bonne raison."
 
 # game/script.rpy:364
 translate french start_ddcdf56a:
@@ -1106,7 +1106,7 @@ translate french start_ddcdf56a:
 translate french start_87a5de14:
 
     # extend " The stuff they said about that older man..."
-    extend " Tout ce qu'ils ont dit sur ce vieil homme..."
+    extend " Tout ce qu'ils disent sur ce vieil homme..."
 
 # game/script.rpy:366
 translate french start_23516847:
@@ -1136,13 +1136,13 @@ translate french start_a20cefa7_2:
 translate french start_2eec9a39:
 
     # extend "I suppose it’s plausible, knowing how some girls are."
-    extend " Je supppose que c'est possible, sachant comment sont certaines filles."
+    extend "Je supppose que c'est possible, sachant comment sont certaines filles."
 
 # game/script.rpy:377
 translate french start_a91326a7:
 
     # extend " Even so, I’d never have thought Ira would be the type to be lovestruck like that."
-    extend " Même si je n'aurais jamais pensé qu'Ira serait ce type de personne à être amoureuse comme ça."
+    extend " Même si je n'aurais jamais pensé qu'Ira fût ce type de personne à être amoureuse comme ça."
 
 # game/script.rpy:378
 translate french start_f0b18387:
@@ -1178,7 +1178,7 @@ translate french start_381fedb2:
 translate french start_47c60844:
 
     # "Wow, I’d never have guessed."
-    "Woah, je n’aurais jamais deviné."
+    "Woah, je ne l’aurais jamais deviné."
 
 # game/script.rpy:384
 translate french start_a92c0db8:
@@ -1190,7 +1190,7 @@ translate french start_a92c0db8:
 translate french start_7f9f9613:
 
     # extend " But she is a girl at the end of the day."
-    extend " Mais au final, ça reste quand même une fille."
+    extend " Mais au final, ça reste\nquand même une fille."
 
 # game/script.rpy:386
 translate french start_d9ea39f4:
@@ -1208,7 +1208,7 @@ translate french start_306179aa:
 translate french start_5f932624:
 
     # "{size=+5}{cps=100}{b}She was planning to elope all along?!"
-    "{size=+5}{cps=100}{b}Peut-être avait-elle prévue de s’enfuir avec son amant depuis tout ce trmps?!"
+    "{size=+5}{cps=100}{b}Peut-être avait-elle prévue de s’enfuir avec son amant depuis tout ce temps?!"
 
 # game/script.rpy:389
 translate french start_68afa09a:
@@ -1316,7 +1316,7 @@ translate french start_96494572:
 translate french start_4b60ff30:
 
     # "Their whole group chuckles."
-    "Tout le groupe éclate de rire."
+    "Tout le groupe éclata de rire."
 
 # game/script.rpy:416
 translate french start_06afbe4d:
@@ -1364,7 +1364,7 @@ translate french start_44942c28:
 translate french start_b19c75ff:
 
     # a ramble "We weren't, I..."
-    a ramble "Nous n’étions pas, Je..."
+    a ramble "Nous n’étions pas, je..."
 
 # game/script.rpy:427
 translate french start_92a51a41:
@@ -1382,7 +1382,7 @@ translate french start_f013b6b6:
 translate french start_553cc184:
 
     # extend " Grachevskaya's screwing the old guy, she ain't like that."
-    extend " Grachevskaya’s baise avec le vieux mec, donc elle n’est pas de ce bord."
+    extend " Grachevskaya’s baise avec le vieux mec, elle n’est donc pas attirée par les filles."
 
 # game/script.rpy:431
 translate french start_40ff54bb:
@@ -1436,13 +1436,13 @@ translate french start_94dc30a3:
 translate french start_7b212045:
 
     # "They just keep laughing."
-    "Ils continuèrent à rire."
+    "Ils continuèrent tous à rire."
 
 # game/script.rpy:444
 translate french start_d84c307e:
 
     # "What can I even say to that?"
-    "De toute façon, je pourrais faire quoi face à ça?"
+    "De toute façon, qu’est-ce que je pourrais faire contre ça?"
 
 # game/script.rpy:445
 translate french start_78c1fd43:
