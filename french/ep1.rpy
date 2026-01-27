@@ -10149,31 +10149,31 @@ translate french ep1_3082deed:
 translate french ep1_ec6a3721:
 
     # extend " And I won’t get any more allowance until next week."
-    extend ""
+    extend " Et je ne pourrais pas obtenir d’argent de poche avant la semaine prochaine."
 
 # game/ep1.rpy:2642
 translate french ep1_6a506a57:
 
     # extend " What could I even buy with this spare change?"
-    extend ""
+    extend " Qu’est-ce que je pourrais même acheter avec ce peu d’argent de poche?"
 
 # game/ep1.rpy:2643
 translate french ep1_fbd2ed04:
 
     # extend " Hm..."
-    extend " Euh..."
+    extend " Hmm..."
 
 # game/ep1.rpy:2644
 translate french ep1_076b1b53:
 
     # extend "\n\nMaybe a little treat will do?"
-    extend ""
+    extend "\n\nPeut-être une petite sucrerie ferait l’affaire?"
 
 # game/ep1.rpy:2645
 translate french ep1_d4e1089f:
 
     # extend "\nUhhh..."
-    extend ""
+    extend "\nEuuh..."
 
 # game/ep1.rpy:2646
 translate french ep1_71b7e0bc:
@@ -10197,49 +10197,49 @@ translate french ep1_76b2fe88_10:
 translate french ep1_15444704:
 
     # n "{cps=100}{size=+7}{b}Aaaaaaargh!!{/b}{/size}"
-    n ""
+    n "{cps=100}{size=+7}{b}Aaaaaaargh!!{/b}{/size}"
 
 # game/ep1.rpy:2652
 translate french ep1_58df0ccf:
 
     # extend "\nWhat the hell?!"
-    extend ""
+    extend "\nMais putain?!"
 
 # game/ep1.rpy:2653
 translate french ep1_bbeb3ab2:
 
     # extend " She’s not a freaking dog!"
-    extend ""
+    extend " C’est pas un foutu chien!"
 
 # game/ep1.rpy:2654
 translate french ep1_105a9ea4:
 
     # extend " Why, why, why does my mind always go to some weird place with her?!{/cps}"
-    extend ""
+    extend " Pourquoi, pourquoi, pourquoi mon esprit est mal placée avec elle?!{/cps}"
 
 # game/ep1.rpy:2655
 translate french ep1_f63af4b6:
 
     # extend "\n\nGuh, I should just shut up."
-    extend ""
+    extend "\n\nBon, je devrais vraiment me taire."
 
 # game/ep1.rpy:2656
 translate french ep1_80660c8a:
 
     # extend " Focus on something else."
-    extend ""
+    extend " Se concentrer sur quelque chose d’autre."
 
 # game/ep1.rpy:2657
 translate french ep1_476425a0:
 
     # extend " It’s just so difficult to do these days."
-    extend ""
+    extend " C’est juste si difficile de le faire de nos jours."
 
 # game/ep1.rpy:2658
 translate french ep1_5cd95d39:
 
     # extend " Difficult, difficult..."
-    extend ""
+    extend " Difficile, difficile..."
 
 # game/ep1.rpy:2659
 translate french ep1_21b856e9:
@@ -10263,7 +10263,7 @@ translate french ep1_04f4b673:
 translate french ep1_fc126cbd_1:
 
     # extend "\n\n..."
-    extend "\n\n"
+    extend "\n\n..."
 
 # game/ep1.rpy:2663
 translate french ep1_fa1f3275:
@@ -10287,37 +10287,37 @@ translate french ep1_a20cefa7_8:
 translate french ep1_609a70de:
 
     # "There."
-    "Là."
+    "Voilà."
 
 # game/ep1.rpy:2673
 translate french ep1_115dd85b:
 
     # extend " A little clearer."
-    extend ""
+    extend " C’est un peu plus clair."
 
 # game/ep1.rpy:2674
 translate french ep1_5687fb8a:
 
     # "I see the sidewalk a little bit better, the buildings, the sky, the lights."
-    ""
+    "Je vis un peu mieux le trottoir, les bâtiments, le ciel, les lumières."
 
 # game/ep1.rpy:2675
 translate french ep1_41a02048:
 
     # extend " Everything around is friendly."
-    extend ""
+    extend " Tout ce qu’il y a autour est amical."
 
 # game/ep1.rpy:2676
 translate french ep1_c142f223:
 
     # extend " Everything is beautiful."
-    extend ""
+    extend " Tout est magnifique."
 
 # game/ep1.rpy:2677
 translate french ep1_5cd07343:
 
     # "That’s great."
-    ""
+    "C’est bien."
 
 # game/ep1.rpy:2678
 translate french ep1_f5fe0dd3:
@@ -10383,19 +10383,19 @@ translate french ep1_0ff158fa:
 translate french ep1_a4e7ee68:
 
     # extend " Ah, I should’ve gone to the library today..."
-    extend ""
+    extend "Ah, je devais aller à la librarie aujourd’hui..."
 
 # game/ep1.rpy:2696
 translate french ep1_5a1013e0:
 
     # extend " What time is it?"
-    extend ""
+    extend " Quelle heure est-il?"
 
 # game/ep1.rpy:2697
 translate french ep1_c6917f17:
 
     # extend " Maybe I can still make it."
-    extend ""
+    extend " Peut-être que je peux encore le faire."
 
 # game/ep1.rpy:2698
 translate french ep1_9370fac3:
@@ -10431,7 +10431,7 @@ translate french ep1_7fd3ec99:
 translate french ep1_770056d1:
 
     # "Oh!"
-    ""
+    "Oh!"
 
 # game/ep1.rpy:2710
 translate french ep1_bc40e961:
@@ -10455,7 +10455,7 @@ translate french ep1_842c8115:
 translate french ep1_3bd613ef:
 
     # extend " Well, I like it as is."
-    extend ""
+    extend " Hé bien, je l’aime tel qu’il est."
 
 # game/ep1.rpy:2714
 translate french ep1_0a660aee:
@@ -10479,13 +10479,13 @@ translate french ep1_c88c85b0:
 translate french ep1_5ebb7f1f:
 
     # "The streets are empty, save for a couple of adults I saw walking down to the bar."
-    ""
+    "Les rues sont vides, mis à part quelques adultes que je vis descendre vers le bar."
 
 # game/ep1.rpy:2724
 translate french ep1_fd9edc48:
 
     # extend " Hard to imagine there would be a lot of people out on an evening like this."
-    extend ""
+    extend " Dur d’imaginer que ???"
 
 # game/ep1.rpy:2725
 translate french ep1_d9f1f3d4:
@@ -10503,7 +10503,7 @@ translate french ep1_a20cefa7_9:
 translate french ep1_c6afcfbe:
 
     # extend "Every answer to this is embarrassing."
-    extend ""
+    extend "Toutes les réponses à ça sont embarassantes."
 
 # game/ep1.rpy:2740
 translate french ep1_5b452354:
@@ -10533,13 +10533,13 @@ translate french ep1_a1909e37:
 translate french ep1_170a9315:
 
     # extend " An obvious solution to the problem I've been having."
-    extend ""
+    extend " Une solution évidente au problème que j’avais."
 
 # game/ep1.rpy:2745
 translate french ep1_167286f1:
 
     # extend " It's perfect."
-    extend " C’est parfait."
+    extend " C’était parfait."
 
 # game/ep1.rpy:2746
 translate french ep1_b1bdca0f:
