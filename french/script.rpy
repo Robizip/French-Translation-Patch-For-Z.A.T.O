@@ -2084,7 +2084,7 @@ translate french start_38eaaab3:
 translate french start_dd83981b:
 
     # "It’s not as if what I had seen will make a difference."
-    "Ce n’est pas comme si ce que j’avais vu allait faire bouger grand-chose."
+    "Ce n’était pas comme si ce que j’avais vu allait faire bouger grand-chose."
 
 # game/script.rpy:601
 translate french start_f6de8c73:
@@ -2102,7 +2102,7 @@ translate french start_2e62c6bd:
 translate french start_4caf9da6:
 
     # "It's not the kind of information that points to any particular location or culprit."
-    "Ce n’est pas le type d’informations menant à un lieu particulier ou à un coupable."
+    "Ce n’était pas le type d’informations menant à un lieu particulier ou à un coupable."
 
 # game/script.rpy:604
 translate french start_55a3bf7d:
@@ -2132,7 +2132,7 @@ translate french start_73076c1a:
 translate french start_d9716129:
 
     # "{cps=80}Good job, Asya, you solved it."
-    "{cps=80}Bien jouée Asya, tu as résolu cette affaire."
+    "{cps=80}Bien jouée Asya, tu avais résolu cette affaire."
 
 # game/script.rpy:609
 translate french start_c48d9f88:
