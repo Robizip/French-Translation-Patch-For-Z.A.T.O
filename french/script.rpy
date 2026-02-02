@@ -2108,7 +2108,7 @@ translate french start_4caf9da6:
 translate french start_55a3bf7d:
 
     # extend " Not that there is one."
-    extend " Non pas qu’il y en ait un."
+    extend " Non pas qu’il y en eût un."
 
 # game/script.rpy:605
 translate french start_33e4ca6f:
@@ -2132,7 +2132,7 @@ translate french start_73076c1a:
 translate french start_d9716129:
 
     # "{cps=80}Good job, Asya, you solved it."
-    "{cps=80}Bien jouée Asya, tu avais résolu cette affaire."
+    "{cps=80}Bien jouée Asya, tu as résolu cette affaire."
 
 # game/script.rpy:609
 translate french start_c48d9f88:
@@ -2144,7 +2144,7 @@ translate french start_c48d9f88:
 translate french start_59e18383:
 
     # "{cps=80}Welp, no need to loaf around here any longer!"
-    "{cps=80}Voilà, je n’ai aucune raison pour traîner ici plus longtemps!"
+    "{cps=80}Voilà, je n’avais aucune raison pour traîner ici plus longtemps!"
 
 # game/script.rpy:611
 translate french start_468e837f:
@@ -2174,19 +2174,19 @@ translate french start_73a8f757:
 translate french start_e44cf88d:
 
     # extend " Despite all odds, there’s always a possibility that she is in danger."
-    extend " Malgré tout, il y a toujours une possibilité qu’elle soit vraiment en danger."
+    extend " Malgré tout, il y avait toujours une possibilité qu’elle soit vraiment en danger."
 
 # game/script.rpy:621
 translate french start_16328e8d:
 
     # "{cps=100}If there’s even the tiniest chance that my report will help in finding her, then that info is worth providing!"
-    "{cps=100}Et si il y a la moindre chance que mon signalement aide à la retrouver, alors cette information mérite d’être partagée!"
+    "{cps=100}Et si il y avait la moindre chance que mon signalement aide à la retrouver, alors cette information méritait d’être partagée!"
 
 # game/script.rpy:622
 translate french start_be60bc2d:
 
     # "{cps=100}And if she really did elope with her beloved, then my testimony won't change a thing."
-    "{cps=100}Mais si elle s’est vraiment enfuie avec son amant,\nalors mon témoignage ne fera rien avancer."
+    "{cps=100}Mais si elle s’était vraiment enfuie avec son amant,\nalors mon témoignage ne fera rien avancer."
 
 # game/script.rpy:623
 translate french start_aaccd201:
@@ -2204,13 +2204,13 @@ translate french start_a20cefa7_3:
 translate french start_c57e2b79:
 
     # extend "That’s true."
-    extend "C’est vrai."
+    extend "C’était vrai."
 
 # game/script.rpy:630
 translate french start_b6ef972f:
 
     # "{cps=100}If I carefully weigh the pros and cons, that off chance of Ira being in danger and my words being the key to saving her makes for a strong argument."
-    "{cps=100}Si je pèse minutieusement le pour et le contre, le fait qu’Ira soit éventuellement en danger et que mes mots soient peut-être la clé pour la sauver est un sacré argument de taille."
+    "{cps=100}Si je pesais minutieusement le pour et le contre, le fait qu’Ira soit éventuellement en danger et que mes mots fussent peut-être la clé pour la sauver était un sacré argument de taille."
 
 # game/script.rpy:631
 translate french start_011ae1bd:
@@ -2222,7 +2222,7 @@ translate french start_011ae1bd:
 translate french start_67f68254:
 
     # extend " “My words being the key to saving her”..."
-    extend " “Que mes mots soient peut-être la clé pour la sauver”..."
+    extend " “Que mes mots fussent peut-être la clé pour la sauver”..."
 
 # game/script.rpy:633
 translate french start_33e7ae55:
@@ -2258,7 +2258,7 @@ translate french start_cb279d72:
 translate french start_1c637cd3:
 
     # "Hm, no, I gotta come up with something cooler."
-    "Hmm, non, je vais trouver quelque chose d’encore plus cool."
+    "Hmm, non, je trouverai quelque chose d’encore plus cool."
 
 # game/script.rpy:641
 translate french start_32efc09e:
@@ -2276,7 +2276,7 @@ translate french start_f220f517:
 translate french start_9705c78e:
 
     # "{cps=100}Do I hope Ira ends up in the hospital?"
-    "{cps=100}Est-ce que j’espère qu’elle finisse à l’hôpital?"
+    "{cps=100}Espérais-je qu’elle finisse à l’hôpital?"
 
 # game/script.rpy:648
 translate french start_21d28aad:
@@ -2288,13 +2288,13 @@ translate french start_21d28aad:
 translate french start_98003e4c:
 
     # "{cps=100}I don’t need my freaking testimony to save her."
-    "{cps=100}Je n’ai pas besoin de mon fichu témoignage pour la sauver."
+    "{cps=100}Je n’avais pas besoin de mon fichu témoignage pour la sauver."
 
 # game/script.rpy:650
 translate french start_e1c42bef:
 
     # extend " I hope my testimony is useless because she’s already home."
-    extend " J’espère que mon témoignage sera inutile vu qu’elle sera déjà chez elle."
+    extend " J’espérais que mon témoignage fût inutile vu qu’elle serait déjà chez elle."
 
 # game/script.rpy:651
 translate french start_5245f8be:
@@ -2306,43 +2306,43 @@ translate french start_5245f8be:
 translate french start_7e682148:
 
     # extend " That’s what I hope for."
-    extend " Voilà ce que j’espère."
+    extend " Voilà ce que j’espérais."
 
 # game/script.rpy:653
 translate french start_58ef6680:
 
     # "Ugh, I just keep having stupid thoughts today."
-    "Pfff, je n’ai vraiment que des pensées stupides aujourd’hui."
+    "Pfff, je n’avais vraiment que des pensées stupides aujourd’hui."
 
 # game/script.rpy:659
 translate french start_01c71600:
 
     # "At least I know what I should do now."
-    "Au moins je sais ce que je devrais faire maintenant."
+    "Au moins je savais ce que je devais faire maintenant."
 
 # game/script.rpy:660
 translate french start_615a4f8c:
 
     # extend " I’ve made my decision."
-    extend " J’ai pris ma décision."
+    extend " J’avais pris ma décision."
 
 # game/script.rpy:661
 translate french start_a5f4b41e:
 
     # "I’m going to the teacher’s office."
-    "Je vais au bureau des professeurs."
+    "J’allais au bureau des professeurs."
 
 # game/script.rpy:662
 translate french start_ef2d473b:
 
     # extend " Where was it again?"
-    extend " Où est-il déjà?"
+    extend " Où était-il déjà?"
 
 # game/script.rpy:663
 translate french start_eb4366a7:
 
     # "I doubt they expect anyone to come."
-    "Je doute qu’ils s’attendent à ce que quelqu’un vienne vraiment."
+    "Je doutais qu’ils s’attendèrent vraiment à ce que quelqu’un vînt."
 
 # game/script.rpy:664
 translate french start_1aa9f9a4:
@@ -2360,7 +2360,7 @@ translate french start_f1fd3f9c:
 translate french start_0fccfc8e:
 
     # "Well, who cares."
-    "De toute façon, qui s’en précoccupe."
+    "De toute façon, qui s’en précoccupait."
 
 # game/script.rpy:667
 translate french start_1c401398:
@@ -2396,19 +2396,19 @@ translate french start_b0452b4c:
 translate french start_64891d92:
 
     # extend " There’s a girl standing there, right by the door."
-    extend " Il y a une fille se tenant là, juste devant la porte."
+    extend " Il y avait une fille se tenant là, juste devant la porte."
 
 # game/script.rpy:685
 translate french start_af1edad2:
 
     # "I think I’ve seen her before..."
-    "Je crois que je l’ai déjà vue auparavant..."
+    "Je crois que je l’avais déjà vue auparavant..."
 
 # game/script.rpy:686
 translate french start_34fe90e1:
 
     # extend " Is she an upperclassman?"
-    extend " Est-elle une étudiante plus âgée?"
+    extend " Était-elle une étudiante plus âgée?"
 
 # game/script.rpy:687
 translate french start_8a8212bd:
@@ -2474,7 +2474,7 @@ translate french start_7cab623c:
 translate french start_414b8ee2:
 
     # extend " I’m just waiting for someone."
-    extend " J’attends juste quelqu’un."
+    extend " J’attendais juste quelqu’un."
 
 # game/script.rpy:709
 translate french start_2eeb52e6:
@@ -2570,13 +2570,13 @@ translate french start_a6f85296:
 translate french start_070becd0:
 
     # "{cps=100}Guh, that’s what I was talking about...!"
-    "{cps=100}Eh, c'est justement le truc auquel j’étais en train de penser juste avant...!"
+    "{cps=100}Eh, c'était justement le truc auquel j’étais en train de penser juste avant...!"
 
 # game/script.rpy:745
 translate french start_a58596ae:
 
     # "It’s not that I don’t care to remember everyone’s names."
-    "Ce n’est pas que je m’en fiche de me souvenir des prénoms de tout le monde."
+    "Ce n’était pas que je m’en fichait de me souvenir des prénoms de tout le monde."
 
 # game/script.rpy:746
 translate french start_74cd0f54:
@@ -2588,7 +2588,7 @@ translate french start_74cd0f54:
 translate french start_3bb01d90:
 
     # "They say that in tiny cities like this everyone knows each other, but that’s just not true."
-    "Ils disent que dans des si petites villes comme celle-ci tout le monde se connaît, mais ce n’est juste pas vrai."
+    "Ils disent que dans de si petites villes comme celle-ci tout le monde se connaît, mais ce n’est juste pas vrai."
 
 # game/script.rpy:748
 translate french start_2a4b0753:
@@ -2600,7 +2600,7 @@ translate french start_2a4b0753:
 translate french start_52ff36a8:
 
     # extend " But I haven’t made any new ones since the day Tosya left."
-    extend " Mais je ne m’en suis pas fait de nouveaux depuis que Tosya est partie."
+    extend " Mais je ne m’en était pas fait de nouveaux depuis que Tosya était partie."
 
 # game/script.rpy:750
 translate french start_13c68873:
@@ -2612,13 +2612,13 @@ translate french start_13c68873:
 translate french start_0da34f20:
 
     # "Sure, sometimes I overhear my classmates chatting about this and that."
-    "Bien sûr, j’entends parfois mes camarades de classe discuter de ceci ou de cela."
+    "Bien sûr, j’entendais parfois mes camarades de classe discuter de ceci ou de cela."
 
 # game/script.rpy:752
 translate french start_d9047790:
 
     # "But I don’t like listening to them, I don’t like their voices, so I try not to pay them too much attention."
-    "Mais je n’aime pas les écouter, je n’aime pas leurs voix, alors j’essaie de ne pas y prêter attention."
+    "Mais je n’aimais pas les écouter, je n’aimais pas leurs voix, alors j’essayais de ne pas y prêter attention."
 
 # game/script.rpy:753
 translate french start_e81efaa7:
@@ -2648,7 +2648,7 @@ translate french start_e5c60e2f:
 translate french start_b466ac7d:
 
     # a neutral "...Oh!"
-    a neutral "...Ah!"
+    a neutral "...Oh!"
 
 # game/script.rpy:763
 translate french start_2d4f5287:
@@ -2720,7 +2720,7 @@ translate french start_2e11f0ff:
 translate french start_5a54d224:
 
     # "Which means..."
-    "Ce qui veut dire..."
+    "Ce qui voulait dire..."
 
 # game/script.rpy:785
 translate french start_66b82a71:
@@ -2834,25 +2834,25 @@ translate french start_4916825d:
 translate french start_8a4e20ef:
 
     # extend " I'm making an awful first impression."
-    extend " Je fais une horrible première impression."
+    extend " Je faisais une horrible première impression."
 
 # game/script.rpy:814
 translate french start_529c3554:
 
     # "Not only did I not know her name like I was supposed to, but now I look like I don't know the first thing about vigilance..."
-    "Non seulement je ne sais pas son nom comme j’aurais dû, mais de plus, j’ai l’air de ne même pas connaître la vigilence."
+    "Non seulement je ne savais pas son nom comme j’aurais dû, mais de plus, j’avais l’air de ne même pas connaître la prudence."
 
 # game/script.rpy:815
 translate french start_6362ee0a:
 
     # "{cps=100}Aaagh, who am I kidding!!"
-    "{cps=100}Aaagh, mais qui je trompe!!"
+    "{cps=100}Aaagh, mais qui je trompais!!"
 
 # game/script.rpy:816
 translate french start_ca18113c:
 
     # extend " I really don't!!!"
-    extend " Je ne sais vraiment pas!!!"
+    extend " Je ne savais vraiment pas!!!"
 
 # game/script.rpy:818
 translate french start_8b345740:
@@ -2924,37 +2924,37 @@ translate french start_aa8e73a5:
 translate french start_8635925e:
 
     # extend " Please, don’t tell me it’s gonna be the same thing as my classmates."
-    extend " S’il te plaît, ne me dit pas que ça va être la même chose qu’avec mes camarades de classe."
+    extend " S’il te plaît, ne me dit pas que ça allait être la même chose qu’avec mes camarades de classe."
 
 # game/script.rpy:840
 translate french start_f63ce9eb:
 
     # "Is this because I acted rude?"
-    "Est-ce parce que j’ai agi méchamment?"
+    "Était-ce parce que j’avais agi méchamment?"
 
 # game/script.rpy:841
 translate french start_19a9b4df:
 
     # extend " I didn’t mean to."
-    extend " Si c’est ça, je n’ai pas fait exprès."
+    extend " Si c’est ça, je n’avais pas fait exprès."
 
 # game/script.rpy:842
 translate french start_55d665b9:
 
     # extend " Well, I never mean to."
-    extend " En fait, je ne fais jamais exprès."
+    extend " En fait, je ne faisais jamais exprès."
 
 # game/script.rpy:843
 translate french start_94497614:
 
     # "Ah, I just can’t help it, can I?"
-    "Ah, je ne peux pas m’en empêcher, n’est-ce pas?"
+    "Ah, je ne pouvais pas m’en empêcher, n’est-ce pas?"
 
 # game/script.rpy:844
 translate french start_1e7c60f4:
 
     # extend " We just met, and I’ve already managed to mess everything up."
-    extend " Nous nous sommes tout juste rencontrés, et j’ai déjà tout réussi à tout faire foirer."
+    extend " Nous nous étions tout juste rencontrés, et j’avais déjà tout réussi à tout faire foirer."
 
 # game/script.rpy:845
 translate french start_348ff52d:
@@ -2966,13 +2966,13 @@ translate french start_348ff52d:
 translate french start_ac9ebe88:
 
     # "I desperately search her face for signs of mockery."
-    "Je cherche désespérémment des signes de moquerie dans son visage."
+    "Je cherchais désespérémment des signes de moquerie dans son visage."
 
 # game/script.rpy:847
 translate french start_36c91d83:
 
     # extend " But... weirdly, I can’t find any."
-    extend " Mais bizarrement, je n’en trouve aucun."
+    extend " Mais bizarrement, je n’en trouvait aucun."
 
 # game/script.rpy:851
 translate french start_f0a3dee5:
@@ -3014,7 +3014,7 @@ translate french start_7a0e59a6:
 translate french start_9e235c0a:
 
     # extend " This has to be some stupid ruse."
-    extend " Ça doit être une sorte de ruse stupide."
+    extend " Ça devait être une sorte de ruse stupide."
 
 # game/script.rpy:859
 translate french start_82858276:
@@ -3062,7 +3062,7 @@ translate french start_11f0c5ed:
 translate french start_974dc25e:
 
     # "I’m shocked Marina is being as friendly as she is, considering the kind of description Ira could give..."
-    "Je suis si surprise de voir à quel point Marina est amicale, considérant le genre de description qu’Ira aurait pu donner..."
+    "J’étais si surprise de voir à quel point Marina est amicale, considérant le genre de description qu’Ira aurait pu donner..."
 
 # game/script.rpy:871
 translate french start_45dabb36:
@@ -3074,7 +3074,7 @@ translate french start_45dabb36:
 translate french start_4a221a7f:
 
     # extend " For some reason I never thought about her having any, at least not at school."
-    extend " Pour une raison ou une autre, je n’aurais pas pensé qu’elle en avait, en tout cas pas à l’école."
+    extend " Pour une raison ou une autre, je n’aurais pas pensé qu’elle en avait, en tout cas, pas à l’école."
 
 # game/script.rpy:873
 translate french start_8755da55:
@@ -3086,7 +3086,7 @@ translate french start_8755da55:
 translate french start_44495e86:
 
     # "I wonder what Ira is like when she’s with friends."
-    "Je me demande comment est Ira lorsqu’elle est avec ses amis."
+    "Je me demandais comment était Ira lorsqu’elle est avec ses amis."
 
 # game/script.rpy:878
 translate french start_33d81190:
@@ -3200,7 +3200,7 @@ translate french start_faad256c:
 translate french start_e3c08905:
 
     # extend " I’m not sure what she has in mind, but it doesn’t seem like a prank."
-    extend " Je ne suis pas sûre de ce qu’elle a en tête, mais ça ne semble pas être une blague."
+    extend " Je n’étais pas sûre de ce qu’elle avait en tête, mais ça ne semblait pas être une blague."
 
 # game/script.rpy:910
 translate french start_d61b8cec:
@@ -3260,19 +3260,19 @@ translate french start_04c72c6c:
 translate french start_51db41e8:
 
     # extend " She’s not exactly being quiet either!"
-    extend " Elle n’est pas très silencieuse par ailleurs!"
+    extend " Elle n’était pas très silencieuse d’ailleurs!"
 
 # game/script.rpy:930
 translate french start_968327c4:
 
     # "All of my stumbled protests sound so weak they might as well be white noise to the other girl."
-    "Toutes mes protestations maladroites sonnent si faibles que ça pourrait être du bruit blanc pour l’autre fille."
+    "Toutes mes protestations maladroites sonnèrent si faiblemment que ça pourrait être du bruit blanc pour l’autre fille."
 
 # game/script.rpy:931
 translate french start_b4e7ac64:
 
     # "Yes, I spent half the day doubting whether I should report at all!"
-    "Oui, j’ai passé la moitié de la journée à douter si je devrais signaler ou pas!"
+    "Oui, j’ai passé la moitié de la journée à douter si je devrais rapporter ou pas ce que j’avais vu!"
 
 # game/script.rpy:932
 translate french start_1f3aa72c:
@@ -3284,19 +3284,19 @@ translate french start_1f3aa72c:
 translate french start_e1e4503c:
 
     # "I carefully examined my options and came to my own conclusion!"
-    "J’ai minutieusement examiné toutes mes options et j’en suis arrivée à ma conclusion!"
+    "J’avais minutieusement examiné toutes mes options et j’en étais arrivée à ma conclusion!"
 
 # game/script.rpy:934
 translate french start_874815b7:
 
     # extend " I deserve to see it though!"
-    extend " Je mérite de voir ça!" 
+    extend " Je méritais de voir ça!" 
 
 # game/script.rpy:935
 translate french start_2b37e19f:
 
     # extend " I deserve to testify!!"
-    extend " Je mérite de témoigner!!"
+    extend " Je méritais de témoigner!!"
 
 # game/script.rpy:937
 translate french start_a20cefa7_4:
@@ -3308,7 +3308,7 @@ translate french start_a20cefa7_4:
 translate french start_5f9ae42f:
 
     # extend "But some part of me is relieved that the ultimate choice was made for me."
-    extend "Mais une partie de moi est soulagée que le choix final ait été fait pour moi."
+    extend "Mais une partie de moi était soulagée que le choix final ait été fait pour moi."
 
 # game/script.rpy:939
 translate french start_8a23056f:
@@ -3332,37 +3332,37 @@ translate french start_a0827b7f:
 translate french start_b2fc8187:
 
     # "{cps=80}Sure, I can’t actually know that, since I’m yet to hear what Marina has to say."
-    "{cps=80}Bien sûr, je ne pouvais pas savoir ça, vu que je n’ai pas entendu ce que Marina voulait me dire."
+    "{cps=80}Bien sûr, je ne pouvais pas savoir ça, vu que je n’avais pas entendu ce que Marina voulait me dire."
 
 # game/script.rpy:944
 translate french start_3cdb1b45:
 
     # extend " {cps=80}But this can’t be pure chance, can it?"
-    extend " {cps=80}Mais ça ne doit pas être de la chance pure, n’est-ce pas?"
+    extend " {cps=80}Mais ça ne devait pas être de la chance pure, n’est-ce pas?"
 
 # game/script.rpy:945
 translate french start_1b4fe8ef:
 
     # extend " {cps=80}And if it’s not, what does it actually hinge on?"
-    extend " {cps=80}Et si ça n’en est pas, sur quoi ça repose?"
+    extend " {cps=80}Et si ça n’en était pas, sur quoi ça reposait?"
 
 # game/script.rpy:946
 translate french start_c1dfbc83:
 
     # "{cps=80}Did Marina show up because the world needed to stop me for the sake of something more important?"
-    "{cps=80}Est-ce que Marina s’est révélée parce que le monde avait besoin de m’arrêter dans l’intérêt de quelque chose de plus important?"
+    "{cps=80}Est-ce que Marina s’était révélée parce que le monde avait besoin de m’arrêter dans l’intérêt de quelque chose de plus important?"
 
 # game/script.rpy:947
 translate french start_3ee476cc:
 
     # extend " {cps=80}Or did Marina show up because I subconsciously wished for something, for anything to stop me?"
-    extend " {cps=80}Ou est-ce qu’elle s’est révélée parce que j’ai souhaité subconsciamment de quelque chose, de quelqu’un pour m’arrêter?"
+    extend " {cps=80}Ou est-ce qu’elle s’était révélée parce que j’ai souhaité subconsciamment de quelque chose, de quelqu’un pour m’arrêter?"
 
 # game/script.rpy:948
 translate french start_88c79c79:
 
     # "{cps=80}Whatever it was, I guess I don’t mind this after all."
-    "{cps=80}Qu’importe ce que c’est, J’imagine que ça m’est égal après tout."
+    "{cps=80}Qu’importe ce que c’était, J’imagine que ça m’était égal après tout."
 
 # game/script.rpy:954
 translate french start_0851bf71:
@@ -3374,13 +3374,13 @@ translate french start_0851bf71:
 translate french start_3376fff9:
 
     # "I think I’ll stick to the grander narrative angle for the time being."
-    "Je pense que je vais m’en tenir à un point de vue plus global pour le moment."
+    "Je pense que j’allais m’en tenir à un point de vue plus global pour le moment."
 
 # game/script.rpy:956
 translate french start_c023596b:
 
     # extend " The world bending itself to the will of some worthless gnat is a preposterous idea."
-    extend " L’idée que le monde lui-même se tord face à la volonté d’un moucheron sans valeur est présomptueux."
+    extend " L’idée que le monde lui-même se tordait face à la volonté d’un moucheron sans valeur était présomptueux."
 
 # game/script.rpy:957
 translate french start_dfcecac3:
@@ -3392,13 +3392,13 @@ translate french start_dfcecac3:
 translate french start_2151481a:
 
     # "And the fact that the world, for any reason, has decided to guide me towards the right path..."
-    "Et le fait que le monde, pour n’importe quelle raison, ait décidé de me guider vers le bon chemin..."
+    "Et le fait que le monde, pour n’importe quelle raison, eût décidé de me guider vers le bon chemin..."
 
 # game/script.rpy:959
 translate french start_742abd3e:
 
     # extend " That’s so endlessly sweet."
-    extend " C’est incroyablement touchant."
+    extend " C’était incroyablement touchant."
 
 # game/script.rpy:961
 translate french start_0b4c476e:
@@ -3410,19 +3410,19 @@ translate french start_0b4c476e:
 translate french start_44d1f5d3:
 
     # "I don’t resist anymore."
-    "Je ne résiste même plus."
+    "Je ne résistais même plus."
 
 # game/script.rpy:963
 translate french start_0c4e8a18:
 
     # extend " Marina drags me along, and I can feel my doubt turning to excitement."
-    extend " Marina me traîne tout le long, et je peux sentir tout mon doute devenir exitation."
+    extend " Marina me traîna tout le long, et je pouvais sentir tout mon doute devenir exitation."
 
 # game/script.rpy:964
 translate french start_b7bada14:
 
     # "This is definitely the right path."
-    "C'est définitivement le bon chemin."
+    "C’était définitivement le bon chemin."
 
 # game/script.rpy:965
 translate french start_0d19b88d:
@@ -3434,10 +3434,10 @@ translate french start_0d19b88d:
 translate french start_c73d37fd:
 
     # extend " \nI want to know more about Ira, too."
-    extend " \nJe veux aussi en savoir plus sur Ira."
+    extend " \nJe voulais aussi en savoir plus sur Ira."
 
 # game/script.rpy:967
 translate french start_ddcfe061:
 
     # "The whole wide world wants me to know."
-    "Tout le monde entier veut que je sache."
+    "Tout le monde entier voulait que je sache."
