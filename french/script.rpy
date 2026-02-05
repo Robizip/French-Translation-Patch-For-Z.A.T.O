@@ -2534,7 +2534,7 @@ translate french start_b722324a:
 translate french start_3f1f3e73:
 
     # a pout "Er...?"
-    a pout "Euh...?"
+    a pout "Hum...?"
 
 # game/script.rpy:733
 translate french start_c163df86:
@@ -2768,7 +2768,7 @@ translate french start_ffb5e2c5:
 translate french start_ffc38752:
 
     # extend " Um."
-    extend " Euh."
+    extend " Hmm."
 
 # game/script.rpy:795
 translate french start_f92bee29:
@@ -2858,7 +2858,7 @@ translate french start_ca18113c:
 translate french start_8b345740:
 
     # a awkward "U-um!"
-    a awkward "E-euh!"
+    a awkward "H-hmm!"
 
 # game/script.rpy:819
 translate french start_ee9d035a:
@@ -2900,7 +2900,7 @@ translate french start_181d97cb:
 translate french start_5136f9e6:
 
     # a troubled "Um..."
-    a troubled "Euh..."
+    a troubled "Hmm..."
 
 # game/script.rpy:832
 translate french start_7136eebd:
@@ -3140,7 +3140,7 @@ translate french start_ad580f97:
 translate french start_5136f9e6_1:
 
     # a troubled "Um..."
-    a troubled "Euh..."
+    a troubled "Hmm..."
 
 # game/script.rpy:893
 translate french start_7b68d4d5:
