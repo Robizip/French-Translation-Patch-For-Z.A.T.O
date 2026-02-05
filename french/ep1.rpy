@@ -1016,7 +1016,7 @@ translate french ep1_af78d470:
 translate french ep1_327b63b6:
 
     # i "Your poetry isn’t stupid."
-    i "Ton poème n’est pas stupide."
+    i "Ta poésie n’est pas stupide."
 
 # game/ep1.rpy:314
 translate french ep1_7f88bf33:
@@ -1058,7 +1058,7 @@ translate french ep1_7101124c:
 translate french ep1_5417b125:
 
     # "{i}“Your poetry isn’t stupid.”{/i}"
-    "{i}“Ton poème n’est pas stupide.”{/i}"
+    "{i}“Ta poésie n’est pas stupide.”{/i}"
 
 # game/ep1.rpy:324
 translate french ep1_b5e056d5:
