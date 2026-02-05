@@ -62,7 +62,7 @@ translate french ep1_7a0abdb5:
 translate french ep1_2a613135:
 
     # extend " I hastily grab onto it."
-    extend " Je l’attrapa hâtivement."
+    extend " Je l’attrapai hâtivement."
 
 # game/ep1.rpy:53
 translate french ep1_852b0288:
@@ -152,7 +152,7 @@ translate french ep1_8d4b471e:
 translate french ep1_d4707f56:
 
     # "Ira forcefully pushes past the teacher."
-    "Ira poussa avec force la professeure pour passer."
+    "Ira poussa la professeure avec force pour passer."
 
 # game/ep1.rpy:79
 translate french ep1_aa391533:
@@ -194,13 +194,13 @@ translate french ep1_aa56e8a6:
 translate french ep1_16bce5ae:
 
     # "Everyone knew Grachevskaya."
-    "Tout le monde connaît Grachevskaya."
+    "Tout le monde connassaît Grachevskaya."
 
 # game/ep1.rpy:93
 translate french ep1_c35362ec:
 
     # extend " She’s always been like that, I think."
-    extend " Elle a toujours\nété comme ça je crois."
+    extend " Elle avait toujours\nété comme ça je crois."
 
 # game/ep1.rpy:94
 translate french ep1_1cea8354:
@@ -212,7 +212,7 @@ translate french ep1_1cea8354:
 translate french ep1_90c478a9:
 
     # "Ira had no regard for the rules that everyone's supposed to follow."
-    "Ira n’a aucune considération pour les règles que tout le monde est supposé suivre."
+    "Ira n’avait aucune considération pour les règles que tout le monde était supposé suivre."
 
 # game/ep1.rpy:96
 translate french ep1_c891047b:
@@ -230,7 +230,7 @@ translate french ep1_68edc931:
 translate french ep1_adf94ca4:
 
     # extend " It’s only normal in a town like ours."
-    extend " C’est normal que dans une ville comme la nôtre."
+    extend " Ce n’était normal que dans une ville comme la nôtre."
 
 # game/ep1.rpy:99
 translate french ep1_93bb92eb:
@@ -248,31 +248,31 @@ translate french ep1_14ff4dec:
 translate french ep1_27d89dc9:
 
     # "Vorkuta-5 prides itself on its virtually nonexistent crime rate."
-    "Vorkuta-5 est fière d’avoir un taux de criminalité virtuellement nul."
+    "Vorkuta-5 était fière d’avoir un taux de criminalité virtuellement nul."
 
 # game/ep1.rpy:106
 translate french ep1_e01ec2cd:
 
     # extend " That’s the natural consequence of nobody being allowed to enter or exit without a permit."
-    extend " C’est la conséquence naturelle de le laisser personne entrer ou sortir sans un permis."
+    extend " C’était la conséquence naturelle de ne laisser personne entrer ou sortir sans un permis."
 
 # game/ep1.rpy:107
 translate french ep1_2103148e:
 
     # "You’re lucky to be here, to have a salary higher than the national average, to have access to goods people in the neighbouring towns can’t even dream of."
-    "Nous sommes tous chanceux d’être là, d’avoir un salaire plus haut que la moyenne nationale, d’avoir accès à des biens dont même les gens dans les villes voisines ne pourraient rêver."
+    "Nous étions tous chanceux d’être là, d’avoir un salaire plus haut que la moyenne nationale, d’avoir accès à des biens dont même les gens dans les villes voisines ne pourraient rêver."
 
 # game/ep1.rpy:108
 translate french ep1_df873a0b:
 
     # "Few get afforded such a privilege."
-    "Peu de gens ont la chance d'avoir un tel privilège."
+    "Peu de gens avaient la chance d'avoir un tel privilège."
 
 # game/ep1.rpy:109
 translate french ep1_f325cc70:
 
     # extend " Last time I checked, our population hasn’t even hit 6000."
-    extend " La dernière fois que j’ai vérifié, la population dépassait même pas les 6000 personnes."
+    extend " La dernière fois que j’avais vérifié, la population dépassait même pas les 6000 personnes."
 
 # game/ep1.rpy:114
 translate french ep1_2c917ff1:
@@ -296,91 +296,91 @@ translate french ep1_4c1cd1d2:
 translate french ep1_bc762b6e:
 
     # "Of course, it’s not as if she had appeared out of thin air."
-    "Évidemment, ce n’est pas comme si c’était apparu de nulle part."
+    "Évidemment, ce n’était pas comme si cela avait apparu de nulle part."
 
 # game/ep1.rpy:118
 translate french ep1_ea2cd31a:
 
     # extend " It’s all in the family, they say."
-    extend " C’est de famille qu’ils disent."
+    extend " C’était de famille qu’ils disaient."
 
 # game/ep1.rpy:119
 translate french ep1_c2a61af3:
 
     # extend " The blame falls on the people responsible - that is, on Ira's parents."
-    extend " La faute retombe sur les personnes responsables - étant dans ce cas, les parents d’Ira."
+    extend " La faute retombait sur les personnes responsables - étant dans ce cas, les parents d’Ira."
 
 # game/ep1.rpy:120
 translate french ep1_d3d16a22:
 
     # "And questions begin to arise."
-    "Et de là, on peut se poser pleins de questions."
+    "Et de là, on pouvait se poser pleins de questions."
 
 # game/ep1.rpy:122
 translate french ep1_bdcb1bdf:
 
     # "Why is Grachevsky's daughter behaving like this?"
-    "Pourquoi la fille des Grachevsky est-elle comme ça?"
+    "Pourquoi la fille des Grachevsky était-elle comme ça?"
 
 # game/ep1.rpy:123
 translate french ep1_fe65fd44:
 
     # extend " Is there trouble at home?"
-    extend " \nY-a-t-il des problèmes chez elle?"
+    extend " \nY-avait-il des problèmes chez elle?"
 
 # game/ep1.rpy:124
 translate french ep1_bcb3e65e:
 
     # extend " Do they believe this is acceptable?"
-    extend " Pensent-ils que c’est acceptable?"
+    extend " Pensaient-ils que c’était acceptable?"
 
 # game/ep1.rpy:125
 translate french ep1_64298826:
 
     # extend " Do they not teach her discipline?"
-    extend " Ne lui ont-ils jamais appris la discipline?"
+    extend " Ne lui avaient-ils jamais appris la discipline?"
 
 # game/ep1.rpy:127
 translate french ep1_962a61bf:
 
     # "Do they not understand how fortunate they are?"
-    "Réalisent-ils à quel point sont-ils chanceux?"
+    "Réalisaient-ils à quel point étaient-ils chanceux?"
 
 # game/ep1.rpy:128
 translate french ep1_de52c8fe:
 
     # extend " They’ve been granted so much, yet they can’t do the bare minimum in raising their own child."
-    extend " Ils ont tant reçus, pourtant, ils ne peuvent même pas faire le strict minimum pour donner une bonne éducation à leur propre enfant."
+    extend " Ils avaient tant reçus, pourtant, ils ne pouvais même pas faire le strict minimum pour donner une bonne éducation à leur propre enfant."
 
 # game/ep1.rpy:129
 translate french ep1_beae7fd6:
 
     # "Do they really want to be here?"
-    "Veulent-ils vraiment être là?"
+    "Voulaient-ils vraiment être là?"
 
 # game/ep1.rpy:130
 translate french ep1_21508359:
 
     # extend " \nDo {b}we{/b} want them to be here?"
-    extend " \nVoulons-{b}nous{/b} vraiment d’eux?"
+    extend " \nVoulions-{b}nous{/b} vraiment d’eux?"
 
 # game/ep1.rpy:136
 translate french ep1_daa9d67d:
 
     # "I’ve heard a lot of talks like that."
-    "J’ai entendu un tas de discussions comme ça."
+    "J’avais entendu un tas de discussions comme ça."
 
 # game/ep1.rpy:137
 translate french ep1_cb11f830:
 
     # extend " I’ve heard more after Ira threw the chair at Garin."
-    extend " J’en ai entendu plus après qu’Ira ait jeté la chaise sur Garin."
+    extend " J’en avais entendu plus après qu’Ira eût jeté la chaise sur Garin."
 
 # game/ep1.rpy:138
 translate french ep1_88bbba9c:
 
     # "I didn’t get why."
-    "Je ne sais pas pourquoi."
+    "Je ne savais pas pourquoi."
 
 # game/ep1.rpy:139
 translate french ep1_c7758bfd:
@@ -398,7 +398,7 @@ translate french ep1_4cab8d0b:
 translate french ep1_5e6b41bb:
 
     # "I was hoping to write a little in the library once school was done, but my bag slipped and all of the contents scattered on the floor."
-    "J’espérais pouvoir écrire un peu à la bibliothèque après que l’école soit finie, mais mon sac a glissé et tout son contenu s’est répandu sur le sol."
+    "J’espérais pouvoir écrire un peu à la bibliothèque après que l’école fût finie, mais mon sac avait glissé et tout son contenu s’était répandu sur le sol."
 
 # game/ep1.rpy:142
 translate french ep1_522328d6:
@@ -416,19 +416,19 @@ translate french ep1_f6259ad8:
 translate french ep1_ef0cb215:
 
     # "It’s not a big deal, it’s not like I’ve ever taken poetry or drawing very seriously."
-    "Ce n’est pas grand chose, ce n’est pas comme si je prenais la poésie ou le dessin très au sérieux."
+    "Ce n’était pas grand chose, ce n’était pas comme si je prenais la poésie ou le dessin très au sérieux."
 
 # game/ep1.rpy:145
 translate french ep1_8700cf7b:
 
     # extend " Those are just fun distractions, nothing more."
-    extend " Ce ne sont que des distractions amusantes, rien de plus."
+    extend " Ce n’étaient que des distractions amusantes, rien de plus."
 
 # game/ep1.rpy:146
 translate french ep1_7194bb2b:
 
     # "If people laugh, well, what’s it matter to me?"
-    "Et si les personnes rient, hé bien, qu’est-ce que ça peut me faire?"
+    "Et si les personnes riaient, hé bien, qu’est-ce que ça peut me faire?"
 
 # game/ep1.rpy:147
 translate french ep1_3b4fbe60:
@@ -446,19 +446,19 @@ translate french ep1_3958661a:
 translate french ep1_d2c5a97f:
 
     # "She rarely shows up to school."
-    "Elle se montre que rarement à l’école."
+    "Elle se montrait que rarement à l’école."
 
 # game/ep1.rpy:156
 translate french ep1_0d92eaf4:
 
     # extend " And even when she does, she can just leave at random."
-    extend " Et même quand elle se montre, elle peut juste partir comme ça, aléatoirement."
+    extend " Et même quand elle se montrait, elle peut juste partir comme ça, aléatoirement."
 
 # game/ep1.rpy:157
 translate french ep1_f4f4b15b:
 
     # "I couldn’t get a hold of her for a long time because of that."
-    "Je ne peux pas avoir un contact avec elle trop longtemps à cause de ça."
+    "Je ne pouvais pas avoir un contact avec elle trop longtemps à cause de ça."
 
 # game/ep1.rpy:158
 translate french ep1_aadee985:
@@ -476,13 +476,13 @@ translate french ep1_4d93a811:
 translate french ep1_a3f0435a:
 
     # "Ira has never as much as looked at me."
-    "Ira ne m’a jamais regardé."
+    "Ira ne m’avait jamais regardé."
 
 # game/ep1.rpy:161
 translate french ep1_e40e8f11:
 
     # extend " Even when she lashed out at Garin, it was like I weren’t even there."
-    extend " Et même quand elle s’en est pris à Garin, c’était comme si je n’étais même pas là."
+    extend " Et même quand elle s’en était pris à Garin, c’était comme si je n’étais même pas là."
 
 # game/ep1.rpy:166
 translate french ep1_8f9acfae:
@@ -500,7 +500,7 @@ translate french ep1_9e1f2255:
 translate french ep1_bfd6d03c:
 
     # "I went to the bathroom during some lesson, I think it was Math."
-    "J’allai aux toilettes durant un cours qui était un cours de maths, je crois."
+    "J’allai aux toilettes durant un cours qui était des maths, je crois."
 
 # game/ep1.rpy:170
 translate french ep1_1a8aadb1:
@@ -554,13 +554,13 @@ translate french ep1_87cff13e:
 translate french ep1_049b3731:
 
     # "I awkwardly scuttled past her to one of the stalls."
-    "Je me précipita maladroitement devant elle vers l’une des cabines."
+    "Je me précipitai maladroitement devant elle vers l’une des cabines."
 
 # game/ep1.rpy:195
 translate french ep1_4a526671:
 
     # "After closing the door, I realised I was so nervous, I couldn’t do any of my business."
-    "Après avoir fermé la porte, je réalisa que j’étais tellement stressée que je ne pouvais rien faire."
+    "Après avoir fermé la porte, je réalisai que j’étais tellement stressée que je ne pouvais rien faire."
 
 # game/ep1.rpy:196
 translate french ep1_a1f686ee:
@@ -572,7 +572,7 @@ translate french ep1_a1f686ee:
 translate french ep1_c344d8c8:
 
     # "It’s not like I had some long conversation or formalities in mind."
-    "Ce n’est pas comme si j’avais prévu une longue conversation ou des formalités."
+    "Ce n’était pas comme si j’avais prévu une longue conversation ou des formalités."
 
 # game/ep1.rpy:198
 translate french ep1_bd3eb92b:
@@ -590,7 +590,7 @@ translate french ep1_b0139a51:
 translate french ep1_288f2814:
 
     # extend " Assuming she did all of that for me..."
-    extend " En supposant tout ce qu’elle a fait pour moi..."
+    extend " En supposant tout ce qu’elle avait fait pour moi..."
 
 # game/ep1.rpy:201
 translate french ep1_3e18b7e6:
@@ -602,7 +602,7 @@ translate french ep1_3e18b7e6:
 translate french ep1_f375c4ee:
 
     # "I had no idea how much time had passed while I was in the stall."
-    "Je n’ai aucune idée de combien de temps s’est écoulé depuis que je suis entrée dans cette cabine."
+    "Je n’avais aucune idée de combien de temps s’est écoulé depuis que j’étais entrée dans cette cabine."
 
 # game/ep1.rpy:204
 translate french ep1_b5837761:
@@ -638,7 +638,7 @@ translate french ep1_8fdf2fd3:
 translate french ep1_26a4a505:
 
     # "I froze up."
-    "Je me figea sur place."
+    "Je me figeai sur place."
 
 # game/ep1.rpy:214
 translate french ep1_0d6747c0:
@@ -650,25 +650,25 @@ translate french ep1_0d6747c0:
 translate french ep1_bc7237fc:
 
     # extend " The cold draft wafted through her hair."
-    extend " Le courant d’air froid souffla doucement à travers ses cheveux."
+    extend " Un courant d’air froid souffla doucement à travers ses cheveux."
 
 # game/ep1.rpy:216
 translate french ep1_557ad684:
 
     # "I had to say something."
-    "J’ai besoin de lui dire quelque chose."
+    "J’avais besoin de lui dire quelque chose."
 
 # game/ep1.rpy:217
 translate french ep1_da471928:
 
     # extend " I got this rare chance, the world gave me this rare chance to tell her what I wanted."
-    extend " J’ai eu cette chance rare, cette chance que le monde m’a donné pour pouvoir lui dire ce que je voulais."
+    extend " J’avais cette chance rare, cette chance que le monde m’avait donné pour pouvoir lui dire ce que je voulais."
 
 # game/ep1.rpy:218
 translate french ep1_a7271552:
 
     # "But what am I supposed to say?"
-    "Mais comme je suis supposée lui dire?"
+    "Mais comment j’étais supposée lui dire?"
 
 # game/ep1.rpy:219
 translate french ep1_f68d7a0d:
@@ -734,13 +734,13 @@ translate french ep1_1f756c75:
 translate french ep1_be2b5ff0:
 
     # "I took a step towards her and she jolted away like I were a leper."
-    "Je m’avança d’un pas vers elle et elle s’éloigna comme si j’étais une lépreuse."
+    "Je m’avançai d’un pas vers elle et elle s’éloigna comme si j’étais une lépreuse."
 
 # game/ep1.rpy:239
 translate french ep1_40aee1ed:
 
     # "I didn’t know what I should say or ask, I just knew I had to say something, even if it was the first thing that popped to mind."
-    "Je ne sais pas si je devrais parler ou discuter, je savais juste que je devais lui dire quelque chose, même si c’était la première chose qui me venait à l’esprit."
+    "Je ne savais pas si je devrais parler ou discuter, je savais juste que je devais lui dire quelque chose, même si c’était la première chose qui me venait à l’esprit."
 
 # game/ep1.rpy:242
 translate french ep1_79ee1aa6:
@@ -986,19 +986,19 @@ translate french ep1_696ddb3d:
 translate french ep1_3f0ee6c9:
 
     # extend " It’s not like I was hoping Ira jumped in to defend my honour or anything of the sort."
-    extend " Ce n’est pas comme si j’espérais qu’Ira ait bondi pour défendre mon honneur ou quoi que ce soit."
+    extend " Ce n’était pas comme si j’espérais qu’Ira ait bondi pour défendre mon honneur ou quoi que ce soit."
 
 # game/ep1.rpy:309
 translate french ep1_c029e7b5:
 
     # "I wanted to thank her regardless of intent – but no matter how hard I thought and tried to word it, everything just came out sounding awkward or wrong."
-    "Je voulais la remercier peu importe la raison – mais j’ai beau y penser et essayer de le formuler correctement, tout sort de manière fausse ou maladroite."
+    "Je voulais la remercier peu importe la raison – mais j’avais beau y penser et essayer de le formuler correctement, tout sortait de manière fausse ou maladroite."
 
 # game/ep1.rpy:310
 translate french ep1_2f35bc84:
 
     # extend " \nWhy does this always happen?"
-    extend " Pourquoi ça m’arrive toujours?"
+    extend " Pourquoi ça m’arrivait si souvent?"
 
 # game/ep1.rpy:311
 translate french ep1_1cfd99f3:
@@ -1058,7 +1058,7 @@ translate french ep1_7101124c:
 translate french ep1_5417b125:
 
     # "{i}“Your poetry isn’t stupid.”{/i}"
-    "{i}“Ta poésie n’est pas stupide.”{/i}"
+    "{i}“Ton poème n’est pas stupide.”{/i}"
 
 # game/ep1.rpy:324
 translate french ep1_b5e056d5:
@@ -1088,13 +1088,13 @@ translate french ep1_fa32f65a:
 translate french ep1_c8641274:
 
     # extend " I shook my head."
-    extend " Je secoua la tête."
+    extend " Je secouai la tête."
 
 # game/ep1.rpy:331
 translate french ep1_e51defb2:
 
     # "Right, I needed to get back to the classroom."
-    "Bon, j’ai besoin de retourner en classe."
+    "Bon, j’avais besoin de retourner en classe."
 
 # game/ep1.rpy:332
 translate french ep1_950fe2b6:
@@ -1106,7 +1106,7 @@ translate french ep1_950fe2b6:
 translate french ep1_576e450c:
 
     # "I washed my hands from nothing in particular."
-    "Je me lava les mains sans raison particulière."
+    "Je me lavai les mains sans raison particulière."
 
 # game/ep1.rpy:346
 translate french ep1_20d544ba:
@@ -1148,7 +1148,7 @@ translate french ep1_931819ee:
 translate french ep1_b7442812:
 
     # "I just left to get a snack from the cafeteria."
-    "Je l’ai laissé ici pour aller chercher un petit truc à manger à la cafétaria."
+    "Je l’avais laissé ici pour aller chercher un petit truc à manger à la cafétaria."
 
 # game/ep1.rpy:355
 translate french ep1_eef742c6:
@@ -1316,7 +1316,7 @@ translate french ep1_a6db87cc:
 translate french ep1_4bc541d2:
 
     # extend " I started doing it when I was walking home from school, or to the store, or just wandering the streets, killing time."
-    extend " J’ai commencé à faire ça que je rentrais de l’école, ou du magasin, ou quand j’erre dans les rues, pour tuer le temps."
+    extend " J’avais commencé à faire ça que je rentrais de l’école, ou du magasin, ou quand j’errais dans les rues, pour tuer le temps."
 
 # game/ep1.rpy:388
 translate french ep1_4acd51c9:
@@ -1364,7 +1364,7 @@ translate french ep1_825be504:
 translate french ep1_c8561866:
 
     # "She just walks past me in the corridor."
-    "Elle vient juste de passer devant moi dans le couloir."
+    "Elle vient tout juste de passer devant moi dans le couloir."
 
 # game/ep1.rpy:400
 translate french ep1_33628969:
@@ -1382,7 +1382,7 @@ translate french ep1_9230dd2b:
 translate french ep1_6538b275:
 
     # "No, it’s my fault for mumbling."
-    "Non, c’est de ma faute si j’ai marmonné."
+    "Non, c’était de ma faute si j’avais marmonné."
 
 # game/ep1.rpy:403
 translate french ep1_17b412c3:
@@ -1447,8 +1447,8 @@ translate french ep1_04534afb:
 # game/ep1.rpy:424
 translate french ep1_d46ded3f:
 
-    # extend " When was that again?"
-    extend " Quand c’était déjà?"
+    # extend " c"
+    extend " C’était quand déjà?"
 
 # game/ep1.rpy:425
 translate french ep1_c4134688:
