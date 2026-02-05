@@ -1058,7 +1058,7 @@ translate french ep1_7101124c:
 translate french ep1_5417b125:
 
     # "{i}“Your poetry isn’t stupid.”{/i}"
-    "{i}“Ta poésie n’est pas stupide.”{/i}"
+    "{i}“Ton poème n’est pas stupide.”{/i}"
 
 # game/ep1.rpy:324
 translate french ep1_b5e056d5:
@@ -1070,7 +1070,7 @@ translate french ep1_b5e056d5:
 translate french ep1_b8111551:
 
     # extend " Ira likes my poetry?"
-    extend " Ira aime ma poésie?"
+    extend " Ira aime mon poème?"
 
 # game/ep1.rpy:326
 translate french ep1_d3bff05e:
