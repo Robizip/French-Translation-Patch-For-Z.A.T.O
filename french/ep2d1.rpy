@@ -1,8 +1,11 @@
-﻿# game/ep2d1.rpy:33
+﻿screen date1():
+    text "19 DÉCEMBRE" xalign 0.14 yalign 0.0 size 20 xoffset -7 yoffset 60 color "#ffffff"
+
+# game/ep2d1.rpy:33
 translate french ep2d1_aef4bb1b:
 
     # "The inside of the Zvezdochka cafe is warm."
-    ""
+    "L’intérieur du Zvezdochka cafe est ???."
 
 # game/ep2d1.rpy:34
 translate french ep2d1_146a8de6:
