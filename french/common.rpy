@@ -306,31 +306,31 @@
 
     # renpy/common/00action_file.rpy:639
     old "Automatic saves"
-    new "Sauvegardes Automatiques"
+    new "Sauvegardes automatiques"
 
     # renpy/common/00action_file.rpy:639
     old "Quick saves"
-    new ""
+    new "Sauvegardes rapides"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
-    new ""
+    new "Page de fichier suivant"
 
     # renpy/common/00action_file.rpy:852
     old "Previous file page."
-    new ""
+    new "Page de fichier précédent"
 
     # renpy/common/00action_file.rpy:913
     old "Quick save complete."
-    new ""
+    new "Sauvegarde rapide réussie."
 
     # renpy/common/00action_file.rpy:931
     old "Quick save."
-    new ""
+    new "Sauvegarde rapide."
 
     # renpy/common/00action_file.rpy:950
     old "Quick load."
-    new ""
+    new "Chargement rapide."
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
@@ -418,7 +418,7 @@
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new ""
+    new "Derrière:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
@@ -622,39 +622,39 @@
 
     # renpy/common/00preferences.rpy:483
     old "system cursor"
-    new ""
+    new "curseur système"
 
     # renpy/common/00preferences.rpy:492
     old "renderer menu"
-    new ""
+    new "menu de rendu"
 
     # renpy/common/00preferences.rpy:495
     old "accessibility menu"
-    new ""
+    new "menu d’accessibilité"
 
     # renpy/common/00preferences.rpy:498
     old "high contrast text"
-    new ""
+    new "texte à haut contraste"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new ""
+    new "audio quand minimisé"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new ""
+    new "volume global"
 
     # renpy/common/00preferences.rpy:528
     old "music volume"
-    new ""
+    new "volume musique"
 
     # renpy/common/00preferences.rpy:529
     old "sound volume"
-    new ""
+    new "volume son"
 
     # renpy/common/00preferences.rpy:530
     old "voice volume"
-    new ""
+    new "volume voix"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
@@ -694,11 +694,11 @@
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "Précédent"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new ""
+    new "Suivant"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
@@ -706,19 +706,19 @@
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "Menu Dévelopeur"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "Directeur Interactif (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "Recharger le Jeu (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "Console (Maj+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
@@ -742,7 +742,7 @@
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new ""
+    new "Attributs Image"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -778,7 +778,7 @@
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new ""
+    new "Clic-droit ou échap pour quitter."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -802,11 +802,11 @@
 
     # renpy/common/_developer/developer.rpym:647
     old "✔ "
-    new ""
+    new "✔ "
 
     # renpy/common/_developer/developer.rpym:650
     old "✘ "
-    new ""
+    new "✘ "
 
     # renpy/common/_developer/developer.rpym:655
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
@@ -818,15 +818,15 @@
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new ""
+    new "Taille"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new ""
+    new "Style"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new ""
+    new "Emplacement"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -834,7 +834,7 @@
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new ""
+    new "affichable:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -850,11 +850,11 @@
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new ""
+    new "r"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
@@ -922,7 +922,7 @@
 
     # renpy/common/00updater.rpy:1641
     old "Downloading the updates."
-    new ""
+    new "Téléchargement des mises à jour."
 
     # renpy/common/00updater.rpy:1643
     old "Unpacking the updates."
@@ -954,11 +954,11 @@
 
     # renpy/common/00gallery.rpy:647
     old "prev"
-    new ""
+    new "préc"
 
     # renpy/common/00gallery.rpy:648
     old "next"
-    new ""
+    new "suivant"
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
@@ -966,7 +966,7 @@
 
     # renpy/common/00gallery.rpy:650
     old "return"
-    new ""
+    new "retour"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -1010,19 +1010,19 @@
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Taux de rafraîchissement"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Écran"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
@@ -1094,31 +1094,31 @@
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Saut (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Retour (B)"
 
     # renpy/common/_errorhandling.rpym:555
     old "Open"
-    new ""
+    new "Ouvrir"
 
     # renpy/common/_errorhandling.rpym:557
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Ouvre le fichier traceback.txt dans un éditeur de texte."
 
     # renpy/common/_errorhandling.rpym:559
     old "Copy BBCode"
-    new ""
+    new "Copier BBCode"
 
     # renpy/common/_errorhandling.rpym:561
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Copie le fichier traceback.txt dans le presse-papier sous forme de BBcode pour des forums tels que https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:563
     old "Copy Markdown"
-    new ""
+    new "Copier Markdown"
 
     # renpy/common/_errorhandling.rpym:565
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
@@ -1150,7 +1150,7 @@
 
     # renpy/common/_errorhandling.rpym:632
     old "Reload"
-    new ""
+    new "Recharger"
 
     # renpy/common/_errorhandling.rpym:634
     old "Reloads the game from disk, saving and restoring game state if possible."
@@ -1158,7 +1158,7 @@
 
     # renpy/common/_errorhandling.rpym:637
     old "Console"
-    new ""
+    new "Console"
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
@@ -1166,9 +1166,9 @@
 
     # renpy/common/_errorhandling.rpym:652
     old "Quits the game."
-    new ""
+    new "Quitte le jeu."
 
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
-    new ""
+    new "Analyse du script échouée."
 

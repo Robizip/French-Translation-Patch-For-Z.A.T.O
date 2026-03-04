@@ -5,7 +5,7 @@
 translate french ep2d1_aef4bb1b:
 
     # "The inside of the Zvezdochka cafe is warm."
-    "L’intérieur du Zvezdochka cafe est ???."
+    "L’intérieur du café Zvezdochka est ???."
 
 # game/ep2d1.rpy:34
 translate french ep2d1_146a8de6:
