@@ -10335,13 +10335,13 @@ translate french ep1_453d9af4:
 translate french ep1_68a835e3:
 
     # extend " You can really get sick from this..."
-    extend " Tu peux vraiment tomber malade comme ça..."
+    extend " On peut vraiment tomber malade comme ça..."
 
 # game/ep1.rpy:2685
 translate french ep1_12da324b:
 
     # "It has been getting colder after all."
-    ""
+    "Il fait plus froid après tout."
 
 # game/ep1.rpy:2686
 translate french ep1_f24427ba:
