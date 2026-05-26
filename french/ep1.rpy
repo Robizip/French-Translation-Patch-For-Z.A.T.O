@@ -10347,7 +10347,7 @@ translate french ep1_12da324b:
 translate french ep1_f24427ba:
 
     # extend " My usual routes have been getting harder and harder to finish."
-    extend ""
+    extend " Mes routes usuelles deviennent de plus en plus dures à finir."
 
 # game/ep1.rpy:2687
 translate french ep1_a76c4969:
