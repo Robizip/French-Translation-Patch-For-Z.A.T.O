@@ -162,37 +162,37 @@ translate french ep3_f8de053b:
 translate french ep3_ebf12df9:
 
     # c "Your pitbull then."
-    c ""
+    c "Ton pitbull alors."
 
 # game/ep3.rpy:61
 translate french ep3_62deef85:
 
     # cb "Hahahaha!!"
-    cb ""
+    cb "Hahahaha!!"
 
 # game/ep3.rpy:62
 translate french ep3_3be8436e:
 
     # cc "Hey, that’s spot on!"
-    cc ""
+    cc "Hé, c’est totalement ça."
 
 # game/ep3.rpy:63
 translate french ep3_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/ep3.rpy:65
 translate french ep3_2af0e7d4:
 
     # "The bright electric light above my head stopped blinding me."
-    ""
+    "L’éclatante lumière électrique au-dessus de ma tête arrêta de clignoter."
 
 # game/ep3.rpy:66
 translate french ep3_4faf3322:
 
     # extend " My eyes don’t hurt or water."
-    extend ""
+    extend " Mes yeux ni ne souffrèrent ni ne pleurèrent."
 
 # game/ep3.rpy:67
 translate french ep3_a4b1a41f:

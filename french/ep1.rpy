@@ -398,7 +398,7 @@ translate french ep1_4cab8d0b:
 translate french ep1_5e6b41bb:
 
     # "I was hoping to write a little in the library once school was done, but my bag slipped and all of the contents scattered on the floor."
-    "J’espérais pouvoir écrire un peu à la bibliothèque après que l’école fût finie, mais mon sac avait glissé et tout son contenu s’était répandu sur le sol."
+    "J’espérais pouvoir écrire un peu à la bibliothèque après que l’école soit finie, mais mon sac avait glissé et tout son contenu s’était répandu sur le sol."
 
 # game/ep1.rpy:142
 translate french ep1_522328d6:
@@ -4204,7 +4204,7 @@ translate french ep1_bfab167e:
 translate french ep1_53411664:
 
     # extend " Despite that being highly likely, I was hoping to do just that - bother the heck out of her."
-    extend " Bien que que cela fût probable, c’était ce que j’avais prévu de faire - la déranger au plus haut point."
+    extend " Bien que que cela soit probable, c’était ce que j’avais prévu de faire - la déranger au plus haut point."
 
 # game/ep1.rpy:1131
 translate french ep1_f3206acd:
@@ -5332,7 +5332,7 @@ translate french ep1_285302ff:
 translate french ep1_0333cf1c:
 
     # extend " It’s been too kind to an ungrateful brat like me."
-    extend " C’est beaucoup trop gentil pour un enfant ingrat et gâté comme moi."
+    extend " Il est beaucoup trop gentil pour une enfant ingrate et gâtée comme moi."
 
 # game/ep1.rpy:1429
 translate french ep1_66ff6904:
@@ -9493,7 +9493,7 @@ translate french ep1_a13b9e92:
 translate french ep1_c95e6ed4:
 
     # extend " I hoped she’d be here, like I hoped she’d be wherever I went."
-    extend " J’espérais qu’elle fût ici, comme j’avais espéré qu’elle fût n’importe où j’aille."
+    extend " J’espérais qu’elle soit ici, comme j’avais espéré qu’elle soit n’importe où j’aille."
 
 # game/ep1.rpy:2483
 translate french ep1_546ec284:

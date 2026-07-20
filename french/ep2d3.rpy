@@ -1506,25 +1506,25 @@ translate french ep2d3_76b2fe88:
 translate french ep2d3_7dd4b02e:
 
     # n "“....e, com......take....y..eth..”"
-    n ""
+    n "“A...., aie....i..e..t...de...”"
 
 # game/ep2d3.rpy:713
 translate french ep2d3_c54ceb5e:
 
     # extend "\n“Sm....to...”"
-    extend ""
+    extend "\n“E....is, ...er”"
 
 # game/ep2d3.rpy:714
 translate french ep2d3_e4e35514:
 
     # extend "\n“........nna k...a when........e that, h...?”"
-    extend ""
+    extend "\n“Q.......ra ............si t.......s.......is, h...?”"
 
 # game/ep2d3.rpy:715
 translate french ep2d3_0c5e54d3:
 
     # extend "\n“...He.....idd.....m ki......”"
-    extend ""
+    extend "\n“...h......e pl.....e, ....l...a...”"
 
 # game/ep2d3.rpy:717
 translate french ep2d3_761b9411:
@@ -1634,19 +1634,19 @@ translate french ep2d3_67af7be8:
 translate french ep2d3_ec0e9104:
 
     # extend " A closed door."
-    extend ""
+    extend " Une porte fermée."
 
 # game/ep2d3.rpy:737
 translate french ep2d3_884fb582:
 
     # extend " \nA lock firmly shut."
-    extend ""
+    extend " \nUne serrure bien verrouillée."
 
 # game/ep2d3.rpy:738
 translate french ep2d3_1cf77ed7:
 
     # extend "\n\nI’ve been banging against it, yelling, all to no avail."
-    extend ""
+    extend "\n\nJ’ai beau cogner dessus, crier, rien ne se passe."
 
 # game/ep2d3.rpy:739
 translate french ep2d3_7f32e52e:
@@ -1654,31 +1654,31 @@ translate french ep2d3_7f32e52e:
     # nvl clear
     # n "My body is too soft."
     nvl clear
-    n ""
+    n "Mon corps est trop faible."
 
 # game/ep2d3.rpy:742
 translate french ep2d3_35ec0f21:
 
     # extend " My words are too weak."
-    extend ""
+    extend " Mes mots ne sont pas assez puissants."
 
 # game/ep2d3.rpy:743
 translate french ep2d3_57aa69a2:
 
     # extend " \nMy outline is too blurry."
-    extend ""
+    extend "\nMa silhouette est trop floue."
 
 # game/ep2d3.rpy:744
 translate french ep2d3_5c81fd8d:
 
     # extend "\n\nOf course I can’t break through."
-    extend ""
+    extend "\n\nÉvidemment, je ne peux pas passer à travers."
 
 # game/ep2d3.rpy:745
 translate french ep2d3_25bbfa8b:
 
     # extend " I’m no more than a shadow."
-    extend ""
+    extend " Je ne suis rien de plus qu’une ombre."
 
 # game/ep2d3.rpy:746
 translate french ep2d3_33e35442:

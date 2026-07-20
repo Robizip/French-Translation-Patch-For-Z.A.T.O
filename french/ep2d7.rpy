@@ -6544,7 +6544,7 @@ translate french ep2d7_c29a49ea:
 translate french ep2d7_be0ffd99:
 
     # extend " If you forgot, it probably didn’t matter, right?"
-    extend ""
+    extend "Si tu oublies, c’est que ce n’était probablement pas important, n’est-ce pas?"
 
 # game/ep2d7.rpy:1791
 translate french ep2d7_ee5b4c1d:
@@ -6568,7 +6568,7 @@ translate french ep2d7_bd72714b:
 translate french ep2d7_adbec107:
 
     # extend " If you forgot, it probably wasn’t real."
-    extend ""
+    extend "Si tu oublies, c’est que ce n’était probablement pas vrai."
 
 # game/ep2d7.rpy:1795
 translate french ep2d7_ae78cfd6:
@@ -6592,25 +6592,25 @@ translate french ep2d7_fdd642bc:
 translate french ep2d7_d7a6a422:
 
     # extend " It’s like a dream."
-    extend ""
+    extend " Est-ce comme un rêve?"
 
 # game/ep2d7.rpy:1800
 translate french ep2d7_4798b58c:
 
     # extend "\n\nLike a dream...?"
-    extend ""
+    extend "\n\nComme un rêve...?"
 
 # game/ep2d7.rpy:1801
 translate french ep2d7_f65d2be6:
 
     # extend "\n\nYes."
-    extend ""
+    extend "\n\nOui."
 
 # game/ep2d7.rpy:1802
 translate french ep2d7_eef3ab56:
 
     # extend "\n\n\n\nExactly like a dream."
-    extend ""
+    extend "\n\n\n\Exactement comme un rêve."
 
 # game/ep2d7.rpy:1811
 translate french ep2d7_ac40702a:

@@ -322,25 +322,25 @@ translate french ep2d6_76b2fe88_2:
 translate french ep2d6_da5288ab:
 
     # n "...What’s that?"
-    n ""
+    n "...Qu’est-ce que c’est?"
 
 # game/ep2d6.rpy:79
 translate french ep2d6_db31d05b:
 
     # extend "\n\n\n\nThere is no knife."
-    extend ""
+    extend "\n\n\n\nIl n’y a pas de couteau."
 
 # game/ep2d6.rpy:80
 translate french ep2d6_8a762190:
 
     # extend " There is no cut."
-    extend ""
+    extend "Il n’y a pas de coupure."
 
 # game/ep2d6.rpy:81
 translate french ep2d6_22384a0e:
 
     # extend " Your hands are clean."
-    extend ""
+    extend " Tes mains sont propres."
 
 # game/ep2d6.rpy:82
 translate french ep2d6_b06e2957:

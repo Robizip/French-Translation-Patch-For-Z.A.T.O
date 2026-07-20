@@ -1142,7 +1142,7 @@ translate french start_2eec9a39:
 translate french start_a91326a7:
 
     # extend " Even so, I’d never have thought Ira would be the type to be lovestruck like that."
-    extend " Même si je n'aurais jamais pensé qu'Ira fût ce type de personne à être amoureuse comme ça."
+    extend " Même si je n'aurais jamais pensé qu'Ira soit ce type de personne à être amoureuse comme ça."
 
 # game/script.rpy:378
 translate french start_f0b18387:
@@ -1814,7 +1814,7 @@ translate french start_60702c97:
 translate french start_24c24517:
 
     # "So it's a good thing that she didn't interfere."
-    "Alors c’était une bonne chose qu’elle ne fût pas intervenue."
+    "Alors c’était une bonne chose qu’elle ne soit pas intervenue."
 
 # game/script.rpy:518
 translate french start_849ebc50:
@@ -2048,7 +2048,7 @@ translate french start_3545ffdc:
 translate french start_a012686e:
 
     # extend " So that’s why I don’t want to tell anyone about what I saw!"
-    extend " C’était pour ça que je voullait pas dire à qui que ce fût ce que j’avais vu!"
+    extend " C’était pour ça que je voulais pas dire à qui que ce soit ce que j’avais vu!"
 
 # game/script.rpy:591
 translate french start_c7cfcd72:
@@ -2294,7 +2294,7 @@ translate french start_98003e4c:
 translate french start_e1c42bef:
 
     # extend " I hope my testimony is useless because she’s already home."
-    extend " J’espérais que mon témoignage fût inutile vu qu’elle serait déjà chez elle."
+    extend " J’espérais que mon témoignage soit inutile vu qu’elle serait déjà chez elle."
 
 # game/script.rpy:651
 translate french start_5245f8be:

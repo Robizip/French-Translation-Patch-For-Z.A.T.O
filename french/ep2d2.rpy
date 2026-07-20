@@ -6654,37 +6654,37 @@ translate french ep2d2_b7971236:
 translate french ep2d2_e18f42ce:
 
     # extend " Bleh, I don’t know anymore."
-    extend ""
+    extend " Meh, je ne sais plus maintenant."
 
 # game/ep2d2.rpy:1795
 translate french ep2d2_c52a963d:
 
     # m "Everyone’s just looking to save their own skin at the end of the day."
-    m ""
+    m "Tout le monde veut juste sauver sa peau en fin de compte."
 
 # game/ep2d2.rpy:1796
 translate french ep2d2_c5c646ae:
 
     # extend " Every man’s an animal, yeah?"
-    extend ""
+    extend " Tous les hommes sont des animaux, hein?"
 
 # game/ep2d2.rpy:1797
 translate french ep2d2_b865cb14:
 
     # a um "...That’s not what I meant at all."
-    a um ""
+    a um "...Ce n’est pas du tout ce que je voulais dire."
 
 # game/ep2d2.rpy:1800
 translate french ep2d2_393a0e93:
 
     # m "No?"
-    m ""
+    m "Non?"
 
 # game/ep2d2.rpy:1801
 translate french ep2d2_77381010:
 
     # a pout "I think you’re still a very good person, \nMarina."
-    a pout ""
+    a pout "Je pense que tu es toujours une très bonne personne Marina."
 
 # game/ep2d2.rpy:1805
 translate french ep2d2_e612037c_13:
