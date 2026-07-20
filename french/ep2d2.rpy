@@ -2,13 +2,13 @@
 translate french ep2d2_489e1ffa:
 
     # "Aaaagh, I forgot!!" with vpunch
-    "" with vpunch
+    "Aaaah, j’ai oublié!!" with vpunch
 
 # game/ep2d2.rpy:10
 translate french ep2d2_012759e5:
 
     # extend " I totally forgot!"
-    extend ""
+    extend " J’ai entièrement oublié."
 
 # game/ep2d2.rpy:11
 translate french ep2d2_caef2da3:

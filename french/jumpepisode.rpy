@@ -2,5 +2,5 @@
 
     # game/jumpepisode.rpy:3
     old "JUMP EPISODE"
-    new ""
+    new "JUMP EPISODE"
 

@@ -23,8 +23,8 @@ If you want to unintall the patch, you must delete the "tl" folder from your gam
 # État de la traduction :
 - Menus : Fini.
 - Épisode 0 : Fini.
-- Épisode 1 : En cours.
-- Épisode 2 : Pas commencé.
+- Épisode 1 : Fini.
+- Épisode 2 : En cours. (0/7 fichiers finis)
 - Épisode 3 : Pas commencé.
 
 <br><br>
@@ -44,11 +44,9 @@ If you want to unintall the patch, you must delete the "tl" folder from your gam
 <br><br>
 
 ## Estimation de la date de sortie de la 1.0 du patch FR
-Fin 2026/Début 2027.
-*(date suceptible de changer.)*
+Fin 2026/Début 2027. *(date suceptible de changer.)*
 
-Late 2026 or early 2027.
-*(deadline can be changed.)*
+Late 2026 or early 2027. *(deadline can be changed.)*
 
 ---
 

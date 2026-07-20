@@ -1138,7 +1138,7 @@
 
     # renpy/common/_errorhandling.rpym:622
     old "Ignore"
-    new ""
+    new "Ignorer"
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue."
@@ -1154,7 +1154,7 @@
 
     # renpy/common/_errorhandling.rpym:634
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recharge le jeu depuis le disque, sauvegardant et restorant l’état du jeu si c’est possible."
 
     # renpy/common/_errorhandling.rpym:637
     old "Console"
@@ -1162,7 +1162,7 @@
 
     # renpy/common/_errorhandling.rpym:639
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Ouvre une console pour débugger le problème."
 
     # renpy/common/_errorhandling.rpym:652
     old "Quits the game."
@@ -1171,4 +1171,3 @@
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Analyse du script échouée."
-
