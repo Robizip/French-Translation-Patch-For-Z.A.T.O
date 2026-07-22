@@ -1142,11 +1142,11 @@
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignore l’erreur, permettant de continuer."
 
     # renpy/common/_errorhandling.rpym:628
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignore l’erreur, permettant de continuer. Cela peut parfois causer d’autres erreurs."
 
     # renpy/common/_errorhandling.rpym:632
     old "Reload"
