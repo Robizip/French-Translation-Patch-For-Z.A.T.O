@@ -2145,4 +2145,3 @@ translate french ep2d3_5815975c:
 
     # extend "sya..?"
     extend ""
-

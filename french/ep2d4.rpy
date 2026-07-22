@@ -5501,4 +5501,3 @@ translate french ep2d4_a40f62a1:
 
     # extend " I really, really miss you."
     extend ""
-

@@ -11661,4 +11661,3 @@ translate french ep2d5_b097c490:
 
     # extend " \nNo matter how much I chew, the cake doesn't taste like anything."
     extend ""
-

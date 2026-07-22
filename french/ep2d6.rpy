@@ -6249,4 +6249,3 @@ translate french ep2d6_0a8c513b:
 
     # extend " deep in my heart, hope reared its ugly head."
     extend ""
-

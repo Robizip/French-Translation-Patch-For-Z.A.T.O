@@ -20,7 +20,7 @@ translate french ep2d2_caef2da3:
 translate french ep2d2_cd3cae04:
 
     # extend " I wanted to ask Marina about the man Ira was seeing."
-    extend ""
+    extend " Je voulais des question à Marina sur l’homme qu’Ira voit."
 
 # game/ep2d2.rpy:13
 translate french ep2d2_7af5c033:
@@ -32,7 +32,7 @@ translate french ep2d2_7af5c033:
 translate french ep2d2_91ffb1a3:
 
     # extend " \nI'm not sure if I knew Ira at all."
-    extend ""
+    extend " Je ne suis pas sûre de vraiment connaître Ira après tout."
 
 # game/ep2d2.rpy:24
 translate french ep2d2_905e61a2:
@@ -44,31 +44,31 @@ translate french ep2d2_905e61a2:
 translate french ep2d2_7b4fd6a8:
 
     # extend " Dad said about what I'd expected."
-    extend ""
+    extend " Père"
 
 # game/ep2d2.rpy:28
 translate french ep2d2_b2a0a435:
 
     # d "Ah, Grachevsky’s daughter."
-    d ""
+    d "Ah, la fille des Grachevsky."
 
 # game/ep2d2.rpy:29
 translate french ep2d2_cb21057c:
 
     # extend " Yes, we got a notice."
-    extend ""
+    extend "Oui, nous avons eu l’avis."
 
 # game/ep2d2.rpy:30
 translate french ep2d2_ba086d34:
 
     # a neutral "You know Ira’s dad?"
-    a neutral ""
+    a neutral "Tu connais le père d’Ira?"
 
 # game/ep2d2.rpy:31
 translate french ep2d2_2399f251:
 
     # extend " Did you see him yesterday?"
-    extend ""
+    extend " L’as-tu vu hier?"
 
 # game/ep2d2.rpy:32
 translate french ep2d2_7389c246:
@@ -80,13 +80,13 @@ translate french ep2d2_7389c246:
 translate french ep2d2_da58528d:
 
     # extend " I don't think he came into work."
-    extend ""
+    extend " Je ne crois pas qu’il vienne au travail."
 
 # game/ep2d2.rpy:34
 translate french ep2d2_5889224b:
 
     # a troubled "I see..."
-    a troubled ""
+    a troubled "Je vois..."
 
 # game/ep2d2.rpy:35
 translate french ep2d2_6568204c:
@@ -5802,19 +5802,19 @@ translate french ep2d2_41ce8d4f:
 translate french ep2d2_1a12b0fe:
 
     # a sadaway "..."
-    a sadaway ""
+    a sadaway "..."
 
 # game/ep2d2.rpy:1586
 translate french ep2d2_db4f96cd:
 
     # extend "Don’t talk about her like that."
-    extend ""
+    extend "Ne parle pas d’elle comme ça."
 
 # game/ep2d2.rpy:1589
 translate french ep2d2_112b667a_1:
 
     # m "Huh?"
-    m ""
+    m "Hein?"
 
 # game/ep2d2.rpy:1593
 translate french ep2d2_0d9831f1:
@@ -5826,19 +5826,19 @@ translate french ep2d2_0d9831f1:
 translate french ep2d2_a0543f5f:
 
     # extend " Aska."
-    extend ""
+    extend " Aska."
 
 # game/ep2d2.rpy:1595
 translate french ep2d2_1699baa2:
 
     # extend " You..."
-    extend ""
+    extend "Tu..."
 
 # game/ep2d2.rpy:1598
 translate french ep2d2_1bdb91c4:
 
     # extend " You gotta face reality."
-    extend ""
+    extend " Tu devras faire face à la réalité"
 
 # game/ep2d2.rpy:1599
 translate french ep2d2_318312a7:
@@ -5850,7 +5850,7 @@ translate french ep2d2_318312a7:
 translate french ep2d2_2f4008dc:
 
     # a um "No."
-    a um ""
+    a um "Non."
 
 # game/ep2d2.rpy:1601
 translate french ep2d2_c65a2ab8:
@@ -7564,5 +7564,4 @@ translate french ep2d2_f4fbc01b:
 translate french ep2d2_339476ef:
 
     # extend " I’ll love this world with everything I’ve got."
-    extend ""
-
+    extend "J’aimerais ce monde avec tout ce que j’aurais."

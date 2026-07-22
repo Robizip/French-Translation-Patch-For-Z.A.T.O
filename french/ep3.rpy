@@ -9953,4 +9953,3 @@ translate french ep3_8cd62a0f:
 
     # extend "\n\n[[{cps=0} I{w=0.2} LOVE{w=0.2} YOU.{w=0.2} I{w=0.2} LOVE{w=0.2} YOU.{w=0.2} I{w=0.2} LOVE{w=0.2} YOU. ]"
     extend ""
-
